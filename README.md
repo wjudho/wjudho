@@ -1,4 +1,4 @@
-## Hello World! ![visitors](https://visitor-badge.glitch.me/badge?page_id=wjudho.visitor-badge)
+## :dark_sunglasses: Hello World! ![visitors](https://visitor-badge.glitch.me/badge?page_id=wjudho.visitor-badge)
 
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/wisjnu-judho-85988883/)
@@ -8,7 +8,7 @@
 [![Twitter](https://img.shields.io/badge/-Twitter-1DA1F2?style=flat-square&logo=Twitter&logoColor=white)](https://twitter.com/WijeNu)
 
 
-## ⚡Tech
+## :electron: Tech
 [![R Studio](https://img.shields.io/badge/-R-276DC3?style=flat-square&logo=R&logoColor=white)](https://github.com/topics/r)
 ![Visual_Studio_Code](https://img.shields.io/badge/-VisualStudioCode-007ACC?style=flat-square&logo=VisualStudioCode&logoColor=white)
 [![Python](https://img.shields.io/badge/-Python-14354C?style=flat-square&logo=Python&logoColor=white)](https://github.com/topics/python)
@@ -22,7 +22,7 @@
 ![MySQL](https://img.shields.io/badge/-MySQL-black?style=flat-square&logo=mysql)
 ![Microsoft Excel](https://img.shields.io/badge/-MicrosoftExcel-217346?style=flat-square&logo=MicrosoftExcel&logoColor=white)
 
-## Certificates
+## :books: Certificates
 - [![Foundations: Data, Data, Everywhere](https://img.shields.io/badge/-Coursera-0056D2?style=flat-square&logo=Coursera&logoColor=white)](https://www.coursera.org/account/accomplishments/certificate/BZE8G8YGKJGW) - Foundations: Data, Data, Everywhere
 - [![Ask Questions to Make Data-Driven Decisions](https://img.shields.io/badge/-Coursera-0056D2?style=flat-square&logo=Coursera&logoColor=white)](https://www.coursera.org/account/accomplishments/certificate/YZ437L9JTJ4S) - Ask Questions to Make Data-Driven Decisions
 - [![Prepare Data for Exploration](https://img.shields.io/badge/-Coursera-0056D2?style=flat-square&logo=Coursera&logoColor=white)](https://www.coursera.org/account/accomplishments/certificate/WKJCNMV3LWRA) - Prepare Data for Exploration

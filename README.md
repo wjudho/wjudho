@@ -8,10 +8,14 @@
 
 ## Tools
 [![R Studio](https://img.shields.io/badge/-R-276DC3?style=flat-square&logo=R&logoColor=white)](https://github.com/topics/r)
+![Visual_Studio_Code](https://img.shields.io/badge/-VisualStudioCode-007ACC?style=flat-square&logo=VisualStudioCode&logoColor=white)
 [![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=Python&logoColor=white)](https://github.com/topics/python)
+![Jupyter](https://img.shields.io/badge/-Jupyter-F37626?style=flat-square&logo=Jupyter&logoColor=white)
 ![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat-square&logo=MySQL&logoColor=white)
+![Markdown](https://img.shields.io/badge/-Markdown-000000?style=flat-square&logo=Markdown&logoColor=white)
+![Regular_Expression](https://img.shields.io/badge/-Regular_Expression-004088?style=flat-square)
 ![Tableau](https://img.shields.io/badge/-Tableau-E97627?style=flat-square&logo=Tableau&logoColor=white)
-![Microsoft Excel](https://img.shields.io/badge/-Microsoft_Excel-217346?style=flat-square&logo=Microsoft_Excel&logoColor=white)
+![Microsoft Excel](https://img.shields.io/badge/-MicrosoftExcel-217346?style=flat-square&logo=MicrosoftExcel&logoColor=white)
 
 ## Certificates
 - [![Foundations: Data, Data, Everywhere](https://img.shields.io/badge/-Coursera-0056D2?style=flat-square&logo=Coursera&logoColor=white)](https://www.coursera.org/account/accomplishments/certificate/BZE8G8YGKJGW) - Foundations: Data, Data, Everywhere
@@ -26,6 +30,6 @@
 - [![Memulai Pemrograman Dengan Python](https://img.shields.io/badge/-Dicoding-071D49?style=flat-square)](https://www.dicoding.com/certificates/QLZ9KKQ0MZ5D) - Memulai Pemrograman Dengan Python
 - [![Python for Beginners](https://img.shields.io/badge/-Sololearn-149EF2?style=flat-square&logo=Sololearn&logoColor=white)](https://www.sololearn.com/certificates/course/en/23685028/1157/landscape/png) - Python for Beginners
 - [![Python for Beginners](https://img.shields.io/badge/-Sololearn-149EF2?style=flat-square&logo=Sololearn&logoColor=white)](https://www.sololearn.com/certificates/course/en/23685028/1060/landscape/png) - SQL
-- [![Data Wrangling Python](https://img.shields.io/badge/-DQLAB-83B81A?style=flat-square)](https://www.sololearn.com/certificates/course/en/23685028/1060/landscape/png) - Data Wrangling Python
+- [![Data Wrangling Python](https://img.shields.io/badge/-DQLAB-83B81A?style=flat-square)](https://academy.dqlab.id/Certificate_check_2/result/DQLABDTWP1AQRHGB) - Data Wrangling Python
 
 

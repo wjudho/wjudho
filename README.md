@@ -22,7 +22,7 @@
 ![MySQL](https://img.shields.io/badge/-MySQL-black?style=flat-square&logo=mysql)
 ![Microsoft Excel](https://img.shields.io/badge/-MicrosoftExcel-217346?style=flat-square&logo=MicrosoftExcel&logoColor=white)
 
-## :books: Certificates
+## :bookmark_tabs: Certificates
 - [![Foundations: Data, Data, Everywhere](https://img.shields.io/badge/-Coursera-0056D2?style=flat-square&logo=Coursera&logoColor=white)](https://www.coursera.org/account/accomplishments/certificate/BZE8G8YGKJGW) - Foundations: Data, Data, Everywhere
 - [![Ask Questions to Make Data-Driven Decisions](https://img.shields.io/badge/-Coursera-0056D2?style=flat-square&logo=Coursera&logoColor=white)](https://www.coursera.org/account/accomplishments/certificate/YZ437L9JTJ4S) - Ask Questions to Make Data-Driven Decisions
 - [![Prepare Data for Exploration](https://img.shields.io/badge/-Coursera-0056D2?style=flat-square&logo=Coursera&logoColor=white)](https://www.coursera.org/account/accomplishments/certificate/WKJCNMV3LWRA) - Prepare Data for Exploration

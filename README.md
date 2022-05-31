@@ -4,7 +4,7 @@
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/wisjnu-judho-85988883/)
 [![HackerRank](https://img.shields.io/badge/-HackerRank-00EA64?style=flat-square&logo=HackerRank&logoColor=white)](https://www.hackerrank.com/wcodex88)
 [![Instagram](https://img.shields.io/badge/-Instagram-e4405f?style=flat-square&logo=Instagram&logoColor=white)](https://www.instagram.com/wijnu/)
-[![Twitter](https://img.shields.io/badge/-Twitter-1DA1F2?style=flat-square&logo=Twitter&logoColor=white)]([https://www.instagram.com/wijnu/](https://twitter.com/WijeNu))
+[![Twitter](https://img.shields.io/badge/-Twitter-1DA1F2?style=flat-square&logo=Twitter&logoColor=white)](https://twitter.com/WijeNu)
 
 
 ## Tech!

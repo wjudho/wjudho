@@ -10,6 +10,9 @@
 
 ## :electron: Tech
 [![R Studio](https://img.shields.io/badge/-R-276DC3?style=flat-square&logo=R&logoColor=white)](https://github.com/topics/r)
+[![Notion](https://img.shields.io/badge/-Notion-000000?style=flat-square&logo=Notion&logoColor=white)](https://www.notion.so/)
+[![KhanAcademy](https://img.shields.io/badge/-KhanAcademy-14BF96?style=flat-square&logo=KhanAcademy&logoColor=white)](https://www.khanacademy.org/)
+[![Discord](https://img.shields.io/badge/-Discord-5865F2?style=flat-square&logo=Discord&logoColor=white)](https://discord.com/)
 [![Visual_Studio_Code](https://img.shields.io/badge/-VisualStudioCode-007ACC?style=flat-square&logo=VisualStudioCode&logoColor=white)](https://code.visualstudio.com/)
 [![Python](https://img.shields.io/badge/-Python-14354C?style=flat-square&logo=Python&logoColor=white)](https://github.com/topics/python)
 [![Jupyter](https://img.shields.io/badge/-Jupyter-F37626?style=flat-square&logo=Jupyter&logoColor=white)](https://jupyter.org/)

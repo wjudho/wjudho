@@ -10,17 +10,19 @@
 
 ## :electron: Tech
 [![R Studio](https://img.shields.io/badge/-R-276DC3?style=flat-square&logo=R&logoColor=white)](https://github.com/topics/r)
-![Visual_Studio_Code](https://img.shields.io/badge/-VisualStudioCode-007ACC?style=flat-square&logo=VisualStudioCode&logoColor=white)
+[![Visual_Studio_Code](https://img.shields.io/badge/-VisualStudioCode-007ACC?style=flat-square&logo=VisualStudioCode&logoColor=white)](https://code.visualstudio.com/)
 [![Python](https://img.shields.io/badge/-Python-14354C?style=flat-square&logo=Python&logoColor=white)](https://github.com/topics/python)
-![Jupyter](https://img.shields.io/badge/-Jupyter-F37626?style=flat-square&logo=Jupyter&logoColor=white)
-![SQL](https://custom-icon-badges.herokuapp.com/badge/SQL-025E8C.svg?logo=database&logoColor=white)
-![Markdown](https://img.shields.io/badge/-Markdown-000000?style=flat-square&logo=Markdown&logoColor=white)
-![Regular_Expression](https://img.shields.io/badge/-Regular_Expression-004088?style=flat-square)
-![Tableau](https://img.shields.io/badge/-Tableau-17bebb?style=flat-square&logo=Tableau&logoColor=white)
-![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)
-![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)
-![MySQL](https://img.shields.io/badge/-MySQL-black?style=flat-square&logo=mysql)
-![Microsoft Excel](https://img.shields.io/badge/-MicrosoftExcel-217346?style=flat-square&logo=MicrosoftExcel&logoColor=white)
+[![Jupyter](https://img.shields.io/badge/-Jupyter-F37626?style=flat-square&logo=Jupyter&logoColor=white)](https://jupyter.org/)
+[![SQL](https://custom-icon-badges.herokuapp.com/badge/SQL-025E8C.svg?logo=database&logoColor=white)](https://www.w3schools.com/sql/sql_operators.asp)
+[![Markdown](https://img.shields.io/badge/-Markdown-000000?style=flat-square&logo=Markdown&logoColor=white)](https://www.markdownguide.org/)
+[![Regular_Expression](https://img.shields.io/badge/-Regular_Expression-004088?style=flat-square)](https://docs.pexip.com/admin/regex_reference.htm)
+[![Tableau](https://img.shields.io/badge/-Tableau-17bebb?style=flat-square&logo=Tableau&logoColor=white)](https://www.tableau.com/products/public)
+[![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)](https://desktop.github.com/)
+[![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)](https://github.com/wjudho)
+[![MySQL](https://img.shields.io/badge/-MySQL-black?style=flat-square&logo=mysql)](https://dev.mysql.com/downloads/installer/)
+[![Microsoft Excel](https://img.shields.io/badge/-MicrosoftExcel-217346?style=flat-square&logo=MicrosoftExcel&logoColor=white)](https://www.microsoft.com/en-us/microsoft-365/excel)
+[![Windows](https://img.shields.io/badge/-Windows-0078D6?style=flat-square&logo=Windows&logoColor=white)](https://www.microsoft.com/en-us/windows)
+
 
 ## :bookmark_tabs: Certificates
 - [![Foundations: Data, Data, Everywhere](https://img.shields.io/badge/-Coursera-0056D2?style=flat-square&logo=Coursera&logoColor=white)](https://www.coursera.org/account/accomplishments/certificate/BZE8G8YGKJGW) - Foundations: Data, Data, Everywhere
@@ -36,5 +38,3 @@
 - [![Python for Beginners](https://img.shields.io/badge/-Sololearn-149EF2?style=flat-square&logo=Sololearn&logoColor=white)](https://www.sololearn.com/certificates/course/en/23685028/1157/landscape/png) - Python for Beginners
 - [![Python for Beginners](https://img.shields.io/badge/-Sololearn-149EF2?style=flat-square&logo=Sololearn&logoColor=white)](https://www.sololearn.com/certificates/course/en/23685028/1060/landscape/png) - SQL
 - [![Data Wrangling Python](https://img.shields.io/badge/-DQLAB-83B81A?style=flat-square)](https://academy.dqlab.id/Certificate_check_2/result/DQLABDTWP1AQRHGB) - Data Wrangling Python
-
-

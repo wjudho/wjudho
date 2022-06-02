@@ -1,4 +1,4 @@
-## :dark_sunglasses: Hello World! ![visitors](https://visitor-badge.glitch.me/badge?page_id=wjudho.visitor-badge)
+## :dark_sunglasses: Hello World! ![visitors](https://visitor-badge-reloaded.herokuapp.com/badge?page_id=wjudho.visitor-badge)
 
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/wisjnu-judho-85988883/)

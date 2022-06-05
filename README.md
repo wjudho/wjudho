@@ -50,4 +50,5 @@
 
 ## :bookmark_tabs: Resources from Around The Internet
 - [![R Cookbook: Proven Recipes for Data Analysis, Statistics, and Graphics](https://img.shields.io/badge/-R&nbsp;Cookbook:&nbsp;Proven&nbsp;Recipes&nbsp;for&nbsp;Data&nbsp;Analysis,&nbsp;Statistics,&nbsp;and&nbsp;Graphics-f9f2e6?style=flat-square)](https://rc2e.com/)<br>
-- [![&nbsp;- R for Data Science: Import, Tidy, Transform, Visualize, and Model Data](https://img.shields.io/badge/-R&nbsp;for&nbsp;Data&nbsp;Science:&nbsp;Import,&nbsp;Tidy,&nbsp;Transform,&nbsp;Visualize,&nbsp;and&nbsp;Model&nbsp;Data-eb4255?style=flat-square)](https://r4ds.had.co.nz/index.html)
+- [![&nbsp;- R for Data Science: Import, Tidy, Transform, Visualize, and Model Data](https://img.shields.io/badge/-R&nbsp;for&nbsp;Data&nbsp;Science:&nbsp;Import,&nbsp;Tidy,&nbsp;Transform,&nbsp;Visualize,&nbsp;and&nbsp;Model&nbsp;Data-eb4255?style=flat-square)](https://r4ds.had.co.nz/index.html)<br>
+- [![&nbsp;- R for Data Science: Import, Tidy, Transform, Visualize, and Model Data](https://img.shields.io/badge/-R&nbsp;for&nbsp;Data&nbsp;Science:&nbsp;Solutions-eb4255?style=flat-square)](https://jrnold.github.io/r4ds-exercise-solutions/)

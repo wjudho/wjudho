@@ -53,7 +53,7 @@
 * [![R for Data Science: Import, Tidy, Transform, Visualize, and Model Data](<img src="/wjudho/svg/book-svgrepo-com.svg" width="200" height="200">)](https://r4ds.had.co.nz/index.html)
 
 
-<img src="/wjudho/svg/book-svgrepo-com%20(1).svg" width="20" height="20">
+<img src="https://github.com/wjudho/wjudho/blob/main/svg/book-svgrepo-com%20(1).svg" width="20" height="20">
 
 
 

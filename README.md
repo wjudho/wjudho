@@ -49,9 +49,8 @@
 - [![Data Wrangling Python](https://img.shields.io/badge/-DQLAB-83B81A?style=flat-square)](https://academy.dqlab.id/Certificate_check_2/result/DQLABDTWP1AQRHGB) - Data Wrangling Python
 
 ## :bookmark_tabs: Resources from Around The Internet
-* [![&nbsp;- R Cookbook: Proven Recipes for Data Analysis, Statistics, and Graphics](<img width="32" height="32" src="https://raw.githubusercontent.com/wjudho/wjudho/main/svg/book-svgrepo-com%20(1).svg">)](https://rc2e.com/)  
+* [![&nbsp;- R Cookbook: Proven Recipes for Data Analysis, Statistics, and Graphics](<img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@7.0.0/icons/readthedocs.svg" />)](https://rc2e.com/)  
 * [![&nbsp;- R for Data Science: Import, Tidy, Transform, Visualize, and Model Data](<img src="https://github.com/wjudho/wjudho/blob/main/svg/book-svgrepo-com%20(1).svg" width="20" height="20">)](https://r4ds.had.co.nz/index.html)
-
 
 
 

@@ -9,16 +9,19 @@
 
 
 ## :electron: Tech
-[![R Studio](https://img.shields.io/badge/-R-276DC3?style=flat-square&logo=R&logoColor=white)](https://github.com/topics/r)
+[![R](https://img.shields.io/badge/-R-276DC3?style=flat-square&logo=R&logoColor=white)](https://github.com/topics/r)
+[![RStudio](https://img.shields.io/badge/-RStudio-75AADB?style=flat-square&logo=RStudio&logoColor=white)](https://github.com/topics/r)
 [![Notion](https://img.shields.io/badge/-Notion-000000?style=flat-square&logo=Notion&logoColor=white)](https://www.notion.so/)
 [![KhanAcademy](https://img.shields.io/badge/-KhanAcademy-14BF96?style=flat-square&logo=KhanAcademy&logoColor=white)](https://www.khanacademy.org/)
+[![Slack](https://img.shields.io/badge/-Slack-4A154B?style=flat-square&logo=Slack&logoColor=white)](https://slack.com/)
 [![Discord](https://img.shields.io/badge/-Discord-5865F2?style=flat-square&logo=Discord&logoColor=white)](https://discord.com/)
+[![GoogleCloud](https://img.shields.io/badge/-GoogleCloud-4285F4?style=flat-square&logo=GoogleCloud&logoColor=white)](https://cloud.google.com/)
+[![Markdown](https://img.shields.io/badge/-Markdown-000000?style=flat-square&logo=Markdown&logoColor=white)](https://www.markdownguide.org/)
 [![Visual_Studio_Code](https://img.shields.io/badge/-VisualStudioCode-007ACC?style=flat-square&logo=VisualStudioCode&logoColor=white)](https://code.visualstudio.com/)
 [![Python](https://img.shields.io/badge/-Python-14354C?style=flat-square&logo=Python&logoColor=white)](https://github.com/topics/python)
 [![Jupyter](https://img.shields.io/badge/-Jupyter-F37626?style=flat-square&logo=Jupyter&logoColor=white)](https://jupyter.org/)
 [![SQL](https://custom-icon-badges.herokuapp.com/badge/SQL-025E8C.svg?logo=database&logoColor=white)](https://www.w3schools.com/sql/sql_operators.asp)
-[![Markdown](https://img.shields.io/badge/-Markdown-000000?style=flat-square&logo=Markdown&logoColor=white)](https://www.markdownguide.org/)
-[![Regular_Expression](https://img.shields.io/badge/-Regular_Expression-004088?style=flat-square)](https://docs.pexip.com/admin/regex_reference.htm)
+[![Regular_Expression](https://img.shields.io/badge/-Regular_Expression-004088?style=flat-square)](https://regexr.com/)
 [![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=HTML5&logoColor=white)](https://developer.mozilla.org/en-US/docs/Learn/Getting_started_with_the_web/HTML_basics)
 [![Tableau](https://img.shields.io/badge/-Tableau-17bebb?style=flat-square&logo=Tableau&logoColor=white)](https://www.tableau.com/products/public)
 [![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)](https://desktop.github.com/)

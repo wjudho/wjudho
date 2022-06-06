@@ -49,7 +49,7 @@
 ## :bookmark_tabs: Resources from Around The Internet 
 ###### these aren't mine, it belongs to the respective owners
 
-|R Books|Handling Messy Data|
+|**R Books**|**Handling Messy Data**|
 |:-------|:-------|
 |[![&nbsp;R Cookbook: Proven Recipes for Data Analysis, Statistics, and Graphics](https://img.shields.io/badge/-R&nbsp;Cookbook:&nbsp;Proven&nbsp;Recipes&nbsp;for&nbsp;Data&nbsp;Analysis,&nbsp;Statistics,&nbsp;and&nbsp;Graphics-f9f2e6?style=flat-square)](https://rc2e.com/)                                                |[![](https://img.shields.io/badge/Tidyr:&nbsp;complete&nbsp;dropna&nbsp;expand&nbsp;crossing&nbsp;full_seq&nbsp;fill&nbsp;replace_na-5580cc?style=flat-square)](https://tidyr.tidyverse.org/reference/index.html#missing-values)                               |
 |[![&nbsp;R for Data Science: Import, Tidy, Transform, Visualize, and Model Data](https://img.shields.io/badge/-R&nbsp;for&nbsp;Data&nbsp;Science:&nbsp;Import,&nbsp;Tidy,&nbsp;Transform,&nbsp;Visualize,&nbsp;and&nbsp;Model&nbsp;Data-eb4255?style=flat-square)](https://r4ds.had.co.nz/index.html)                                |[![](https://img.shields.io/badge/Tidyr:&nbsp;chop&nbsp;unchop&nbsp;pack&nbsp;unpack&nbsp;uncount&nbsp;-5580cc?style=flat-square)](https://tidyr.tidyverse.org/reference/index.html#character-vectors)                                            |

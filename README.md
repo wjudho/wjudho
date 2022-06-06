@@ -35,7 +35,7 @@
 
 ## :bookmark_tabs: Certificates
 |   	    |   	    |
-|-------	|----------	|
+|:-------	|----------:|
 |[![Foundations: Data, Data, Everywhere](https://img.shields.io/badge/-Coursera-0056D2?style=flat-square&logo=Coursera&logoColor=white)](https://www.coursera.org/account/accomplishments/certificate/BZE8G8YGKJGW) - Foundations: Data, Data, Everywhere     	|[![SQL (Basic)](https://img.shields.io/badge/-HackerRank-1ba94c?style=flat-square&logo=HackerRank&logoColor=white)](https://www.hackerrank.com/certificates/6f722d2d8292) - SQL (Basic)        	|
 |[![Ask Questions to Make Data-Driven Decisions](https://img.shields.io/badge/-Coursera-0056D2?style=flat-square&logo=Coursera&logoColor=white)](https://www.coursera.org/account/accomplishments/certificate/YZ437L9JTJ4S) - Ask Questions to Make Data-Driven Decisions     	|[![Python for Beginners](https://img.shields.io/badge/-Sololearn-149EF2?style=flat-square&logo=Sololearn&logoColor=white)](https://www.sololearn.com/certificates/course/en/23685028/1157/landscape/png) - Python for Beginners        	|
 |[![Prepare Data for Exploration](https://img.shields.io/badge/-Coursera-0056D2?style=flat-square&logo=Coursera&logoColor=white)](https://www.coursera.org/account/accomplishments/certificate/WKJCNMV3LWRA) - Prepare Data for Exploration	|[![SQL](https://img.shields.io/badge/-Sololearn-149EF2?style=flat-square&logo=Sololearn&logoColor=white)](https://www.sololearn.com/certificates/course/en/23685028/1060/landscape/png) - SQL   	|

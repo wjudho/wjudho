@@ -46,17 +46,20 @@
 |---|---|
 |---|---|
 
-## :bookmark_tabs: Resources from Around The Internet
+## :bookmark_tabs: Resources from Around The Internet 
+###### these aren't mine, it belongs to the respective owners
 
-|Books|Example|
+|:R Books:|:Handling Messy Data:|
 |:-------|:-------|
 |[![&nbsp;R Cookbook: Proven Recipes for Data Analysis, Statistics, and Graphics](https://img.shields.io/badge/-R&nbsp;Cookbook:&nbsp;Proven&nbsp;Recipes&nbsp;for&nbsp;Data&nbsp;Analysis,&nbsp;Statistics,&nbsp;and&nbsp;Graphics-f9f2e6?style=flat-square)](https://rc2e.com/)                                                |[![](https://img.shields.io/badge/Tidyr:&nbsp;complete&nbsp;dropna&nbsp;expand&nbsp;crossing&nbsp;full_seq&nbsp;fill&nbsp;replace_na-5580cc?style=flat-square)](https://tidyr.tidyverse.org/reference/index.html#missing-values)                               |
 |[![&nbsp;R for Data Science: Import, Tidy, Transform, Visualize, and Model Data](https://img.shields.io/badge/-R&nbsp;for&nbsp;Data&nbsp;Science:&nbsp;Import,&nbsp;Tidy,&nbsp;Transform,&nbsp;Visualize,&nbsp;and&nbsp;Model&nbsp;Data-eb4255?style=flat-square)](https://r4ds.had.co.nz/index.html)                                |[![](https://img.shields.io/badge/Tidyr:&nbsp;chop&nbsp;unchop&nbsp;pack&nbsp;unpack&nbsp;uncount&nbsp;-5580cc?style=flat-square)](https://tidyr.tidyverse.org/reference/index.html#character-vectors)                                            |
 |[![&nbsp;R for Data Science: Import, Tidy, Transform, Visualize, and Model Data](https://img.shields.io/badge/-R&nbsp;for&nbsp;Data&nbsp;Science:&nbsp;Solutions-eb4255?style=flat-square)](https://jrnold.github.io/r4ds-exercise-solutions/)                         |[![](https://img.shields.io/badge/Tidyr:&nbsp;extract&nbsp;separate&nbsp;unite-5580cc?style=flat-square)](https://tidyr.tidyverse.org/reference/index.html#character-vectors)                            |
 |[![&nbsp;R Books Collection](https://img.shields.io/badge/-R&nbsp;Books&nbsp;Collection-976598?style=flat-square)](https://bookdown.org/)                                                              |[![](https://img.shields.io/badge/Tidyr:&nbsp;Foundation&nbsp;Programming-005aff?style=flat-square)](https://tidyr.tidyverse.org/articles/programming.html?search-input=%21Species?q=all%20%20column%20except#undefined)                              |
-|---                                                               |[![](https://img.shields.io/badge/-Tidyr:&nbsp;Pivot-005aff?style=flat-square)](https://tidyr.tidyverse.org/articles/pivot.html)                                                              |
-|---                                                               |[![](https://img.shields.io/badge/-Tidyr:&nbsp;Nest-005aff?style=flat-square)](https://tidyr.tidyverse.org/articles/nest.html)|
-|---                                                               |[![](https://img.shields.io/badge/-Tidyr:&nbsp;Unnest-005aff?style=flat-square)](https://tidyr.tidyverse.org/articles/rectangle.html)                                                              |
-|---|---|
-|---|---|
-|---|---|
+|:Grammar of Data Manipulation:                                    |[![](https://img.shields.io/badge/-Tidyr:&nbsp;Pivot-005aff?style=flat-square)](https://tidyr.tidyverse.org/articles/pivot.html)                                                              |
+|[![](https://img.shields.io/badge/-Dplyr:&nbsp;Grouped&nbsp;data-008080?style=flat-square)](https://dplyr.tidyverse.org/articles/grouping.html)                                            |[![](https://img.shields.io/badge/-Tidyr:&nbsp;Nest-005aff?style=flat-square)](https://tidyr.tidyverse.org/articles/nest.html)|
+|[![](https://img.shields.io/badge/-Dplyr:&nbsp;Two&#8209;table&nbsp;verbs-008080?style=flat-square)](https://dplyr.tidyverse.org/articles/two-table.html)                                           |[![](https://img.shields.io/badge/-Tidyr:&nbsp;Unnest-005aff?style=flat-square)](https://tidyr.tidyverse.org/articles/rectangle.html)                                                              |
+|[![](https://img.shields.io/badge/-Dplyr:&nbsp;Two&#8209;Programming&nbsp;with&nbsp;dplyr-008080?style=flat-square)](https://dplyr.tidyverse.org/articles/programming.html)                     |---                                                                |
+|[![](https://img.shields.io/badge/-Dplyr:&nbsp;Compare&nbsp;with&nbsp;base&nbsp;R-008080?style=flat-square)](https://dplyr.tidyverse.org/articles/base.html)                                            |---                                                                |
+|[![](https://img.shields.io/badge/-Dplyr:&nbsp;Column&#8209;wise&nbsp;operations-008080?style=flat-square)](https://dplyr.tidyverse.org/articles/colwise.html)                                         |---                                                                |
+|[![](https://img.shields.io/badge/-Dplyr:&nbsp;Row&#8209;wise&nbsp;operations-008080?style=flat-square)](https://dplyr.tidyverse.org/articles/rowwise.html)                                             |
+---                                                                |

@@ -9,26 +9,27 @@
 
 
 ## :electron: Tech
-[![R](https://img.shields.io/badge/-R-276DC3?style=flat-square&logo=R&logoColor=white)](https://github.com/topics/r)
-[![RStudio](https://img.shields.io/badge/-RStudio-75AADB?style=flat-square&logo=RStudio&logoColor=white)](https://github.com/topics/r)
-[![Notion](https://img.shields.io/badge/-Notion-000000?style=flat-square&logo=Notion&logoColor=white)](https://www.notion.so/)
-[![KhanAcademy](https://img.shields.io/badge/-KhanAcademy-14BF96?style=flat-square&logo=KhanAcademy&logoColor=white)](https://www.khanacademy.org/)
-[![Slack](https://img.shields.io/badge/-Slack-4A154B?style=flat-square&logo=Slack&logoColor=white)](https://slack.com/)
-[![Discord](https://img.shields.io/badge/-Discord-5865F2?style=flat-square&logo=Discord&logoColor=white)](https://discord.com/)
-[![GoogleCloud](https://img.shields.io/badge/-GoogleCloud-4285F4?style=flat-square&logo=GoogleCloud&logoColor=white)](https://cloud.google.com/)
-[![Markdown](https://img.shields.io/badge/-Markdown-000000?style=flat-square&logo=Markdown&logoColor=white)](https://www.markdownguide.org/)
-[![Visual_Studio_Code](https://img.shields.io/badge/-VisualStudioCode-007ACC?style=flat-square&logo=VisualStudioCode&logoColor=white)](https://code.visualstudio.com/)
-[![Python](https://img.shields.io/badge/-Python-14354C?style=flat-square&logo=Python&logoColor=white)](https://github.com/topics/python)
-[![Jupyter](https://img.shields.io/badge/-Jupyter-F37626?style=flat-square&logo=Jupyter&logoColor=white)](https://jupyter.org/)
-[![SQL](https://custom-icon-badges.herokuapp.com/badge/SQL-025E8C.svg?logo=database&logoColor=white)](https://www.w3schools.com/sql/sql_operators.asp)
-[![Regular_Expression](https://img.shields.io/badge/-Regular_Expression-004088?style=flat-square)](https://regexr.com/)
-[![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=HTML5&logoColor=white)](https://developer.mozilla.org/en-US/docs/Learn/Getting_started_with_the_web/HTML_basics)
-[![Tableau](https://img.shields.io/badge/-Tableau-17bebb?style=flat-square&logo=Tableau&logoColor=white)](https://www.tableau.com/products/public)
-[![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)](https://desktop.github.com/)
-[![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)](https://github.com/wjudho)
-[![MySQL](https://img.shields.io/badge/-MySQL-black?style=flat-square&logo=mysql)](https://dev.mysql.com/downloads/installer/)
-[![Microsoft Excel](https://img.shields.io/badge/-MicrosoftExcel-217346?style=flat-square&logo=MicrosoftExcel&logoColor=white)](https://www.microsoft.com/en-us/microsoft-365/excel)
-[![Windows](https://img.shields.io/badge/-Windows-0078D6?style=flat-square&logo=Windows&logoColor=white)](https://www.microsoft.com/en-us/windows)
+[![](https://img.shields.io/badge/-R-276DC3?style=flat-square&logo=R&logoColor=white)](https://github.com/topics/r)
+[![](https://img.shields.io/badge/-RStudio-75AADB?style=flat-square&logo=RStudio&logoColor=white)](https://github.com/topics/r)
+[![](https://img.shields.io/badge/-Notion-000000?style=flat-square&logo=Notion&logoColor=white)](https://www.notion.so/)
+[![](https://img.shields.io/badge/-KhanAcademy-14BF96?style=flat-square&logo=KhanAcademy&logoColor=white)](https://www.khanacademy.org/)
+[![](https://img.shields.io/badge/-Slack-4A154B?style=flat-square&logo=Slack&logoColor=white)](https://slack.com/)
+[![](https://img.shields.io/badge/-Discord-5865F2?style=flat-square&logo=Discord&logoColor=white)](https://discord.com/)
+[![](https://img.shields.io/badge/-GoogleCloud-4285F4?style=flat-square&logo=GoogleCloud&logoColor=white)](https://cloud.google.com/)
+[![](https://img.shields.io/badge/-Markdown-000000?style=flat-square&logo=Markdown&logoColor=white)](https://www.markdownguide.org/)
+[![](https://img.shields.io/badge/-VisualStudioCode-007ACC?style=flat-square&logo=VisualStudioCode&logoColor=white)](https://code.visualstudio.com/)
+[![](https://img.shields.io/badge/-Python-14354C?style=flat-square&logo=Python&logoColor=white)](https://github.com/topics/python)
+[![](https://img.shields.io/badge/-Jupyter-F37626?style=flat-square&logo=Jupyter&logoColor=white)](https://jupyter.org/)
+[![](https://custom-icon-badges.herokuapp.com/badge/SQL-025E8C.svg?logo=database&logoColor=white)](https://www.w3schools.com/sql/sql_operators.asp)
+[![](https://img.shields.io/badge/-RegularExpression-004088?style=flat-square)](https://regexr.com/)
+[![](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=HTML5&logoColor=white)](https://developer.mozilla.org/en-US/docs/Learn/Getting_started_with_the_web/HTML_basics)
+[![](https://img.shields.io/badge/-Tableau-17bebb?style=flat-square&logo=Tableau&logoColor=white)](https://www.tableau.com/products/public)
+[![](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)](https://desktop.github.com/)
+[![](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)](https://github.com/wjudho)
+[![](https://img.shields.io/badge/-MySQL-black?style=flat-square&logo=mysql)](https://dev.mysql.com/downloads/installer/)
+[![](https://img.shields.io/badge/-MicrosoftExcel-217346?style=flat-square&logo=MicrosoftExcel&logoColor=white)](https://www.microsoft.com/en-us/microsoft-365/excel)
+[![](https://img.shields.io/badge/-Windows-0078D6?style=flat-square&logo=Windows&logoColor=white)](https://www.microsoft.com/en-us/windows)
+[![](https://img.shields.io/badge/-PowerBI-F2C811?style=flat-square&logo=PowerBI&logoColor=white)](https://docs.microsoft.com/en-us/power-bi/fundamentals/desktop-latest-update-archive?tabs=powerbi-desktop#february-2022-update-21026830)
 
 ## :bookmark_tabs: Portfolio
 - [![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=Github)](https://wjudho.github.io/) - Under Construction
@@ -58,9 +59,10 @@
 |[![](https://img.shields.io/badge/-Dplyr:&nbsp;Grouped&nbsp;data-008080?style=flat-square)](https://dplyr.tidyverse.org/articles/grouping.html)                                            |[![](https://img.shields.io/badge/-Tidyr:&nbsp;Nest-005aff?style=flat-square)](https://tidyr.tidyverse.org/articles/nest.html)|
 |[![](https://img.shields.io/badge/-Dplyr:&nbsp;join&nbsp;union&nbsp;intersect&nbsp;setdiff-008080?style=flat-square)](https://dplyr.tidyverse.org/articles/two-table.html)                       |[![](https://img.shields.io/badge/-Tidyr:&nbsp;Unnest-005aff?style=flat-square)](https://tidyr.tidyverse.org/articles/rectangle.html)                                                              |
 |[![](https://img.shields.io/badge/-Dplyr:&nbsp;Programming&nbsp;with&nbsp;dplyr-008080?style=flat-square)](https://dplyr.tidyverse.org/articles/programming.html)                                     |**Working With Dates and Times**                                   |
-|[![](https://img.shields.io/badge/-Dplyr:&nbsp;base&nbsp;R&nbsp;equivalent-008080?style=flat-square)](https://dplyr.tidyverse.org/articles/base.html)                                                |[![](https://img.shields.io/badge/-Lubridate:&nbsp;Working&nbsp;with&nbsp;lubridate-fada5e?style=flat-square)](https://lubridate.tidyverse.org/reference/index.html)                                                              |
-|[![](https://img.shields.io/badge/-Dplyr:&nbsp;Column&#8209;wise&nbsp;operations-008080?style=flat-square)](https://dplyr.tidyverse.org/articles/colwise.html)                                         |---                                                                |
+|[![](https://img.shields.io/badge/-Dplyr:&nbsp;base&nbsp;R&nbsp;equivalent-008080?style=flat-square)](https://dplyr.tidyverse.org/articles/base.html)                                                |[![](https://img.shields.io/badge/-Lubridate:&nbsp;Working&nbsp;with&nbsp;lubridate-fada5e?style=flat-square)](https://lubridate.tidyverse.org/reference/index.html)                                |
+|[![](https://img.shields.io/badge/-Dplyr:&nbsp;Column&#8209;wise&nbsp;operations-008080?style=flat-square)](https://dplyr.tidyverse.org/articles/colwise.html)                                         |**Others**                                                         |
 |[![](https://img.shields.io/badge/-Dplyr:&nbsp;Row&#8209;wise&nbsp;operations-008080?style=flat-square)](https://dplyr.tidyverse.org/articles/rowwise.html)                                             |
----                                                                |
+[![](https://img.shields.io/badge/-Power&nbsp;BI-FFFFFF?style=flat-square)](https://www.youtube.com/playlist?list=PL7GQQXV5Z8ef2SjkDpLnvsz7TAQjlzlpO)                           |
+|--|--|
 
 

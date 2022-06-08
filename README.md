@@ -53,10 +53,10 @@
 |**R Resources**|**Others**|
 |:-------|:-------|
 |[![](https://img.shields.io/badge/-R&nbsp;Cookbook:&nbsp;Proven&nbsp;Recipes&nbsp;for&nbsp;Data&nbsp;Analysis,&nbsp;Statistics,&nbsp;and&nbsp;Graphics-f9f2e6?style=flat-square)](https://rc2e.com/)                                                                  |[![](https://img.shields.io/badge/-Power&nbsp;BI:&nbsp;Tutorial&nbsp;for&nbsp;Beginners&nbsp;to&nbsp;Pro-F2C811?style=flat-square)](https://www.youtube.com/playlist?list=PL7GQQXV5Z8eeQCLqTIoxjw0POIzHUXPae)                           |
-|[![](https://img.shields.io/badge/-R&nbsp;for&nbsp;Data&nbsp;Science:&nbsp;Import,&nbsp;Tidy,&nbsp;Transform,&nbsp;Visualize,&nbsp;and&nbsp;Model&nbsp;Data-eb4255?style=flat-square)](https://r4ds.had.co.nz/index.html)                                         |[![](https://img.shields.io/badge/-*StatisticsGlobe.com-00A98F?style=flat-square)](https://statisticsglobe.com/)|
-|[![](https://img.shields.io/badge/-R&nbsp;for&nbsp;Data&nbsp;Science:&nbsp;Solutions-eb4255?style=flat-square)](https://jrnold.github.io/r4ds-exercise-solutions/)                                |---|
-|[![](https://img.shields.io/badge/-R&nbsp;Books&nbsp;Collection-976598?style=flat-square)](https://bookdown.org/)                                                                  |---|
-|---|---|
+|[![](https://img.shields.io/badge/-R&nbsp;for&nbsp;Data&nbsp;Science:&nbsp;Import,&nbsp;Tidy,&nbsp;Transform,&nbsp;Visualize,&nbsp;and&nbsp;Model&nbsp;Data-eb4255?style=flat-square)](https://r4ds.had.co.nz/index.html)                                         |**Free Courses**|
+|[![](https://img.shields.io/badge/-R&nbsp;for&nbsp;Data&nbsp;Science:&nbsp;Solutions-eb4255?style=flat-square)](https://jrnold.github.io/r4ds-exercise-solutions/)                                |[![](https://img.shields.io/badge/-Google&nbsp;Data&nbsp;Analytics&nbsp;professional&nbsp;Certificate-00B388?style=flat-square)](https://www.coursera.org/professional-certificates/google-data-analytics?skipBrowseRedirect=true)|
+|[![](https://img.shields.io/badge/-R&nbsp;Books&nbsp;Collection-976598?style=flat-square)](https://bookdown.org/)       |[![](https://img.shields.io/badge/-Machine&nbsp;Learning&nbsp;By&nbsp;Andrew&nbsp;Ng-F01428?style=flat-square)](https://www.coursera.org/learn/machine-learning?skipBrowseRedirect=true)|
+|[![](https://img.shields.io/badge/-*StatisticsGlobe.com-00A98F?style=flat-square)](https://statisticsglobe.com/)                  |[![](https://img.shields.io/badge/-Deep&nbsp;Learning&nbsp;Specialization&nbsp;By&nbsp;Andrew&nbsp;Ng-F01428?style=flat-square)](https://www.coursera.org/specializations/deep-learning?skipBrowseRedirect=true)|
 |---|---|
 |---|---|
 

@@ -48,22 +48,16 @@
 
 ## :bookmark_tabs: Resources from Around The Internet 
 ###### these aren't mine, it belongs to the respective owners
+###### * i use [statisticsglobe.com](https://statisticsglobe.com/) as a reference of functions `(just use search button!, it has many examples and explanation)`
 
-|**R Books**|**R - Handling Messy Data**|
+|**R Resources**|**Others**|
 |:-------|:-------|
-|[![](https://img.shields.io/badge/-R&nbsp;Cookbook:&nbsp;Proven&nbsp;Recipes&nbsp;for&nbsp;Data&nbsp;Analysis,&nbsp;Statistics,&nbsp;and&nbsp;Graphics-f9f2e6?style=flat-square)](https://rc2e.com/)                                                                  |[![](https://img.shields.io/badge/Tidyr:&nbsp;complete&nbsp;dropna&nbsp;expand&nbsp;crossing&nbsp;full_seq&nbsp;fill&nbsp;replace_na-5580cc?style=flat-square)](https://tidyr.tidyverse.org/reference/index.html#missing-values)                               |
-|[![](https://img.shields.io/badge/-R&nbsp;for&nbsp;Data&nbsp;Science:&nbsp;Import,&nbsp;Tidy,&nbsp;Transform,&nbsp;Visualize,&nbsp;and&nbsp;Model&nbsp;Data-eb4255?style=flat-square)](https://r4ds.had.co.nz/index.html)                                         |[![](https://img.shields.io/badge/Tidyr:&nbsp;chop&nbsp;unchop&nbsp;pack&nbsp;unpack&nbsp;uncount&nbsp;-5580cc?style=flat-square)](https://tidyr.tidyverse.org/reference/index.html#character-vectors)                                            |
-|[![](https://img.shields.io/badge/-R&nbsp;for&nbsp;Data&nbsp;Science:&nbsp;Solutions-eb4255?style=flat-square)](https://jrnold.github.io/r4ds-exercise-solutions/)                                |[![](https://img.shields.io/badge/Tidyr:&nbsp;extract&nbsp;separate&nbsp;unite-5580cc?style=flat-square)](https://tidyr.tidyverse.org/reference/index.html#character-vectors)                            |
-|[![](https://img.shields.io/badge/-R&nbsp;Books&nbsp;Collection-976598?style=flat-square)](https://bookdown.org/)                                                                  |[![](https://img.shields.io/badge/Tidyr:&nbsp;Foundation&nbsp;Programming-005aff?style=flat-square)](https://tidyr.tidyverse.org/articles/programming.html?search-input=%21Species?q=all%20%20column%20except#undefined)                              |
-|**R - Grammar of Data Manipulation**                                  |[![](https://img.shields.io/badge/-Tidyr:&nbsp;Pivot-005aff?style=flat-square)](https://tidyr.tidyverse.org/articles/pivot.html)                                                              |
-|[![](https://img.shields.io/badge/-Dplyr:&nbsp;Grouped&nbsp;data-008080?style=flat-square)](https://dplyr.tidyverse.org/articles/grouping.html)                                            |[![](https://img.shields.io/badge/-Tidyr:&nbsp;Nest-005aff?style=flat-square)](https://tidyr.tidyverse.org/articles/nest.html)|
-|[![](https://img.shields.io/badge/-Dplyr:&nbsp;join&nbsp;union&nbsp;intersect&nbsp;setdiff-008080?style=flat-square)](https://dplyr.tidyverse.org/articles/two-table.html)                       |[![](https://img.shields.io/badge/-Tidyr:&nbsp;Unnest-005aff?style=flat-square)](https://tidyr.tidyverse.org/articles/rectangle.html)                                                              |
-|[![](https://img.shields.io/badge/-Dplyr:&nbsp;Programming&nbsp;with&nbsp;dplyr-008080?style=flat-square)](https://dplyr.tidyverse.org/articles/programming.html)                                     |**R - Working With Dates and Times**                                   |
-|[![](https://img.shields.io/badge/-Dplyr:&nbsp;base&nbsp;R&nbsp;equivalent-008080?style=flat-square)](https://dplyr.tidyverse.org/articles/base.html)                                                |[![](https://img.shields.io/badge/-Lubridate:&nbsp;Working&nbsp;with&nbsp;lubridate-6236FF?style=flat-square)](https://lubridate.tidyverse.org/reference/index.html)                                |
-|[![](https://img.shields.io/badge/-Dplyr:&nbsp;Column&#8209;wise&nbsp;operations-008080?style=flat-square)](https://dplyr.tidyverse.org/articles/colwise.html)                                         |**Others**                                                         |
-|[![](https://img.shields.io/badge/-Dplyr:&nbsp;Column&#8209;wise&nbsp;operations-008080?style=flat-square)](https://dplyr.tidyverse.org/articles/rowwise.html)                                         |[![](https://img.shields.io/badge/-Power&nbsp;BI:&nbsp;Tutorial&nbsp;for&nbsp;Beginners&nbsp;to&nbsp;Pro-F2C811?style=flat-square)](https://www.youtube.com/playlist?list=PL7GQQXV5Z8eeQCLqTIoxjw0POIzHUXPae)                           |
+|[![](https://img.shields.io/badge/-R&nbsp;Cookbook:&nbsp;Proven&nbsp;Recipes&nbsp;for&nbsp;Data&nbsp;Analysis,&nbsp;Statistics,&nbsp;and&nbsp;Graphics-f9f2e6?style=flat-square)](https://rc2e.com/)                                                                  |[![](https://img.shields.io/badge/-Power&nbsp;BI:&nbsp;Tutorial&nbsp;for&nbsp;Beginners&nbsp;to&nbsp;Pro-F2C811?style=flat-square)](https://www.youtube.com/playlist?list=PL7GQQXV5Z8eeQCLqTIoxjw0POIzHUXPae)                           |
+|[![](https://img.shields.io/badge/-R&nbsp;for&nbsp;Data&nbsp;Science:&nbsp;Import,&nbsp;Tidy,&nbsp;Transform,&nbsp;Visualize,&nbsp;and&nbsp;Model&nbsp;Data-eb4255?style=flat-square)](https://r4ds.had.co.nz/index.html)                                         |[![](https://img.shields.io/badge/-*StatisticsGlobe.com-00A98F?style=flat-square)](https://statisticsglobe.com/)|
+|[![](https://img.shields.io/badge/-R&nbsp;for&nbsp;Data&nbsp;Science:&nbsp;Solutions-eb4255?style=flat-square)](https://jrnold.github.io/r4ds-exercise-solutions/)                                |---|
+|[![](https://img.shields.io/badge/-R&nbsp;Books&nbsp;Collection-976598?style=flat-square)](https://bookdown.org/)                                                                  |---|
 |---|---|
----|---|
+|---|---|
 |---|---|
 
 

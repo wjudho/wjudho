@@ -57,5 +57,7 @@
 |[![](https://img.shields.io/badge/-StatisticsGlobe*-181717?style=flat-square&logo=R&logoColor=white)](https://statisticsglobe.com/)|   [![](https://img.shields.io/badge/-Microsoft:&nbsp;Machine&nbsp;Learning&nbsp;for&nbsp;Beginners-5E5E5E?style=flat-square&logo=Microsoft&logoColor=white)](https://github.com/microsoft/ML-For-Beginners)|
 |[![](https://img.shields.io/badge/-RStudioCommunity*-181717?style=flat-square&logo=RStudio&logoColor=white)](https://community.rstudio.com/)|                                                                     [![](https://img.shields.io/badge/-khanAcademy:&nbsp;SQL-14BF96?style=flat-square&logo=KhanAcademy&logoColor=white)](https://www.khanacademy.org/computing/computer-programming/sql)|
 |[![](https://img.shields.io/badge/-Tidyverse*-181717?style=flat-square&logo=Github&logoColor=white)](https://github.com/tidyverse)|--|
+
 ###### * i use these website as a reference of functions and place to ask `(just use search button!, it has many examples, questions and explanations)`
 
+###### - apply for `financial aid` in order to get free course in Coursera

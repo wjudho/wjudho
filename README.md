@@ -58,6 +58,6 @@
 |[![](https://img.shields.io/badge/-RStudioCommunity*-181717?style=flat-square&logo=RStudio&logoColor=white)](https://community.rstudio.com/)|                                                                     [![](https://img.shields.io/badge/-khanAcademy:&nbsp;SQL-14BF96?style=flat-square&logo=KhanAcademy&logoColor=white)](https://www.khanacademy.org/computing/computer-programming/sql)|
 |[![](https://img.shields.io/badge/-Tidyverse*-181717?style=flat-square&logo=Github&logoColor=white)](https://github.com/tidyverse)|--|
 
-###### i use these **`website*`** as a reference of functions and place to ask. (just use search button!, it has many examples, questions and explanations)
+###### - i use these **`website*`** as a reference of functions and place to ask. (just use search button!, it has many examples, questions and explanations)
 
 ###### - apply for `financial aid` in order to get free course in Coursera

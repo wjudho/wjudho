@@ -61,7 +61,7 @@
 |:---|:---|
 |[![](https://img.shields.io/badge/-for&nbsp;Data&nbsp;Science:&nbsp;Import,&nbsp;Tidy,&nbsp;Transform,&nbsp;Visualize,&nbsp;and&nbsp;Model&nbsp;Data-FF5D5D?style=flat-square&logo=R&logoColor=white)](https://r4ds.had.co.nz/index.html)| [![](https://img.shields.io/badge/-Statistical&nbsp;Inference&nbsp;via&nbsp;Data&nbsp;Science-FF5D5D?style=flat-square&logo=R&logoColor=white)](https://moderndive.com/)|
 |[![](https://img.shields.io/badge/-Dive&nbsp;into&nbsp;Deep&nbsp;Learning-FF5D5D?style=flat-square&logo=Python&logoColor=white)](https://d2l.ai/)|[![](https://img.shields.io/badge/-Mathematics&nbsp;for&nbsp;Machine&nbsp;Learning-FF5D5D?style=flat-square&logo=learn&logoColor=white)](https://mml-book.com/)|
-###### - there are many other books on statistics and R you can go to [[**bookdown**]](https://bookdown.org/) or [[**freecomputerbooks**]](https://freecomputerbooks.com/)
+###### - there are many other books on these topics you can go to [[**bookdown**]](https://bookdown.org/) or [[**freecomputerbooks**]](https://freecomputerbooks.com/)
 ```
 ```
 |**Cases & Examples with Code**||

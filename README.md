@@ -77,8 +77,7 @@
 
 |**Communities**||
 |:---|:---|
-|[![](https://img.shields.io/badge/-RStudioCommunity*-181717?style=flat-square&logo=RStudio&logoColor=white)](https://community.rstudio.com/)|[![](https://img.shields.io/badge/-PythonCommunity*-181717?style=flat-square&logo=Python&logoColor=white)](https://www.python.org/community/)|
---
+|[![](https://img.shields.io/badge/-RStudioCommunity-181717?style=flat-square&logo=RStudio&logoColor=white)](https://community.rstudio.com/)|[![](https://img.shields.io/badge/-PythonCommunity-181717?style=flat-square&logo=Python&logoColor=white)](https://www.python.org/community/)|
 
 
 

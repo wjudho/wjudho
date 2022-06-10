@@ -54,26 +54,29 @@
 |[![](https://img.shields.io/badge/-Machine&nbsp;Learning&nbsp;Crash&nbsp;Course-4285F4?style=flat-square&logo=Google&logoColor=white)](https://developers.google.com/machine-learning/crash-course)|[![](https://img.shields.io/badge/-Google&nbsp;Data&nbsp;Analytics&nbsp;professional&nbsp;Certificate-0056D2?style=flat-square&logo=Coursera&logoColor=white)](https://www.coursera.org/professional-certificates/google-data-analytics?skipBrowseRedirect=true)|
 |[![](https://img.shields.io/badge/-Machine&nbsp;Learning&nbsp;for&nbsp;Beginners-5E5E5E?style=flat-square&logo=Microsoft&logoColor=white)](https://github.com/microsoft/ML-For-Beginners)|[![](https://img.shields.io/badge/-Machine&nbsp;Learning&nbsp;CS&nbsp;156&nbsp;by&nbsp;Professor&nbsp;Yaser&nbsp;Abu&nbsp;Mustofa-FF0000?style=flat-square&logo=Youtube&logoColor=white)](https://www.youtube.com/playlist?list=PLD63A284B7615313A)|
 |[![](https://img.shields.io/badge/-Machine&nbsp;Learning&nbsp;Indonesia:&nbsp;by&nbsp;Risman&nbsp;Adnan,&nbsp;Ph.D-FF0000?style=flat-square&logo=Youtube&logoColor=white)](https://www.youtube.com/playlist?list=PLMxZwSxrY74xtjQkO68UU86pgj8YlHLgJ)|[![](https://img.shields.io/badge/-SQL-14BF96?style=flat-square&logo=KhanAcademy&logoColor=white)](https://www.khanacademy.org/computing/computer-programming/sql)|
-
+###### - apply for `financial aid` in order to get free course in Coursera
+```
+```
 |**Books**||
 |:---|:---|
 |[![](https://img.shields.io/badge/-for&nbsp;Data&nbsp;Science:&nbsp;Import,&nbsp;Tidy,&nbsp;Transform,&nbsp;Visualize,&nbsp;and&nbsp;Model&nbsp;Data-FF5D5D?style=flat-square&logo=R&logoColor=white)](https://r4ds.had.co.nz/index.html)| [![](https://img.shields.io/badge/-Statistical&nbsp;Inference&nbsp;via&nbsp;Data&nbsp;Science-FF5D5D?style=flat-square&logo=R&logoColor=white)](https://moderndive.com/)|
 |[![](https://img.shields.io/badge/-Dive&nbsp;into&nbsp;Deep&nbsp;Learning-FF5D5D?style=flat-square&logo=Python&logoColor=white)](https://d2l.ai/)|[![](https://img.shields.io/badge/-Mathematics&nbsp;for&nbsp;Machine&nbsp;Learning-FF5D5D?style=flat-square&logo=learn&logoColor=white)](https://mml-book.com/)|
-
-
-
+###### - there are many other books on statistics and R you can go to [[**bookdown**]](https://bookdown.org/) or [[**freecomputerbooks**]](https://freecomputerbooks.com/)
+```
+```
 |**Cases & Examples with Code**||
 |:---|:---|
-|[![](https://img.shields.io/badge/-Kaggle&nbsp;Datasets*-181717?style=flat-square&logo=Kaggle&logoColor=white)](https://www.kaggle.com/datasets)|[![](https://img.shields.io/badge/-StatisticsGlobe*-181717?style=flat-square&logo=R&logoColor=white)](https://statisticsglobe.com/)|
-|[![](https://img.shields.io/badge/-StatisticsGlobe*-181717?style=flat-square&logo=Python&logoColor=white)](://community.rstudio.com/)|[![](https://img.shields.io/badge/-PapersWithCode*-181717?style=flat-square&logo=Python&logoColor=white)](https://paperswithcode.com/)| 
-|[![](https://img.shields.io/badge/-PandasExercises*-181717?style=flat-square&logo=Python&logoColor=white)](https://github.com/guipsamora/pandas_exercises#getting-and-knowing)|     --|
-
+|[![](https://img.shields.io/badge/-Kaggle&nbsp;Datasets-181717?style=flat-square&logo=Kaggle&logoColor=white)](https://www.kaggle.com/datasets)|[![](https://img.shields.io/badge/-StatisticsGlobe-181717?style=flat-square&logo=R&logoColor=white)](https://statisticsglobe.com/)|
+|[![](https://img.shields.io/badge/-StatisticsGlobe-181717?style=flat-square&logo=Python&logoColor=white)](://community.rstudio.com/)|[![](https://img.shields.io/badge/-PapersWithCode-181717?style=flat-square&logo=Python&logoColor=white)](https://paperswithcode.com/)| 
+|[![](https://img.shields.io/badge/-PandasExercises-181717?style=flat-square&logo=Python&logoColor=white)](https://github.com/guipsamora/pandas_exercises#getting-and-knowing)|     --|
+###### - i use these **`website*`** as a reference of functions and place to ask. (just use search button!, it has many examples, questions and explanations)
+```
+```
 |**Communities**||
 |:---|:---|
 |[![](https://img.shields.io/badge/-RStudioCommunity*-181717?style=flat-square&logo=RStudio&logoColor=white)](https://community.rstudio.com/)|[![](https://img.shields.io/badge/-PythonCommunity*-181717?style=flat-square&logo=Python&logoColor=white)](https://www.python.org/community/)|
 
-###### - i use these **`website*`** as a reference of functions and place to ask. (just use search button!, it has many examples, questions and explanations)
 
-###### - apply for `financial aid` in order to get free course in Coursera
 
-###### - there are many other books on statistics and R you can go to [bookdown.org](https://bookdown.org/)
+
+

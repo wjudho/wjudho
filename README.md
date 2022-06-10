@@ -37,44 +37,48 @@
 ## :bookmark_tabs: Certificates
 |    |    |
 |:---|:---|
-|[![](https://img.shields.io/badge/-Coursera-0056D2?style=flat-square&logo=Coursera&logoColor=white)](https://www.coursera.org/account/accomplishments/certificate/BZE8G8YGKJGW) - Foundations: Data, Data, Everywhere                                                                 |[![](https://img.shields.io/badge/-HackerRank-1ba94c?style=flat-square&logo=HackerRank&logoColor=white)](https://www.hackerrank.com/certificates/6f722d2d8292) - SQL (Basic)        	                                    |
-|[![](https://img.shields.io/badge/-Coursera-0056D2?style=flat-square&logo=Coursera&logoColor=white)](https://www.coursera.org/account/accomplishments/certificate/YZ437L9JTJ4S) - Ask Questions to Make Data-Driven Decisions                                                      |[![](https://img.shields.io/badge/-Sololearn-149EF2?style=flat-square&logo=Sololearn&logoColor=white)](https://www.sololearn.com/certificates/course/en/23685028/1157/landscape/png) - Python for Beginners              |
+|[![](https://img.shields.io/badge/-Foundations:&nbsp;Data,&nbsp;Data,&nbsp;Everywhere-0056D2?style=flat-square&logo=Coursera&logoColor=white)](https://www.coursera.org/account/accomplishments/certificate/BZE8G8YGKJGW)|        [![](https://img.shields.io/badge/-SQL&nbsp;(Basic)-1ba94c?style=flat-square&logo=HackerRank&logoColor=white)](https://www.hackerrank.com/certificates/6f722d2d8292)        	                                    |
+|[![](https://img.shields.io/badge/-Ask&nbsp;Questions&nbsp;to&nbsp;Make&nbsp;Data-Driven&nbsp;Decisions-0056D2?style=flat-square&logo=Coursera&logoColor=white)](https://www.coursera.org/account/accomplishments/certificate/YZ437L9JTJ4S)|                                                 [![](https://img.shields.io/badge/-Sololearn-149EF2?style=flat-square&logo=Sololearn&logoColor=white)](https://www.sololearn.com/certificates/course/en/23685028/1157/landscape/png) - Python for Beginners              |
 |[![](https://img.shields.io/badge/-Coursera-0056D2?style=flat-square&logo=Coursera&logoColor=white)](https://www.coursera.org/account/accomplishments/certificate/WKJCNMV3LWRA) - Prepare Data for Exploration   |[![](https://img.shields.io/badge/-Sololearn-149EF2?style=flat-square&logo=Sololearn&logoColor=white)](https://www.sololearn.com/certificates/course/en/23685028/1060/landscape/png) - SQL                               |
 |[![](https://img.shields.io/badge/-Coursera-0056D2?style=flat-square&logo=Coursera&logoColor=white)](https://www.coursera.org/account/accomplishments/certificate/RTL8TD8VGUFL) - Process Data from Dirty to Clean                                                                      |[![](https://img.shields.io/badge/-Dicoding-071D49?style=flat-square)](https://www.dicoding.com/certificates/0LZ0111W0P65) - Belajar Dasar Visualisasi Data                                                           |
-|[![](https://img.shields.io/badge/-Coursera-0056D2?style=flat-square&logo=Coursera&logoColor=white)](https://www.coursera.org/account/accomplishments/certificate/MLDREPV7ZDDC) - Analyze Data to Answer Questions                                                                  |[![](https://img.shields.io/badge/-Dicoding-071D49?style=flat-square)](https://www.dicoding.com/certificates/QLZ9KKQ0MZ5D) - Memulai Pemrograman Dengan Python                                                              |
-|[![](https://img.shields.io/badge/-Coursera-0056D2?style=flat-square&logo=Coursera&logoColor=white)](https://www.coursera.org/account/accomplishments/certificate/UCWHMPT6XGGY) - Share Data Through the Art of Visualization                                                              |[![](https://img.shields.io/badge/-DQLAB-83B81A?style=flat-square)](https://academy.dqlab.id/Certificate_check_2/result/DQLABDTWP1AQRHGB) - Data Wrangling Python                                                           |
+|[![](https://img.shields.io/badge/-Coursera-0056D2?style=flat-square&logo=Coursera&logoColor=white)](https://www.coursera.org/account/accomplishments/certificate/MLDREPV7ZDDC) - Analyze Data to Answer Questions                                                                  |[![](https://img.shields.io/badge/-Memulai&nbsp;Pemrograman&nbsp;Dengan&nbsp;Python-071D49?style=flat-square&logo=Python&logoColor=white)](https://www.dicoding.com/certificates/QLZ9KKQ0MZ5D)                                                              |
+|[![](https://img.shields.io/badge/-Coursera-0056D2?style=flat-square&logo=Coursera&logoColor=white)](https://www.coursera.org/account/accomplishments/certificate/UCWHMPT6XGGY) - Share Data Through the Art of Visualization                                                              |[![](https://img.shields.io/badge/-Data&nbsp;Wrangling&nbsp;with&nbsp;Python-83B81A?style=flat-square&logo=Python&logoColor=white)](https://academy.dqlab.id/Certificate_check_2/result/DQLABDTWP1AQRHGB)                                                           |
 |[![](https://img.shields.io/badge/-Coursera-0056D2?style=flat-square&logo=Coursera&logoColor=white)](https://www.coursera.org/account/accomplishments/certificate/D4U6CQX2AYV7) - Data Analysis with R Programming|---|
+<br>
 
 ## :bookmark_tabs: Free Resources from Around The Internet 
 ###### these aren't mine, it belongs to the respective owners
+<br>
 
 |**Courses**||
 |:-------|:-------|
-|[![](https://img.shields.io/badge/-Machine&nbsp;Learning&nbsp;By&nbsp;Andrew&nbsp;Ng-0056D2?style=flat-square&logo=Coursera&logoColor=white)](https://www.coursera.org/learn/machine-learning?skipBrowseRedirect=true)|  [![](https://img.shields.io/badge/-Deep&nbsp;Learning&nbsp;Specialization&nbsp;By&nbsp;Andrew&nbsp;Ng-0056D2?style=flat-square&logo=Coursera&logoColor=white)](https://www.coursera.org/specializations/deep-learning?skipBrowseRedirect=true)|
-|[![](https://img.shields.io/badge/-Machine&nbsp;Learning&nbsp;Crash&nbsp;Course-4285F4?style=flat-square&logo=Google&logoColor=white)](https://developers.google.com/machine-learning/crash-course)|[![](https://img.shields.io/badge/-Google&nbsp;Data&nbsp;Analytics&nbsp;professional&nbsp;Certificate-0056D2?style=flat-square&logo=Coursera&logoColor=white)](https://www.coursera.org/professional-certificates/google-data-analytics?skipBrowseRedirect=true)|
+|[![](https://img.shields.io/badge/-Machine&nbsp;Learning&nbsp;By&nbsp;Andrew&nbsp;Ng-0056D2?style=flat-square&logo=Coursera&logoColor=white)](https://www.coursera.org/learn/machine-learning?skipBrowseRedirect=true)|[![](https://img.shields.io/badge/-Deep&nbsp;Learning&nbsp;Specialization&nbsp;By&nbsp;Andrew&nbsp;Ng-0056D2?style=flat-square&logo=Coursera&logoColor=white)](https://www.coursera.org/specializations/deep-learning?skipBrowseRedirect=true)|
+|[![](https://img.shields.io/badge/-Machine&nbsp;Learning&nbsp;Crash&nbsp;Course-4285F4?style=flat-square&logo=Google&logoColor=white)](https://developers.google.com/machine-learning/crash-course)|[![](https://img.shields.io/badge/-Google&nbsp;Data&nbsp;Analytics&nbsp;Professional&nbsp;Certificate-0056D2?style=flat-square&logo=Coursera&logoColor=white)](https://www.coursera.org/professional-certificates/google-data-analytics?skipBrowseRedirect=true)|
 |[![](https://img.shields.io/badge/-Machine&nbsp;Learning&nbsp;for&nbsp;Beginners-5E5E5E?style=flat-square&logo=Microsoft&logoColor=white)](https://github.com/microsoft/ML-For-Beginners)|[![](https://img.shields.io/badge/-Machine&nbsp;Learning&nbsp;CS&nbsp;156&nbsp;by&nbsp;Professor&nbsp;Yaser&nbsp;Abu&nbsp;Mustofa-FF0000?style=flat-square&logo=Youtube&logoColor=white)](https://www.youtube.com/playlist?list=PLD63A284B7615313A)|
-|[![](https://img.shields.io/badge/-Machine&nbsp;Learning&nbsp;Indonesia:&nbsp;by&nbsp;Risman&nbsp;Adnan,&nbsp;Ph.D-FF0000?style=flat-square&logo=Youtube&logoColor=white)](https://www.youtube.com/playlist?list=PLMxZwSxrY74xtjQkO68UU86pgj8YlHLgJ)|[![](https://img.shields.io/badge/-SQL-14BF96?style=flat-square&logo=KhanAcademy&logoColor=white)](https://www.khanacademy.org/computing/computer-programming/sql)|
+|[![](https://img.shields.io/badge/-Machine&nbsp;Learning&nbsp;Indonesia:&nbsp;by&nbsp;Risman&nbsp;Adnan,&nbsp;Ph.D-FF0000?style=flat-square&logo=Youtube&logoColor=white)](https://www.youtube.com/playlist?list=PLMxZwSxrY74xtjQkO68UU86pgj8YlHLgJ)|[![](https://img.shields.io/badge/-Intro&nbsp;to&nbsp;SQL:&nbsp;Querying&nbsp;and&nbsp;Managing&nbsp;Data-14BF96?style=flat-square&logo=KhanAcademy&logoColor=white)](https://www.khanacademy.org/computing/computer-programming/sql)|
 ###### - apply for `financial aid` in order to get free course in Coursera
-```
-```
+<br>
+
 |**Books**||
 |:---|:---|
-|[![](https://img.shields.io/badge/-for&nbsp;Data&nbsp;Science:&nbsp;Import,&nbsp;Tidy,&nbsp;Transform,&nbsp;Visualize,&nbsp;and&nbsp;Model&nbsp;Data-FF5D5D?style=flat-square&logo=R&logoColor=white)](https://r4ds.had.co.nz/index.html)| [![](https://img.shields.io/badge/-Statistical&nbsp;Inference&nbsp;via&nbsp;Data&nbsp;Science-FF5D5D?style=flat-square&logo=R&logoColor=white)](https://moderndive.com/)|
+|[![](https://img.shields.io/badge/-R&nbsp;for&nbsp;Data&nbsp;Science&nbsp;-FF5D5D?style=flat-square&logo=R&logoColor=white)](https://r4ds.had.co.nz/index.html)| [![](https://img.shields.io/badge/-Statistical&nbsp;Inference&nbsp;via&nbsp;Data&nbsp;Science-FF5D5D?style=flat-square&logo=R&logoColor=white)](https://moderndive.com/)|
 |[![](https://img.shields.io/badge/-Dive&nbsp;into&nbsp;Deep&nbsp;Learning-FF5D5D?style=flat-square&logo=Python&logoColor=white)](https://d2l.ai/)|[![](https://img.shields.io/badge/-Mathematics&nbsp;for&nbsp;Machine&nbsp;Learning-FF5D5D?style=flat-square&logo=learn&logoColor=white)](https://mml-book.com/)|
 ###### - there are many other books on these topics you can go to [[**bookdown**]](https://bookdown.org/) or [[**freecomputerbooks**]](https://freecomputerbooks.com/)
-```
-```
+<br>
+
 |**Cases & Examples with Code**||
 |:---|:---|
 |[![](https://img.shields.io/badge/-Kaggle&nbsp;Datasets-181717?style=flat-square&logo=Kaggle&logoColor=white)](https://www.kaggle.com/datasets)|[![](https://img.shields.io/badge/-StatisticsGlobe-181717?style=flat-square&logo=R&logoColor=white)](https://statisticsglobe.com/)|
 |[![](https://img.shields.io/badge/-StatisticsGlobe-181717?style=flat-square&logo=Python&logoColor=white)](://community.rstudio.com/)|[![](https://img.shields.io/badge/-PapersWithCode-181717?style=flat-square&logo=Python&logoColor=white)](https://paperswithcode.com/)| 
 |[![](https://img.shields.io/badge/-PandasExercises-181717?style=flat-square&logo=Python&logoColor=white)](https://github.com/guipsamora/pandas_exercises#getting-and-knowing)|     --|
 ###### - i use these **`website*`** as a reference of functions and place to ask. (just use search button!, it has many examples, questions and explanations)
-```
-```
+<br>
+
 |**Communities**||
 |:---|:---|
 |[![](https://img.shields.io/badge/-RStudioCommunity*-181717?style=flat-square&logo=RStudio&logoColor=white)](https://community.rstudio.com/)|[![](https://img.shields.io/badge/-PythonCommunity*-181717?style=flat-square&logo=Python&logoColor=white)](https://www.python.org/community/)|
+<br>
+--
 
 
 

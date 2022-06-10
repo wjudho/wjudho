@@ -32,7 +32,8 @@
 [![](https://img.shields.io/badge/-PowerBI-F2C811?style=flat-square&logo=PowerBI&logoColor=white)](https://docs.microsoft.com/en-us/power-bi/fundamentals/desktop-latest-update-archive?tabs=powerbi-desktop#february-2022-update-21026830)
 
 ## :desktop_computer: Portfolio
-[![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=Github)](https://wjudho.github.io/) - Under Construction
+[![GitHub](https://img.shields.io/badge/-Under&nbsp;Construction-181717?style=flat-square&logo=Github)](https://wjudho.github.io/)
+<br>
 
 ## :man_student: Certificates
 |    |    |

@@ -57,10 +57,14 @@
 |[![](https://img.shields.io/badge/-Machine&nbsp;Learning&nbsp;Crash&nbsp;Course-4285F4?style=flat-square&logo=Google&logoColor=white)](https://developers.google.com/machine-learning/crash-course)|[![](https://img.shields.io/badge/-Google&nbsp;Data&nbsp;Analytics&nbsp;Professional&nbsp;Certificate-0056D2?style=flat-square&logo=Coursera&logoColor=white)](https://www.coursera.org/professional-certificates/google-data-analytics?skipBrowseRedirect=true)|
 |[![](https://img.shields.io/badge/-Machine&nbsp;Learning&nbsp;for&nbsp;Beginners-5E5E5E?style=flat-square&logo=Microsoft&logoColor=white)](https://github.com/microsoft/ML-For-Beginners)|[![](https://img.shields.io/badge/-Machine&nbsp;Learning&nbsp;by&nbsp;Professor&nbsp;Yaser&nbsp;Abu&nbsp;Mustofa-FF0000?style=flat-square&logo=Youtube&logoColor=white)](https://www.youtube.com/playlist?list=PLD63A284B7615313A)|
 |[![](https://img.shields.io/badge/-Machine&nbsp;Learning&nbsp;Indonesia:&nbsp;by&nbsp;Risman&nbsp;Adnan,&nbsp;Ph.D-FF0000?style=flat-square&logo=Youtube&logoColor=white)](https://www.youtube.com/playlist?list=PLMxZwSxrY74xtjQkO68UU86pgj8YlHLgJ)|[![](https://img.shields.io/badge/-Intro&nbsp;to&nbsp;SQL:&nbsp;Querying&nbsp;and&nbsp;Managing&nbsp;Data-14BF96?style=flat-square&logo=KhanAcademy&logoColor=white)](https://www.khanacademy.org/computing/computer-programming/sql)|
-|[![](https://img.shields.io/badge/-Statistics&nbsp;Fundamentals&nbsp;&#8208;StatQuest-FF0000?style=flat-square&logo=Youtube&logoColor=white)](https://www.youtube.com/playlist?list=PLblh5JKOoLUK0FLuzwntyYI10UQFUhsY9)|-|
 ###### - apply for `financial aid` in order to get free course in Coursera
 <br>
 
+|Foundamental Courses with Visual||
+|:---|:---|
+|[![](https://img.shields.io/badge/-Statistics&nbsp;Fundamentals&nbsp;&#8208;StatQuest-FF0000?style=flat-square&logo=Youtube&logoColor=white)](https://www.youtube.com/playlist?list=PLblh5JKOoLUK0FLuzwntyYI10UQFUhsY9)|`These videos give you a general overview of statistics as well as a be a reference for statistical concepts.`|
+[![](https://img.shields.io/badge/-Machine&nbsp;Learning&nbsp;&#8208;StatQuest-FF0000?style=flat-square&logo=Youtube&logoColor=white)](https://www.youtube.com/playlist?list=PLblh5JKOoLUICTaGLRoHQDuF_7q2GfuJF)|Machine Learning covers a lot of topics and this can be intimidating. However, there is no reason to fear, this play list will help you trough it all, one step at a time.|
+<br>
 |**Books**||
 |:---|:---|
 |[![](https://img.shields.io/badge/-R&nbsp;for&nbsp;Data&nbsp;Science&nbsp;-0F4C75?style=flat-square&logo=R&logoColor=white)](https://r4ds.had.co.nz/index.html)| [![](https://img.shields.io/badge/-Statistical&nbsp;Inference&nbsp;via&nbsp;Data&nbsp;Science-0F4C75?style=flat-square&logo=R&logoColor=white)](https://moderndive.com/)|

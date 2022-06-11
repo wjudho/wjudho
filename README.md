@@ -60,10 +60,10 @@
 ###### - apply for `financial aid` in order to get free course in Coursera
 <br>
 
-|Foundamental Courses with Visual||
+|Foundamental Courses with Just Visual||
 |:---|:---|
-|[![](https://img.shields.io/badge/-Statistics&nbsp;Fundamentals&nbsp;&#8208;StatQuest-FF0000?style=flat-square&logo=Youtube&logoColor=white)](https://www.youtube.com/playlist?list=PLblh5JKOoLUK0FLuzwntyYI10UQFUhsY9)|`These videos give you a general overview of statistics as well as a be a reference for statistical concepts.`|
-[![](https://img.shields.io/badge/-Machine&nbsp;Learning&nbsp;&#8208;StatQuest-FF0000?style=flat-square&logo=Youtube&logoColor=white)](https://www.youtube.com/playlist?list=PLblh5JKOoLUICTaGLRoHQDuF_7q2GfuJF)|Machine Learning covers a lot of topics and this can be intimidating. However, there is no reason to fear, this play list will help you trough it all, one step at a time.|
+|[![](https://img.shields.io/badge/-Statistics&nbsp;Fundamentals&nbsp;&#8208;&nbsp;StatQuest-FF0000?style=flat-square&logo=Youtube&logoColor=white)](https://www.youtube.com/playlist?list=PLblh5JKOoLUK0FLuzwntyYI10UQFUhsY9)|These videos give you a general overview of statistics as well as a be a reference for statistical concepts.|
+[![](https://img.shields.io/badge/-Machine&nbsp;Learning&nbsp;&#8208;&nbsp;StatQuest-FF0000?style=flat-square&logo=Youtube&logoColor=white)](https://www.youtube.com/playlist?list=PLblh5JKOoLUICTaGLRoHQDuF_7q2GfuJF)|Machine Learning covers a lot of topics and this can be intimidating. However, there is no reason to fear, this play list will help you trough it all, one step at a time.|
 <br>
 |**Books**||
 |:---|:---|

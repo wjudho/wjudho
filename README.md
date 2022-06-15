@@ -32,7 +32,9 @@
 [![](https://img.shields.io/badge/-PowerBI-F2C811?style=flat-square&logo=PowerBI&logoColor=white)](https://docs.microsoft.com/en-us/power-bi/fundamentals/desktop-latest-update-archive?tabs=powerbi-desktop#february-2022-update-21026830)
 
 ## :desktop_computer: Portfolio
-[![GitHub](https://img.shields.io/badge/-Under&nbsp;Construction-181717?style=flat-square&logo=Github)](https://wjudho.github.io/)
+| | |
+|:--|:--|
+|[![GitHub](https://img.shields.io/badge/-Under&nbsp;Construction-181717?style=flat-square&logo=Github)](https://wjudho.github.io/)|                                      [![GitHub](https://img.shields.io/badge/-Capstone&nbsp;Bellabeat:&nbsp;EDA&nbsp;Descriptive&nbsp;using&nbsp;R-181717?style=flat-square&logo=Kaggle)](https://www.kaggle.com/code/kacang/capstone-bellabeat-eda-descriptive-using-r)|
 <br>
 
 ## :man_student: Certificates
@@ -48,10 +50,6 @@
 ###### these aren't mine, it belongs to the respective owners
 <br>
 
-|**The Beginning of Everything**||
-|:---|:---|
-|[![](https://img.shields.io/badge/-Statistics&nbsp;Fundamentals&nbsp;&#8208;&nbsp;StatQuest-FF0000?style=flat-square&logo=Youtube&logoColor=white)](https://www.youtube.com/playlist?list=PLblh5JKOoLUK0FLuzwntyYI10UQFUhsY9||
-
 
 |**Courses**||
 |:-------|:-------|
@@ -62,10 +60,15 @@
 ###### - apply for **financial aid** in order to get free course in Coursera
 <br>
 
-|Foundamental Courses with Just Visual||
+|Fundamental Math and Statistics in Visual||
 |:---|:---|
 |[![](https://img.shields.io/badge/-Statistics&nbsp;Fundamentals&nbsp;&#8208;&nbsp;StatQuest-FF0000?style=flat-square&logo=Youtube&logoColor=white)](https://www.youtube.com/playlist?list=PLblh5JKOoLUK0FLuzwntyYI10UQFUhsY9)|These videos give you a general overview of statistics as well as a be a reference for statistical concepts.|
 [![](https://img.shields.io/badge/-Machine&nbsp;Learning&nbsp;&#8208;&nbsp;StatQuest-FF0000?style=flat-square&logo=Youtube&logoColor=white)](https://www.youtube.com/playlist?list=PLblh5JKOoLUICTaGLRoHQDuF_7q2GfuJF)|Machine Learning covers a lot of topics and this can be intimidating. However, there is no reason to fear, this play list will help you trough it all, one step at a time.|
+|[![](https://img.shields.io/badge/-Basic&nbsp;Algebra&nbsp;Introduction&nbsp;Crash&nbsp;Course-FF0000?style=flat-square&logo=Youtube&logoColor=white)](https://www.youtube.com/watch?v=grnP3mduZkM)|This math video tutorial provides a basic overview of concepts covered in a typical high school algebra 1 & 2 course or a college algebra course.  This video contains plenty of lessons, notes, examples, and practice problems for you to get a good foundation in algebra.|
+|[![](https://img.shields.io/badge/-Essense&nbsp;of&nbsp;Linier&nbsp;Algebra-FF0000?style=flat-square&logo=Youtube&logoColor=white)](https://www.youtube.com/playlist?list=PLZHQObOWTQDPD3MizzM2xVFitgF8hE_ab)|3blue1brown is a channel about animating math, in all senses of the word animate.|
+|[![](https://img.shields.io/badge/-Get&nbsp;Ready&nbsp;for&nbsp;Algebra&nbsp;1-14BF96?style=flat-square&logo=KhanAcademy&logoColor=white)](https://www.khanacademy.org/math/get-ready-for-algebra-i)|Not feeling ready learning algebra, even from introductory crash course? try this.
+
+
 ###### - statistic is hard, reading books with lots of technical calculation may often burden and overwhelming. Use this as a quick reference for a difficult technical's explanation.
 <br>
 

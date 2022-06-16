@@ -1,4 +1,4 @@
-## :man_scientist: Hello World! [![visitors](https://visitor-badge-reloaded.herokuapp.com/badge?page_id=wjudho.visitor-badge)](https://github.com/wjudho)
+## :man_scientist: Hello World! [![visitors](https://visitor-badge-reloaded.herokuapp.com/badge?page_id=wjudho.visitor-badge)](https://github.com/wjudho) {.tabset}
 
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/wisjnu-judho-85988883/)
@@ -8,7 +8,7 @@
 [![Twitter](https://img.shields.io/badge/-Twitter-1DA1F2?style=flat-square&logo=Twitter&logoColor=white)](https://twitter.com/WijeNu)
 
 
-## :electron: Tech
+## :electron: Tech {-}
 [![](https://img.shields.io/badge/-R-276DC3?style=flat-square&logo=R&logoColor=white)](https://github.com/topics/r)
 [![](https://img.shields.io/badge/-RStudio-75AADB?style=flat-square&logo=RStudio&logoColor=white)](https://github.com/topics/r)
 [![](https://img.shields.io/badge/-Notion-000000?style=flat-square&logo=Notion&logoColor=white)](https://www.notion.so/)
@@ -31,7 +31,7 @@
 [![](https://img.shields.io/badge/-Windows-0078D6?style=flat-square&logo=Windows&logoColor=white)](https://www.microsoft.com/en-us/windows)
 [![](https://img.shields.io/badge/-PowerBI-F2C811?style=flat-square&logo=PowerBI&logoColor=white)](https://docs.microsoft.com/en-us/power-bi/fundamentals/desktop-latest-update-archive?tabs=powerbi-desktop#february-2022-update-21026830)
 
-## :desktop_computer: Portfolio
+## :desktop_computer: Portfolio {-}
 | | |
 |:--|:--|
 |[![GitHub](https://img.shields.io/badge/-Under&nbsp;Construction-181717?style=flat-square&logo=Github)](https://wjudho.github.io/)|                                      [![GitHub](https://img.shields.io/badge/-Capstone&nbsp;Bellabeat:&nbsp;EDA&nbsp;Descriptive&nbsp;using&nbsp;R-181717?style=flat-square&logo=Kaggle)](https://www.kaggle.com/code/kacang/capstone-bellabeat-eda-descriptive-using-r)|

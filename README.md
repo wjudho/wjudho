@@ -1,4 +1,4 @@
-## :man_scientist: Hello World! [![visitors](https://visitor-badge-reloaded.herokuapp.com/badge?page_id=wjudho.visitor-badge)](https://github.com/wjudho) {.tabset}
+## :man_scientist: Hello World! [![visitors](https://visitor-badge-reloaded.herokuapp.com/badge?page_id=wjudho.visitor-badge)](https://github.com/wjudho)
 
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/wisjnu-judho-85988883/)
@@ -8,7 +8,7 @@
 [![Twitter](https://img.shields.io/badge/-Twitter-1DA1F2?style=flat-square&logo=Twitter&logoColor=white)](https://twitter.com/WijeNu)
 
 
-## :electron: Tech {-}
+## :electron: Tech
 [![](https://img.shields.io/badge/-R-276DC3?style=flat-square&logo=R&logoColor=white)](https://github.com/topics/r)
 [![](https://img.shields.io/badge/-RStudio-75AADB?style=flat-square&logo=RStudio&logoColor=white)](https://github.com/topics/r)
 [![](https://img.shields.io/badge/-Notion-000000?style=flat-square&logo=Notion&logoColor=white)](https://www.notion.so/)

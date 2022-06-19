@@ -18,14 +18,14 @@ Most of the data science tutorials in the internet require us to follow along by
 |[![](https://img.shields.io/badge/-RMarkdown&nbsp;in&nbsp;Kaggle-20BEFF?style=flat-square&logo=Kaggle&logoColor=white)](https://www.kaggle.com/code/datasniffer/how-to-make-rmarkdown-work-in-kaggle/report)|How to get familiar with **Kaggle**, `edit&copy` this [[guide](https://www.kaggle.com/code/tavoosi/a-beginner-s-guide-to-machine-learning-with-r)] in kaggle|
 >`Error in parse(text = x, srcfile = src):` usually unsupported library is the cause, simply refrain from using it. Other cause is missing doublequote (") or quote(')
 
+<p align="center">
+
 ## 4 Types of Analysis
-
-<img width="400" height="200" src="https://github.com/wjudho/wjudho/blob/main/images/4%20types%20analysis.png">
-
-<img src="/wjudho/images/4%20types%20analysis.png" width="200" height="100">
+<img width="450" height="300" src="https://raw.githubusercontent.com/wjudho/wjudho/main/images/4%20types%20analysis.png">
 
 |||||
 |:-|:-|:-|:-|
 |[![](https://img.shields.io/badge/-Descriptive-FF0000?style=flat-square&logo=Youtube&logoColor=white)](https://www.youtube.com/watch?v=cHGhSj_Ax-0&list=PLwM2SFDcolcK9WIpn50JkELC0grYP5Pyu&index=2)|[![](https://img.shields.io/badge/-Diagnostic-FF0000?style=flat-square&logo=Youtube&logoColor=white)](https://www.youtube.com/watch?v=BPshmz9qxxU&list=PLwM2SFDcolcK9WIpn50JkELC0grYP5Pyu&index=4)|[![](https://img.shields.io/badge/-Predictive-FF0000?style=flat-square&logo=Youtube&logoColor=white)](https://www.youtube.com/watch?v=4y6fUC56KPw)|[![](https://img.shields.io/badge/-Prescriptive-FF0000?style=flat-square&logo=Youtube&logoColor=white)](https://www.youtube.com/watch?v=046dYegfGrc&list=PLwM2SFDcolcK9WIpn50JkELC0grYP5Pyu&index=3)|
+</p>
 
 ## 

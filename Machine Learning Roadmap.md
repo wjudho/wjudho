@@ -28,6 +28,11 @@
 
 ##  
 ## Mathematics
+
+|![](https://editor.analyticsvidhya.com/uploads/97735WhatsApp%20Image%202021-05-31%20at%208.41.44%20PM.jpeg) |
+|:--:|
+|<b>https://www.analyticsvidhya.com/blog/2021/06/how-to-learn-mathematics-for-machine-learning-what-concepts-do-you-need-to-master-in-data-science/</b>|
+
 |||
 |:-|:-|
 |[![](https://img.shields.io/badge/-Do&nbsp;You&nbsp;Need&nbsp;Math&nbsp;for&nbsp;Data&nbsp;Science&nbsp;&#x2047;-FF0000?style=flat-square&logo=Youtube&logoColor=white)](https://www.youtube.com/watch?v=jjidSjVnOLk)||
@@ -65,4 +70,12 @@ Most of the data science tutorials in the internet require us to follow along by
 
 
 ## Steps in Machine Learning
+
+||||
+|:-|:-|:-|
+|[![](https://img.shields.io/badge/-Introduction&nbsp;to&nbsp;Correlation-FF0000?style=flat-square&logo=Youtube&logoColor=white)](https://www.youtube.com/watch?v=dsyTQNUvqH0)|[![](https://img.shields.io/badge/-Linier&nbsp;Algebra&nbsp;(Scalar,&nbsp;&nbsp;Vector)&nbsp;&#x2010;1-FF0000?style=flat-square&logo=Youtube&logoColor=white)](https://www.youtube.com/watch?v=cB3ycWAaznA&list=PLZoTAELRMXVPBpoH5ulyHNst0hX_LzWH3&index=1)|[![](https://img.shields.io/badge/-Linier&nbsp;Algebra&nbsp;:Scalar,&nbsp;Vector&nbsp;&#x2010;2-FF0000?style=flat-square&logo=Youtube&logoColor=white)](https://www.youtube.com/watch?v=lxSBH6p0v1U&list=PLZoTAELRMXVPBpoH5ulyHNst0hX_LzWH3&index=2)|
+
+
+### wad
+
 ##

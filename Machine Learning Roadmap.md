@@ -20,7 +20,7 @@ Most of the data science tutorials in the internet require us to follow along by
 
 ## 4 Types of Analysis
 
-<img width="400" height="200" src="/wjudho/images/4%20types%20analysis.png">
+<img width="400" height="200" src="https://github.com/wjudho/wjudho/blob/main/images/4%20types%20analysis.png">
 
 <img src="/wjudho/images/4%20types%20analysis.png" width="200" height="100">
 

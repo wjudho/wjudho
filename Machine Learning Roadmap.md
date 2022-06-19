@@ -28,13 +28,11 @@ Most of the data science tutorials in the internet require us to follow along by
 
 
 ## 4 Types of Analysis
-<p align="center">
-<img width="400" height="300" src="https://raw.githubusercontent.com/wjudho/wjudho/main/images/4%20types%20analysis.png"></p>
 
-<p align="center">
+<img width="400" height="300" src="https://raw.githubusercontent.com/wjudho/wjudho/main/images/4%20types%20analysis.png">
 
 |||||
 |:-:|:-:|:-:|:-:|
-|[![](https://img.shields.io/badge/-Descriptive-FF0000?style=flat-square&logo=Youtube&logoColor=white)](https://www.youtube.com/watch?v=cHGhSj_Ax-0&list=PLwM2SFDcolcK9WIpn50JkELC0grYP5Pyu&index=2)|[![](https://img.shields.io/badge/-Diagnostic-FF0000?style=flat-square&logo=Youtube&logoColor=white)](https://www.youtube.com/watch?v=BPshmz9qxxU&list=PLwM2SFDcolcK9WIpn50JkELC0grYP5Pyu&index=4)|[![](https://img.shields.io/badge/-Predictive-FF0000?style=flat-square&logo=Youtube&logoColor=white)](https://www.youtube.com/watch?v=4y6fUC56KPw)|[![](https://img.shields.io/badge/-Prescriptive-FF0000?style=flat-square&logo=Youtube&logoColor=white)](https://www.youtube.com/watch?v=046dYegfGrc&list=PLwM2SFDcolcK9WIpn50JkELC0grYP5Pyu&index=3)|</p>
+|[![](https://img.shields.io/badge/-Descriptive-FF0000?style=flat-square&logo=Youtube&logoColor=white)](https://www.youtube.com/watch?v=cHGhSj_Ax-0&list=PLwM2SFDcolcK9WIpn50JkELC0grYP5Pyu&index=2)|[![](https://img.shields.io/badge/-Diagnostic-FF0000?style=flat-square&logo=Youtube&logoColor=white)](https://www.youtube.com/watch?v=BPshmz9qxxU&list=PLwM2SFDcolcK9WIpn50JkELC0grYP5Pyu&index=4)|[![](https://img.shields.io/badge/-Predictive-FF0000?style=flat-square&logo=Youtube&logoColor=white)](https://www.youtube.com/watch?v=4y6fUC56KPw)|[![](https://img.shields.io/badge/-Prescriptive-FF0000?style=flat-square&logo=Youtube&logoColor=white)](https://www.youtube.com/watch?v=046dYegfGrc&list=PLwM2SFDcolcK9WIpn50JkELC0grYP5Pyu&index=3)|
 
 ## 

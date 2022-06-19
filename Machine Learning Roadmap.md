@@ -5,7 +5,7 @@
 ## Learning How-to Learn
 
 <p align="center">
-<img width="400" height="300" src="https://raw.githubusercontent.com/wjudho/wjudho/main/images/J2.png">
+<img width="319" height="568" src="https://raw.githubusercontent.com/wjudho/wjudho/main/images/J2.png">
 </p>
 
 

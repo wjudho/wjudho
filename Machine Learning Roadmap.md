@@ -1,5 +1,11 @@
 # My Machine Learning Roadmap
+<p align="center">
 
+## 4 Types of Analysis
+<img width="450" height="300" src="https://raw.githubusercontent.com/wjudho/wjudho/main/images/J2.png">
+
+
+</p>
 
 
 ## Learning How-to Learn

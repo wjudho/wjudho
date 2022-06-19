@@ -3,7 +3,7 @@
 
 ## 4 Types of Analysis
 <p align="center">
-<img width="450" height="300" src="https://raw.githubusercontent.com/wjudho/wjudho/main/images/J2.png">
+<img width="400" height="300" src="https://raw.githubusercontent.com/wjudho/wjudho/main/images/J2.png">
 
 
 </p>
@@ -25,10 +25,11 @@ Most of the data science tutorials in the internet require us to follow along by
 |[![](https://img.shields.io/badge/-RMarkdown&nbsp;in&nbsp;Kaggle-20BEFF?style=flat-square&logo=Kaggle&logoColor=white)](https://www.kaggle.com/code/datasniffer/how-to-make-rmarkdown-work-in-kaggle/report)|How to get familiar with **Kaggle**, `edit&copy` this [[guide](https://www.kaggle.com/code/tavoosi/a-beginner-s-guide-to-machine-learning-with-r)] in kaggle|
 >`Error in parse(text = x, srcfile = src):` usually unsupported library is the cause, simply refrain from using it. Other cause is missing doublequote (") or quote(')
 
-<p align="center">
+
 
 ## 4 Types of Analysis
-<img width="450" height="300" src="https://raw.githubusercontent.com/wjudho/wjudho/main/images/4%20types%20analysis.png">
+<p align="center">
+<img width="400" height="300" src="https://raw.githubusercontent.com/wjudho/wjudho/main/images/4%20types%20analysis.png">
 
 |||||
 |:-|:-|:-|:-|

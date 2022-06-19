@@ -38,6 +38,13 @@
 - **Statistics & probability** is needed for all data science role
 - Having a limited understanding of **Linier Algebra** is going to help 
 
+
+## Algorithm
+
+<p align="center">
+<img width="811" height="545" src="https://miro.medium.com/max/1400/1*8wU0hfUY3UK_D8Y7tbIyFQ.png"></p>
+<figcaption>https://towardsdatascience.com/coding-deep-learning-for-beginners-types-of-machine-learning-b9e651e1ed9d</figcaption>
+
 ## Data Analyst Setup
 Most of the data science tutorials in the internet require us to follow along by writing code, creating visuals, loading datasets, and doing statistics analysis ect. How am i gonna practice those if i don't have my computer ready, isn't? 
 <br>

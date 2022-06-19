@@ -10,21 +10,6 @@
 
 
 
-## Data Analyst Setup
-Most of the data science tutorials in the internet require us to follow along by writing code, creating visuals, loading datasets, and doing statistics analysis ect. How am i gonna practice those if i don't have my computer ready, isn't?
-<br>
-|Setup||
-|:-|:-|
-|[![](https://img.shields.io/badge/-RMarkdown:&nbsp;Knit&nbsp;to&nbsp;HTML-FF0000?style=flat-square&logo=Youtube&logoColor=white)](https://www.youtube.com/watch?v=DNS7i2m4sB0)|[![](https://img.shields.io/badge/-GithubDesktop&#x0326;&nbsp;Git&#x0326;&nbsp;&&nbsp;GithubPages-FF0000?style=flat-square&logo=Youtube&logoColor=white)](https://www.youtube.com/watch?v=8Dd7KRpKeaE&t=315s)|
-|[![](https://img.shields.io/badge/-RStudio&#x0326;&nbsp;Python&#x0326;&nbsp;SQL-FF0000?style=flat-square&logo=Youtube&logoColor=white)](https://www.youtube.com/watch?v=LwazHUkU5IQ&list=RDCMUCvZnwzmc3m1Eush-Or8Z6DA&index=1)|d|
-
-|Kaggle||
-|:-|:-|
-|[![](https://img.shields.io/badge/-RMarkdown&nbsp;in&nbsp;Kaggle-20BEFF?style=flat-square&logo=Kaggle&logoColor=white)](https://www.kaggle.com/code/datasniffer/how-to-make-rmarkdown-work-in-kaggle/report)|How to get familiar with **Kaggle**, `edit&copy` this [[guide](https://www.kaggle.com/code/tavoosi/a-beginner-s-guide-to-machine-learning-with-r)] in kaggle|
->`Error in parse(text = x, srcfile = src):` usually unsupported library is the cause, simply refrain from using it. Other cause is missing doublequote (") or quote(')
-
-
-
 ## Analytics in Data Science
 
 |||||
@@ -52,6 +37,20 @@ Most of the data science tutorials in the internet require us to follow along by
 - Math consist of **geometry**, **algebra**, **statistics & probability**, and **calculus**
 - **Statistics & probability** is needed for all data science role
 - Having a limited understanding of **Linier Algebra** is going to help 
+
+## Data Analyst Setup
+Most of the data science tutorials in the internet require us to follow along by writing code, creating visuals, loading datasets, and doing statistics analysis ect. How am i gonna practice those if i don't have my computer ready, isn't? 
+<br>
+|Setup||
+|:-|:-|
+|[![](https://img.shields.io/badge/-RMarkdown:&nbsp;Knit&nbsp;to&nbsp;HTML-FF0000?style=flat-square&logo=Youtube&logoColor=white)](https://www.youtube.com/watch?v=DNS7i2m4sB0)|[![](https://img.shields.io/badge/-GithubDesktop&#x0326;&nbsp;Git&#x0326;&nbsp;&&nbsp;GithubPages-FF0000?style=flat-square&logo=Youtube&logoColor=white)](https://www.youtube.com/watch?v=8Dd7KRpKeaE&t=315s)|
+|[![](https://img.shields.io/badge/-RStudio&#x0326;&nbsp;Python&#x0326;&nbsp;SQL-FF0000?style=flat-square&logo=Youtube&logoColor=white)](https://www.youtube.com/watch?v=LwazHUkU5IQ&list=RDCMUCvZnwzmc3m1Eush-Or8Z6DA&index=1)|d|
+
+|Kaggle||
+|:-|:-|
+|[![](https://img.shields.io/badge/-RMarkdown&nbsp;in&nbsp;Kaggle-20BEFF?style=flat-square&logo=Kaggle&logoColor=white)](https://www.kaggle.com/code/datasniffer/how-to-make-rmarkdown-work-in-kaggle/report)|familiarize yourself with **Kaggle**, `edit&copy` this [[guide](https://www.kaggle.com/code/tavoosi/a-beginner-s-guide-to-machine-learning-with-r)] in kaggle|
+>`Error in parse(text = x, srcfile = src):` usually unsupported library is the cause, simply refrain from using it. Other cause is missing doublequote (") or quote(')
+
 
 
 ## Steps in Machine Learning

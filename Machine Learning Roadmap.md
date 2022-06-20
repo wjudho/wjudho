@@ -14,20 +14,23 @@
 
 **what works**
 - I don't understand math since high school, even so I still learn machine learning just because we are living in a world where climate change is getting real by days, where AI took our job, and excel is the only thing i've work on for the past 8 years
-
-- 
-- 
-and books turned out
-a realistic way is to get a job in `Data Analyst` since I don't have confidence in `math/stats` even after try learning it. Then I applied this `free course` [![](https://img.shields.io/badge/-Google&nbsp;Data&nbsp;Analytics&nbsp;Specialization-0056D2?style=flat-square&logo=Coursera&logoColor=white)](https://www.coursera.org/account/accomplishments/specialization/certificate/XUGJCTUHJT9V) which teach me excel, SQL, tableau, and R. `FYI, i have worked for 8 years in tax accounting using excel only, so i know how mess a data can be`, so it took me less than month to finish, what a blast for lazy person like me. The best part of this course is their final exam require me to put portfolio on **Kaggle**. This is the place where i learn that there are so many Data Scientist that show case their work for free, can you imagine reading people's work and learn that that can actually be copied to you to exercise. 
-</details>
-<br>
+- Took [![](https://img.shields.io/badge/-Google&nbsp;Data&nbsp;Analytics&nbsp;Specialization-0056D2?style=flat-square&logo=Coursera&logoColor=white)](https://www.coursera.org/account/accomplishments/specialization/certificate/XUGJCTUHJT9V) is my most logic & best decision. it took me less than a month to finish the course. The best part of this course is their final exam which require me to put portfolio on **Kaggle** the place where i learn that there are so many Data Scientist that show case their work for free, can you imagine reading people's work and learn that that can actually be copied to you to exercise.
+- Documenting in kaggle and github tremendously help me to preserved my experience. I do forget syntax, but i know where to look. Since then i've never take notes anymore.
+- In a course, I usually skip the theory to question, `fail faster fail smarter`. `Get the problem quick, then look for an answer`. If i know what they're trying to solve it would mean real-world problem. 
+- I prefer `end-to-end project` where the gave tutorial on project based from start to finish (example: data science project ETL & EDA from Excel, SQL, Tableau, then Python). My brain processing `General to Detail` or `macro to micro` faster.
+- Everytime I try to learn something new, i always force myself to understand from general perspective first then look for specific detail. Some people may call it `reverse-engineer`. By doing that everytime i look for detail, since I remember the general view, i my brain always try to spot the missing information better than doing the opposite.
+</details><br>
 
 **What doesn't work for me?**
 
 <details><summary><strong>answer</strong></summary>
 
 **I tried**
+- i took several interactive online course on `Python, R, SQL` a few were finished most were left unfinished. To those which i finished, just after a few months i forgot what i've learned.
 
+> I hear and I forget. I see and I remember. I do and I understand. - **Confucius**
+- Watching tutorial most of the time doesn't work for me. I wish it would, but everytime i learn basic function in python it makes me sleepy.
+ 
 - [![](https://img.shields.io/badge/-Basic&nbsp;Algebra&nbsp;Introduction&nbsp;Crash&nbsp;Course-FF0000?style=flat-square&logo=Youtube&logoColor=white)](https://www.youtube.com/watch?v=grnP3mduZkM)&nbsp;[![](https://img.shields.io/badge/-Mathematics&nbsp;for&nbsp;Machine&nbsp;Learning-0F4C75?style=flat-square&logo=learn&logoColor=white)](https://mml-book.com/)[![](https://img.shields.io/badge/-Essense&nbsp;of&nbsp;Linier&nbsp;Algebra-FF0000?style=flat-square&logo=Youtube&logoColor=white)](https://www.youtube.com/playlist?list=PLZHQObOWTQDPD3MizzM2xVFitgF8hE_ab) which are very recommended by a lot of people on the internet. 
 >The problem is, i couldn't imagine the real world application on those math, simply because i learned best by copying or duplicate other people's work. I learned best when there's a problem and solution to solve it. 
 
@@ -48,16 +51,19 @@ sometimes i stumbled upon a dataset in kaggle, and don't understand what their c
 > **What should people do?**
 
 <details><summary><strong>answer</strong></summary>
+
 - Understand you, what you have what you lack
 - Creates a small win and confidence (for me getting a certificate really boost by a lot)
-- Always remember to `learn just enough`, because learning to code is daunting and most people says overwhelming by how many the technology and language they need to learn to do their job
+- Always remember to `learn just enough`, because learning to code is daunting and most people says overwhelming by how many the technology and programming-language they need to learn in order to do their job
 - Learn to rest, not to quit. Quit only if you don't like the idea of this job role.
-- Don't take advice from me, 
+- Don't take advice from me, i'm just trying to learn what works for me. It may or may not work for you.
+
 throughout this entire `Roadmap` we will focusing on curating Data Scientist's work on kaggle. Be it their steps, their library, their model, their visualization, their thought process. At the end of the day there's a saying:
 <br>
 
 >“Repetition is the mother of learning, the father of action, which makes it the architect of accomplishment.” - **Zig Ziglar**
-</details>
+
+</details><br>
 
 ## Data Science's Role and Life's Cycle
 
@@ -76,14 +82,17 @@ throughout this entire `Roadmap` we will focusing on curating Data Scientist's w
 - Math consist of **geometry**, **algebra**, **statistics & probability**, and **calculus**
 - **Statistics & probability** is needed for all data science role
 - Having a limited understanding of **Linier Algebra** is going to help 
-
-
-
 <br>
 
 ## Analytics in Data Science
 
 ![](https://raw.githubusercontent.com/wjudho/wjudho/main/images/Site%20Map.png)
+
+
+**What do Data Scientist View on this**
+||||||
+|:-|:-|:-|:-|:-|
+|[![](https://img.shields.io/badge/-DataScience-FF0000?style=flat-square&logo=Youtube&logoColor=white)](https://www.youtube.com/watch?v=24G_pfcl3qE)|[![](https://img.shields.io/badge/-Descriptive-FF0000?style=flat-square&logo=Youtube&logoColor=white)](https://www.youtube.com/watch?v=cHGhSj_Ax-0)|[![](https://img.shields.io/badge/-Diagnostic-FF0000?style=flat-square&logo=Youtube&logoColor=white)](https://www.youtube.com/watch?v=BPshmz9qxxU)|[![](https://img.shields.io/badge/-Predictive-FF0000?style=flat-square&logo=Youtube&logoColor=white)](https://www.youtube.com/watch?v=4y6fUC56KPw)|[![](https://img.shields.io/badge/-Prescriptive-FF0000?style=flat-square&logo=Youtube&logoColor=white)](https://www.youtube.com/watch?v=046dYegfGrc&list=PLwM2SFDcolcK9WIpn50JkELC0grYP5Pyu&index=3)|
 
 **Key Points:**
 - Predictive analytics and machine learning go hand-in-hand, as predictive models typically include a machine learning algorithm. - **[[SAS](https://www.sas.com/en_gb/insights/articles/analytics/a-guide-to-predictive-analytics-and-machine-learning.html)]**

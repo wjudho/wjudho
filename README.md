@@ -64,7 +64,7 @@
 |:---|:---|
 |[![](https://img.shields.io/badge/-Statistics&nbsp;Fundamentals&nbsp;&#8208;&nbsp;StatQuest-FF0000?style=flat-square&logo=Youtube&logoColor=white)](https://www.youtube.com/playlist?list=PLblh5JKOoLUK0FLuzwntyYI10UQFUhsY9)|These videos give you a general overview of statistics as well as a be a reference for statistical concepts.|
 [![](https://img.shields.io/badge/-Machine&nbsp;Learning&nbsp;&#8208;&nbsp;StatQuest-FF0000?style=flat-square&logo=Youtube&logoColor=white)](https://www.youtube.com/playlist?list=PLblh5JKOoLUICTaGLRoHQDuF_7q2GfuJF)|Machine Learning covers a lot of topics and this can be intimidating. However, there is no reason to fear, this play list will help you trough it all, one step at a time.|
-|[![](https://img.shields.io/badge/-Basic&nbsp;Algebra&nbsp;Introduction&nbsp;Crash&nbsp;Course-FF0000?style=flat-square&logo=Youtube&logoColor=white)](https://www.youtube.com/watch?v=grnP3mduZkM)|A basic overview of Math concepts covered in a typical high school algebra 1 & 2 course or a college algebra course.  This is a pre-requisite before Linier Algebra|
+|[![](https://img.shields.io/badge/-Basic&nbsp;Algebra&nbsp;Introduction&nbsp;-FF0000?style=flat-square&logo=Youtube&logoColor=white)](https://youtube.com/playlist?list=PL0o_zxa4K1BUeF2o-MlNpbRiS-oE2Kn6J)|A basic overview of Math concepts covered in a typical high school algebra 1 & 2 course or a college algebra course.  This is a pre-requisite before Linier Algebra|
 |[![](https://img.shields.io/badge/-Essense&nbsp;of&nbsp;Linier&nbsp;Algebra-FF0000?style=flat-square&logo=Youtube&logoColor=white)](https://www.youtube.com/playlist?list=PLZHQObOWTQDPD3MizzM2xVFitgF8hE_ab)|3blue1brown is a channel about animating math, in all senses of the word animate.|
 |[![](https://img.shields.io/badge/-Get&nbsp;Ready&nbsp;for&nbsp;Algebra&nbsp;1-14BF96?style=flat-square&logo=KhanAcademy&logoColor=white)](https://www.khanacademy.org/math/get-ready-for-algebra-i)|Not feeling ready learning algebra, even from introductory crash course? try this.
 |[![](https://img.shields.io/badge/-Addition&nbsp;Subtraction&nbsp;Multiplication&nbsp;Division!-FF0000?style=flat-square&logo=Youtube&logoColor=white)](https://www.youtube.com/watch?v=nTn9gVqRfKY)|Never touch math before? Simply watch this video|
@@ -85,7 +85,7 @@
 |**Cases & Examples with Code**||
 |:---|:---|
 |[![](https://img.shields.io/badge/-Kaggle&nbsp;Datasets-181717?style=flat-square&logo=Kaggle&logoColor=white)](https://www.kaggle.com/datasets)|[![](https://img.shields.io/badge/-StatisticsGlobe-181717?style=flat-square&logo=R&logoColor=white)](https://statisticsglobe.com/)|
-|[![](https://img.shields.io/badge/-StatisticsGlobe-181717?style=flat-square&logo=Python&logoColor=white)](://community.rstudio.com/)|[![](https://img.shields.io/badge/-PapersWithCode-181717?style=flat-square&logo=Python&logoColor=white)](https://paperswithcode.com/)| 
+|[![](https://img.shields.io/badge/-StatisticsGlobe-181717?style=flat-square&logo=Python&logoColor=white)](https://statisticsglobe.com/)|[![](https://img.shields.io/badge/-PapersWithCode-181717?style=flat-square&logo=Python&logoColor=white)](https://paperswithcode.com/)| 
 |[![](https://img.shields.io/badge/-PandasExercises-181717?style=flat-square&logo=Python&logoColor=white)](https://github.com/guipsamora/pandas_exercises#getting-and-knowing)|     --|
 
 ###### - i use these **`website*`** as a reference of functions and place to ask. (just use search button!, it has many examples, questions and explanations)

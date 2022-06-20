@@ -104,7 +104,7 @@ throughout this entire `Roadmap` we will focusing on curating Data Scientist's w
 ![](https://raw.githubusercontent.com/wjudho/wjudho/main/images/Site%20Map.png)
 
 
-**What do Data Scientist View on this**
+**Watch these video below for detail explanation**
 ||||||
 |:-|:-|:-|:-|:-|
 |[![](https://img.shields.io/badge/-DataScience-FF0000?style=flat-square&logo=Youtube&logoColor=white)](https://www.youtube.com/watch?v=24G_pfcl3qE)|[![](https://img.shields.io/badge/-Descriptive-FF0000?style=flat-square&logo=Youtube&logoColor=white)](https://www.youtube.com/watch?v=cHGhSj_Ax-0)|[![](https://img.shields.io/badge/-Diagnostic-FF0000?style=flat-square&logo=Youtube&logoColor=white)](https://www.youtube.com/watch?v=BPshmz9qxxU)|[![](https://img.shields.io/badge/-Predictive-FF0000?style=flat-square&logo=Youtube&logoColor=white)](https://www.youtube.com/watch?v=4y6fUC56KPw)|[![](https://img.shields.io/badge/-Prescriptive-FF0000?style=flat-square&logo=Youtube&logoColor=white)](https://www.youtube.com/watch?v=046dYegfGrc&list=PLwM2SFDcolcK9WIpn50JkELC0grYP5Pyu&index=3)|
@@ -117,6 +117,15 @@ throughout this entire `Roadmap` we will focusing on curating Data Scientist's w
 
 # PART II
 
+> At this point I believe `PARTI` will be proven helpful in the upcoming tutorial. There will be a lot of terminology that sounds unfamiliar in this section so I will leave these reference down below for you to come back whenever you need. Sometimes we don't know what to google, right? or sometimes we don't find anything from google, this reference will come in handy.
+
+**References**
+|Mathematics|Programming|||
+|:-|:-|:-|:-|
+|[![](https://img.shields.io/badge/-Complete&nbsp;Statistics&nbsp;&#8208;&nbsp;Krish&nbsp;Naik-FF0000?style=flat-square&logo=Youtube&logoColor=white)](https://youtu.be/LZzq1zSL1bs)|[![](https://img.shields.io/badge/-R&nbsp;and&nbsp;Python&nbsp;&#8208;&nbsp;StatisticsGlobe-181717?style=flat-square&logo=Python&logoColor=white)](https://statisticsglobe.com/)|3|4|
+|[![](https://img.shields.io/badge/-Linier&nbsp;Algebra&nbsp;Vector&nbsp;and&nbsp;Scalar&nbsp;&#8208;&nbsp;Krish&nbsp;Naik-FF0000?style=flat-square&logo=Youtube&logoColor=white)](https://youtube.com/playlist?list=PLZoTAELRMXVPBpoH5ulyHNst0hX_LzWH3)|[![](https://img.shields.io/badge/-LearnPython&nbsp;Fundamental-181717?style=flat-square&logo=Python&logoColor=white)](https://learnpython.org/)|3|4|
+|[![](https://img.shields.io/badge/-Essense&nbsp;of&nbsp;Linier&nbsp;Algebra&#8208;&nbsp;3blue1brow-FF0000?style=flat-square&logo=Youtube&logoColor=white)](https://www.youtube.com/playlist?list=PLZHQObOWTQDPD3MizzM2xVFitgF8hE_ab)||||
+|[![](https://img.shields.io/badge/-Basic&nbsp;Algebra&#8208;&nbsp;OrganicChemistryTutor-FF0000?style=flat-square&logo=Youtube&logoColor=white)](https://youtube.com/playlist?list=PL0o_zxa4K1BUeF2o-MlNpbRiS-oE2Kn6J)||||
 
 
 
@@ -132,8 +141,7 @@ throughout this entire `Roadmap` we will focusing on curating Data Scientist's w
 
 
 
-
-
+https://learnpython.org/
 
 
 

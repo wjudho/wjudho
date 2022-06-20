@@ -111,7 +111,7 @@ throughout this entire `Roadmap` we will focusing on curating Data Scientist's w
 |:-|:-|
 |[![](https://img.shields.io/badge/-Data&nbsp;Science&nbsp;Role&nbsp;&#8208;&nbsp;Ken&nbsp;Jee-FF0000?style=flat-square&logo=Youtube&logoColor=white)](https://www.youtube.com/watch?v=BZFfNwj7JhE)|[![](https://img.shields.io/badge/-Data&nbsp;Science&nbsp;Role&nbsp;&#8208;&nbsp;Krish&nbsp;Naik-FF0000?style=flat-square&logo=Youtube&logoColor=white)](https://www.youtube.com/watch?v=8LZYMd4MYI0)|
 |[![](https://img.shields.io/badge/-Data&nbsp;Science&nbsp;Life&nbsp;Cycle&nbsp;&#8208;&nbsp;Krish&nbsp;Naik-FF0000?style=flat-square&logo=Youtube&logoColor=white)](https://www.youtube.com/watch?v=jkoOpXaD0H4)|[![](https://img.shields.io/badge/-Implementation&nbsp;Data&nbsp;Science&nbsp;&#8208;&nbsp;Krish&nbsp;Naik-FF0000?style=flat-square&logo=Youtube&logoColor=white)](https://www.youtube.com/watch?v=Qz7erR3zVUc)|
-|[![](https://img.shields.io/badge/-Do&nbsp;You&nbsp;Need&nbsp;Math&nbsp;for&nbsp;Data&nbsp;Science&nbsp;&#x2047;-FF0000?style=flat-square&logo=Youtube&logoColor=white)](https://www.youtube.com/watch?v=jjidSjVnOLk)||
+|[![](https://img.shields.io/badge/-Do&nbsp;You&nbsp;Need&nbsp;Math&nbsp;for&nbsp;Data&nbsp;Science&nbsp;&#x2047;&nbsp;&#8208;&nbsp;Sundas&nbsp;Khalid-FF0000?style=flat-square&logo=Youtube&logoColor=white)](https://www.youtube.com/watch?v=jjidSjVnOLk)||
 
 **Key Points:**
 - Build a custome model from scratch or use pre-built Model
@@ -141,7 +141,7 @@ throughout this entire `Roadmap` we will focusing on curating Data Scientist's w
 
 # PART II
 
-> At this point I believe `PARTI` will be proven helpful in the upcoming tutorial. There will be a lot of terminology that sounds unfamiliar in this section so I will leave these reference down below for you to come back whenever you need. Sometimes we don't know what to google, right? or sometimes we don't find anything from google, this reference will come in handy.
+> At this point I believe `PART I` will be proven helpful in the upcoming tutorial. You might recall most of `PART I` terminology in this `PART II` and that's a great sign that our brain is learning. There will be a lot more of terminology that sounds unfamiliar in this section so I will leave these reference down below for you to come back whenever you need. Sometimes we don't know what to google, right? or sometimes we could find nothing from google, this reference will come in handy.
 
 **References**
 |Mathematics|Programming|||

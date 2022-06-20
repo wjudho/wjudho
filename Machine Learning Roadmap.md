@@ -8,22 +8,29 @@
 <img width="319" height="568" src="https://raw.githubusercontent.com/wjudho/wjudho/main/images/J2.png">
 </p>
 
+## Data Science's Role and Life's Cycle
 
+||||
+|:-|:-|:-|
+|[![](https://img.shields.io/badge/-Data&nbsp;Science&nbsp;Role&nbsp;&#8208;&nbsp;Ken&nbsp;Jee-FF0000?style=flat-square&logo=Youtube&logoColor=white)](https://www.youtube.com/watch?v=BZFfNwj7JhE)|[![](https://img.shields.io/badge/-Data&nbsp;Science&nbsp;Role&nbsp;&#8208;&nbsp;Krish&nbsp;Naik-FF0000?style=flat-square&logo=Youtube&logoColor=white)](https://www.youtube.com/watch?v=8LZYMd4MYI0)|[![](https://img.shields.io/badge/-Data&nbsp;Science&nbsp;Life&nbsp;Cycle&nbsp;&#8208;&nbsp;Krish&nbsp;Naik-FF0000?style=flat-square&logo=Youtube&logoColor=white)](https://www.youtube.com/watch?v=jkoOpXaD0H4)|
+|[![](https://img.shields.io/badge/-Implementation&nbsp;Data&nbsp;Science&nbsp&#8208;Krish&nbsp;Naik-FF0000?style=flat-square&logo=Youtube&logoColor=white)](https://www.youtube.com/watch?v=Qz7erR3zVUc)|||
 
 ## Analytics in Data Science
 
-|||||
-|:-|:-|:-|:-|
-|[![](https://img.shields.io/badge/-Descriptive-FF0000?style=flat-square&logo=Youtube&logoColor=white)](https://www.youtube.com/watch?v=cHGhSj_Ax-0&list=PLwM2SFDcolcK9WIpn50JkELC0grYP5Pyu&index=2)|[![](https://img.shields.io/badge/-Diagnostic-FF0000?style=flat-square&logo=Youtube&logoColor=white)](https://www.youtube.com/watch?v=BPshmz9qxxU&list=PLwM2SFDcolcK9WIpn50JkELC0grYP5Pyu&index=4)|[![](https://img.shields.io/badge/-Predictive-FF0000?style=flat-square&logo=Youtube&logoColor=white)](https://www.youtube.com/watch?v=4y6fUC56KPw)|[![](https://img.shields.io/badge/-Prescriptive-FF0000?style=flat-square&logo=Youtube&logoColor=white)](https://www.youtube.com/watch?v=046dYegfGrc&list=PLwM2SFDcolcK9WIpn50JkELC0grYP5Pyu&index=3)|
-|**What** is happening in my business|**Why** is it happening|**What's** more likely happen in the future|**What** do i need to do|
-|Which customer has highest purchase|Identify character & behaviour pattern why profitable customer buy more|Identify weather & location to see if they're contributing to demand then create a model to predict occurence|Steps to take in order to develop new products (market penetration, cost reduction, budget allocation|
+
+
 
 **Key Points:**
 - Predictive analytics and machine learning go hand-in-hand, as predictive models typically include a machine learning algorithm. - **[[SAS](https://www.sas.com/en_gb/insights/articles/analytics/a-guide-to-predictive-analytics-and-machine-learning.html)]**
 - predictive analytics uses advanced mathematics to **examine patterns to predict the future.** 
 -  **Machine learning is a tool that automates predictive modeling** by generating training algorithms to look for patterns and behaviors in data without explicitly being told what to look for. - **[[TechTarget](https://www.techtarget.com/searchenterpriseai/feature/Machine-learning-and-predictive-analytics-work-better-together)]**
+- **The goal of machine learning is autonomous programming and learning – the enablement of AI**. The difference between data science vs. machine learning is that **data scientists create the algorithms that make machine learning happen**. - **[[CSWeb.Rice](https://csweb.rice.edu/academics/graduate-programs/online-mds/blog/data-science-vs-ai-and-ml)]**
 
+**Question:**
+> How do I apply the theory in practice? how data analyst actually work in real-life? 
 
+**Note:**
+> You need to watch the videos above before exercise the case that I'm about to list below. We are going to focus on `Descriptive` and `Diagnostic` only since it is the steps that Data Scientist do before doing Machine Learning.
 <br>
 
 ##  

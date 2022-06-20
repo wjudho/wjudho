@@ -10,7 +10,7 @@
 
 >**What works for me?**
 
-<detailss><summary><strong>answer</strong></summary>
+<details><summary><strong>answer</strong></summary>
 
 **what works**
 - I don't understand math since high school, even so I still learn machine learning just because we are living in a world where climate change is getting real by days, where AI took our job, and excel is the only thing i've work on for the past 8 years
@@ -24,7 +24,7 @@ a realistic way is to get a job in `Data Analyst` since I don't have confidence 
 
 **What doesn't work for me?**
 
-<detailss><summary><strong>answer</strong></summary>
+<details><summary><strong>answer</strong></summary>
 
 **I tried**
 

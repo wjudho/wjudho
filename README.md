@@ -32,9 +32,9 @@
 [![](https://img.shields.io/badge/-PowerBI-F2C811?style=flat-square&logo=PowerBI&logoColor=white)](https://docs.microsoft.com/en-us/power-bi/fundamentals/desktop-latest-update-archive?tabs=powerbi-desktop#february-2022-update-21026830)
 
 ## :desktop_computer: Portfolio
-| | |
-|:--|:--|
-|[![GitHub](https://img.shields.io/badge/-Under&nbsp;Construction-181717?style=flat-square&logo=Github)](https://wjudho.github.io/)|                                      [![GitHub](https://img.shields.io/badge/-Capstone&nbsp;Bellabeat:&nbsp;EDA&nbsp;Descriptive&nbsp;using&nbsp;R-181717?style=flat-square&logo=Kaggle)](https://www.kaggle.com/code/kacang/capstone-bellabeat-eda-descriptive-using-r)|
+| | ||
+|:--|:--|:--|
+|[![GitHub](https://img.shields.io/badge/-Under&nbsp;Construction-181717?style=flat-square&logo=Github)](https://wjudho.github.io/)|[![GitHub](https://img.shields.io/badge/-Capstone&nbsp;Bellabeat:&nbsp;EDA&nbsp;Descriptive&nbsp;using&nbsp;R-181717?style=flat-square&logo=Kaggle)](https://www.kaggle.com/code/kacang/capstone-bellabeat-eda-descriptive-using-r)|[![GitHub](https://img.shields.io/badge/-My&nbsp;Machine&nbsp;Learning&nbsp;Roadmap-181717?style=flat-square&logo=Github)](https://github.com/wjudho/wjudho/blob/main/Machine%20Learning%20Roadmap.md)|
 <br>
 
 ## :man_student: Certificates

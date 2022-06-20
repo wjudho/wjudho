@@ -33,17 +33,31 @@
 - i took [![](https://img.shields.io/badge/-Basic&nbsp;Algebra&nbsp;Introduction&nbsp;Crash&nbsp;Course-FF0000?style=flat-square&logo=Youtube&logoColor=white)](https://www.youtube.com/watch?v=grnP3mduZkM)&nbsp;[![](https://img.shields.io/badge/-Mathematics&nbsp;for&nbsp;Machine&nbsp;Learning-0F4C75?style=flat-square&logo=learn&logoColor=white)](https://mml-book.com/)&nbsp;[![](https://img.shields.io/badge/-Essense&nbsp;of&nbsp;Linier&nbsp;Algebra-FF0000?style=flat-square&logo=Youtube&logoColor=white)](https://www.youtube.com/playlist?list=PLZHQObOWTQDPD3MizzM2xVFitgF8hE_ab) which are very recommended by a lot of people on the internet. 
 >The problem is, i couldn't imagine the real world application on those math, simply because i learned best by copying or duplicate other people's work. I learned best when there's a problem and solution to solve it. 
 
+**Let me rephrase it this way**
+
+> I know `1 + 1 = 2`, I don't know what to do with it. Then somebody gave me a problem `Wis, i need you to count how many PC's we've been sold this month?` suddenly those connect. 
+
+The problem is i `don't know how to count`, and `have no idea what's the problem are`. I can learn how to count but i'm afraid it will took me a long time to get to the problem.
+
+> What if I learn by doing. Go straight to the problem, then search tutorial on how to count.
+
+The second problem arise. There are far too many variation in using operators `(*/+-)`. Do I have to remember all of those calculations exercise? on the other hand Machine Learning in itself has far too many algorithm to study, it doesn't stop there, when pre-built algorithm proved to be inadequate, Data Scientist will actually built their own equation and using it as a model for their machine learning algorithm. 
+
+> That thought lead me to think: "is tutorial enough ?"
+
 **Think for a second!**
 
 > how can i give you iPhone11 if i don't have prototipe 1,2,3,...10. “The iPhone was designed to be a super slick phone in Steve Jobs' mind,” but then they want to give it music player, then camera, then navigation, then into the culturally dominant, world-eating phenomenon that it is today. They desire results!
 
 **Which leads me to conclusion**
 
-> Learn just enough to do the work, probably how to read code, how to follow the tutorial, then work on portfolio 1,2,3,4,..10 i don't care how many, until confidence built-up, then move on
+> The quickest way to learn is to look at others who learned it before me. Learn just enough to do the work, probably how to read code, how to follow the tutorial, then work on portfolio 1,2,3,4,..10 i don't care how many, until confidence built-up, then move on
 
-sometimes i stumbled upon a dataset in kaggle, and don't understand what their codes supposed to do, then i google it until it makes sense, often i google half a day but no result, i realize i jumped too far.
+sometimes i stumbled upon a dataset in kaggle, and don't understand what their codes supposed to do, then i google it until it makes sense, often i google for half a day but no result, i realize i jumped too far.
 
-> this is where documenting our work in github and kaggle are important. it teachs me that writing helps me spot lacks in my knowledge and understanding.
+> this is where documenting our work in github and kaggle are important. it teachs me that writing actually helps to spot lacks in my knowledge and understanding. Have you ever been in a situation where you've learned a material, but couldn't explain to others.
+
+> This is why people documenting their youtube channel. Some people decide to write, some speak to camera, others create a course. Learn by teachs it to others.
 
 </details><br>
 

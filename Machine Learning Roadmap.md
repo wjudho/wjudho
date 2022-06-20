@@ -9,7 +9,7 @@
 </p>
 <center>
 
-> # The most difficult thing in life is to know yourself. - **Thales**
+# The most difficult thing in life is to know yourself. - **Thales**
 
 </center>
 <br>

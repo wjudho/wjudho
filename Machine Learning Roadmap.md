@@ -17,7 +17,7 @@
 
 ## Analytics in Data Science
 
-
+![](https://raw.githubusercontent.com/wjudho/wjudho/main/images/ML%20DS%20AI%20(1).png)
 
 
 **Key Points:**

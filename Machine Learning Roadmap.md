@@ -33,7 +33,7 @@ a realistic way is to get a job in `Data Analyst` since I don't have confidence 
 
 **Think for a second!**
 
-> how can i give you iPhone11 if i don't have prototipe 1,2,3,...10.
+> how can i give you iPhone11 if i don't have prototipe 1,2,3,...10. “The iPhone was designed to be a super slick phone in Steve Jobs' mind,” but then they want to give it music player, then camera, then navigation, then into the culturally dominant, world-eating phenomenon that it is today. They desire results!
 
 **Which leads me to conclusion**
 

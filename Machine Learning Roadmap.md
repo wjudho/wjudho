@@ -1,7 +1,7 @@
 # My Machine Learning Roadmap
 
 
-
+# PART I - PREPARATION
 ## Learning How-to Learn
 
 <p align="center">
@@ -26,6 +26,8 @@
 <details><summary><strong>answer</strong></summary>
 
 - i took several interactive online course on `Python, R, SQL` a few were finished most were left unfinished. To those which i finished, just after a few months i forgot what i've learned.
+
+- I tried to memorize code turned out there are too many syntax and variation i couldn't keep up. [![](https://img.shields.io/badge/-Do&nbsp;not&nbsp;Memorize&nbsp;Code&nbsp;Just&nbsp;Google&nbsp;it&nbsp;&#8208;&nbsp;Krish&nbsp;Naik-FF0000?style=flat-square&logo=Youtube&logoColor=white)](https://www.youtube.com/watch?v=AavXBoxTCIA)
 
 > I hear and I forget. I see and I remember. I do and I understand. - **Confucius**
 - Watching tutorial most of the time doesn't work for me. I wish it would, but everytime i learn basic function in python it makes me sleepy.
@@ -113,32 +115,35 @@ throughout this entire `Roadmap` we will focusing on curating Data Scientist's w
 -  **Machine learning is a tool that automates predictive modeling** by generating training algorithms to look for patterns and behaviors in data without explicitly being told what to look for. - **[[TechTarget](https://www.techtarget.com/searchenterpriseai/feature/Machine-learning-and-predictive-analytics-work-better-together)]**
 - **The goal of machine learning is autonomous programming and learning – the enablement of AI**. The difference between data science vs. machine learning is that **data scientists create the algorithms that make machine learning happen**. - **[[CSWeb.Rice](https://csweb.rice.edu/academics/graduate-programs/online-mds/blog/data-science-vs-ai-and-ml)]**
 
+# PART II
 
 
-**Question:**
-> How do I apply the theory in practice? how data analyst actually work in real-life? 
 
-**Note:**
-> You need to watch the videos above before exercise the case that I'm about to list below. We are going to focus on `Descriptive` and `Diagnostic` only since it is the steps that Data Scientist do before doing Machine Learning.
-<br>
 
-##  
-## Mathematics
 
-|![](https://editor.analyticsvidhya.com/uploads/97735WhatsApp%20Image%202021-05-31%20at%208.41.44%20PM.jpeg) |
-|:--:|
-|<b>https://www.analyticsvidhya.com/blog/2021/06/how-to-learn-mathematics-for-machine-learning-what-concepts-do-you-need-to-master-in-data-science/</b>|
 
-|||
-|:-|:-|
-|[![](https://img.shields.io/badge/-Do&nbsp;You&nbsp;Need&nbsp;Math&nbsp;for&nbsp;Data&nbsp;Science&nbsp;&#x2047;-FF0000?style=flat-square&logo=Youtube&logoColor=white)](https://www.youtube.com/watch?v=jjidSjVnOLk)||
-**Key Points:**
-- Build a custome model from scratch or use pre-built Model
-- To built a model from scratch you need to create your own equation, which mean you need to know math
-- Math consist of **geometry**, **algebra**, **statistics & probability**, and **calculus**
-- **Statistics & probability** is needed for all data science role
-- Having a limited understanding of **Linier Algebra** is going to help 
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<details>
 
 ## Algorithm
 
@@ -162,8 +167,10 @@ Most of the data science tutorials in the internet require us to follow along by
 |:-|:-|
 |[![](https://img.shields.io/badge/-RMarkdown&nbsp;in&nbsp;Kaggle-20BEFF?style=flat-square&logo=Kaggle&logoColor=white)](https://www.kaggle.com/code/datasniffer/how-to-make-rmarkdown-work-in-kaggle/report)|familiarize yourself with **Kaggle**, `edit&copy` this [[guide](https://www.kaggle.com/code/tavoosi/a-beginner-s-guide-to-machine-learning-with-r)] in kaggle|
 >`Error in parse(text = x, srcfile = src):` usually unsupported library is the cause, simply refrain from using it. Other cause is missing doublequote (") or quote(')
+<br>
 
-
+**UNDER MAINTENANCE**
+--------------------------------------
 
 ## Steps in Machine Learning
 
@@ -175,3 +182,4 @@ Most of the data science tutorials in the internet require us to follow along by
 ### wad
 
 ##
+</details>

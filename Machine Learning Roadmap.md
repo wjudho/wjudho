@@ -26,6 +26,16 @@
 - **Statistics & probability** is needed for all data science role
 - Having a limited understanding of **Linier Algebra** is going to help 
 
+> What did I do?
+
+a realistic way is to get a job in `Data Analyst` since I don't have confidence in `math/stats` even after try learning it. Then I applied this `free course` which teach me excel, SQL, tableau, and R. It took me less than month to finish, what a blast for lazy person like me. The best part of this course is their final exam require me to put portfolio on **Kaggle**. This is the place where i learn that there are so many Data Scientist that show case their work for free. [![](https://img.shields.io/badge/-Google&nbsp;Data&nbsp;Analytics&nbsp;Specialization-0056D2?style=flat-square&logo=Coursera&logoColor=white)](https://www.coursera.org/account/accomplishments/specialization/certificate/XUGJCTUHJT9V) 
+
+> What should people do?
+
+throughout this entire `Roadmap` we will focusing on curating Data Scientist's work on kaggle. Be it their steps, their library, their model, their visualization, their thought process. At the end of the day there's a saying:
+
+>“Repetition is the mother of learning, the father of action, which makes it the architect of accomplishment.” - **Zig Ziglar**
+
 ## Analytics in Data Science
 
 ![](https://raw.githubusercontent.com/wjudho/wjudho/main/images/Site%20Map.png)

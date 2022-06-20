@@ -8,6 +8,57 @@
 <img width="319" height="568" src="https://raw.githubusercontent.com/wjudho/wjudho/main/images/J2.png">
 </p>
 
+>**What works for me?**
+
+<detailss><summary><strong>answer</strong></summary>
+
+**what works**
+- I don't understand math since high school, even so I still learn machine learning just because we are living in a world where climate change is getting real by days, where AI took our job, and excel is the only thing i've work on for the past 8 years
+
+- 
+- 
+and books turned out
+a realistic way is to get a job in `Data Analyst` since I don't have confidence in `math/stats` even after try learning it. Then I applied this `free course` [![](https://img.shields.io/badge/-Google&nbsp;Data&nbsp;Analytics&nbsp;Specialization-0056D2?style=flat-square&logo=Coursera&logoColor=white)](https://www.coursera.org/account/accomplishments/specialization/certificate/XUGJCTUHJT9V) which teach me excel, SQL, tableau, and R. `FYI, i have worked for 8 years in tax accounting using excel only, so i know how mess a data can be`, so it took me less than month to finish, what a blast for lazy person like me. The best part of this course is their final exam require me to put portfolio on **Kaggle**. This is the place where i learn that there are so many Data Scientist that show case their work for free, can you imagine reading people's work and learn that that can actually be copied to you to exercise. 
+</details>
+<br>
+
+**What doesn't work for me?**
+
+<detailss><summary><strong>answer</strong></summary>
+
+**I tried**
+
+- [![](https://img.shields.io/badge/-Basic&nbsp;Algebra&nbsp;Introduction&nbsp;Crash&nbsp;Course-FF0000?style=flat-square&logo=Youtube&logoColor=white)](https://www.youtube.com/watch?v=grnP3mduZkM)&nbsp;[![](https://img.shields.io/badge/-Mathematics&nbsp;for&nbsp;Machine&nbsp;Learning-0F4C75?style=flat-square&logo=learn&logoColor=white)](https://mml-book.com/)[![](https://img.shields.io/badge/-Essense&nbsp;of&nbsp;Linier&nbsp;Algebra-FF0000?style=flat-square&logo=Youtube&logoColor=white)](https://www.youtube.com/playlist?list=PLZHQObOWTQDPD3MizzM2xVFitgF8hE_ab) which are very recommended by a lot of people on the internet. 
+>The problem is, i couldn't imagine the real world application on those math, simply because i learned best by copying or duplicate other people's work. I learned best when there's a problem and solution to solve it. 
+
+**Think for a second!**
+
+> how can i give you iPhone11 if i don't have prototipe 1,2,3,...10.
+
+**Which leads me to conclusion**
+
+> Learn just enough to do the work, probably how to read code, how to follow the tutorial, then work on portfolio 1,2,3,4,..10 i don't care how many, until confidence built-up, then move on
+
+sometimes i stumbled upon a dataset in kaggle, and don't understand what their codes supposed to do, then i google it until it makes sense, often i google half a day but no result, i realize i jumped too far.
+
+> this is where documenting our work in github and kaggle are important. it teachs me that writing helps me spot lacks in my knowledge and understanding.
+
+</details><br>
+
+> **What should people do?**
+
+<details><summary><strong>answer</strong></summary>
+- Understand you, what you have what you lack
+- Creates a small win and confidence (for me getting a certificate really boost by a lot)
+- Always remember to `learn just enough`, because learning to code is daunting and most people says overwhelming by how many the technology and language they need to learn to do their job
+- Learn to rest, not to quit. Quit only if you don't like the idea of this job role.
+- Don't take advice from me, 
+throughout this entire `Roadmap` we will focusing on curating Data Scientist's work on kaggle. Be it their steps, their library, their model, their visualization, their thought process. At the end of the day there's a saying:
+<br>
+
+>“Repetition is the mother of learning, the father of action, which makes it the architect of accomplishment.” - **Zig Ziglar**
+</details>
+
 ## Data Science's Role and Life's Cycle
 
 ![](https://raw.githubusercontent.com/wjudho/wjudho/main/images/ML%20DS%20AI.png)
@@ -26,15 +77,9 @@
 - **Statistics & probability** is needed for all data science role
 - Having a limited understanding of **Linier Algebra** is going to help 
 
-> What did I do?
 
-a realistic way is to get a job in `Data Analyst` since I don't have confidence in `math/stats` even after try learning it. Then I applied this `free course` which teach me excel, SQL, tableau, and R. It took me less than month to finish, what a blast for lazy person like me. The best part of this course is their final exam require me to put portfolio on **Kaggle**. This is the place where i learn that there are so many Data Scientist that show case their work for free. [![](https://img.shields.io/badge/-Google&nbsp;Data&nbsp;Analytics&nbsp;Specialization-0056D2?style=flat-square&logo=Coursera&logoColor=white)](https://www.coursera.org/account/accomplishments/specialization/certificate/XUGJCTUHJT9V) 
 
-> What should people do?
-
-throughout this entire `Roadmap` we will focusing on curating Data Scientist's work on kaggle. Be it their steps, their library, their model, their visualization, their thought process. At the end of the day there's a saying:
-
->“Repetition is the mother of learning, the father of action, which makes it the architect of accomplishment.” - **Zig Ziglar**
+<br>
 
 ## Analytics in Data Science
 

@@ -25,13 +25,12 @@
 
 <details><summary><strong>answer</strong></summary>
 
-**I tried**
 - i took several interactive online course on `Python, R, SQL` a few were finished most were left unfinished. To those which i finished, just after a few months i forgot what i've learned.
 
 > I hear and I forget. I see and I remember. I do and I understand. - **Confucius**
 - Watching tutorial most of the time doesn't work for me. I wish it would, but everytime i learn basic function in python it makes me sleepy.
  
-- [![](https://img.shields.io/badge/-Basic&nbsp;Algebra&nbsp;Introduction&nbsp;Crash&nbsp;Course-FF0000?style=flat-square&logo=Youtube&logoColor=white)](https://www.youtube.com/watch?v=grnP3mduZkM)&nbsp;[![](https://img.shields.io/badge/-Mathematics&nbsp;for&nbsp;Machine&nbsp;Learning-0F4C75?style=flat-square&logo=learn&logoColor=white)](https://mml-book.com/)[![](https://img.shields.io/badge/-Essense&nbsp;of&nbsp;Linier&nbsp;Algebra-FF0000?style=flat-square&logo=Youtube&logoColor=white)](https://www.youtube.com/playlist?list=PLZHQObOWTQDPD3MizzM2xVFitgF8hE_ab) which are very recommended by a lot of people on the internet. 
+- i took [![](https://img.shields.io/badge/-Basic&nbsp;Algebra&nbsp;Introduction&nbsp;Crash&nbsp;Course-FF0000?style=flat-square&logo=Youtube&logoColor=white)](https://www.youtube.com/watch?v=grnP3mduZkM)&nbsp;[![](https://img.shields.io/badge/-Mathematics&nbsp;for&nbsp;Machine&nbsp;Learning-0F4C75?style=flat-square&logo=learn&logoColor=white)](https://mml-book.com/)[![](https://img.shields.io/badge/-Essense&nbsp;of&nbsp;Linier&nbsp;Algebra-FF0000?style=flat-square&logo=Youtube&logoColor=white)](https://www.youtube.com/playlist?list=PLZHQObOWTQDPD3MizzM2xVFitgF8hE_ab) which are very recommended by a lot of people on the internet. 
 >The problem is, i couldn't imagine the real world application on those math, simply because i learned best by copying or duplicate other people's work. I learned best when there's a problem and solution to solve it. 
 
 **Think for a second!**

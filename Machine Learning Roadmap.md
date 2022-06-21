@@ -139,7 +139,54 @@ throughout this entire `Roadmap` we will focusing on curating Data Scientist's w
 -  **Machine learning is a tool that automates predictive modeling** by generating training algorithms to look for patterns and behaviors in data without explicitly being told what to look for. - **[[TechTarget](https://www.techtarget.com/searchenterpriseai/feature/Machine-learning-and-predictive-analytics-work-better-together)]**
 - **The goal of machine learning is autonomous programming and learning – the enablement of AI**. The difference between data science vs. machine learning is that **data scientists create the algorithms that make machine learning happen**. - **[[CSWeb.Rice](https://csweb.rice.edu/academics/graduate-programs/online-mds/blog/data-science-vs-ai-and-ml)]**
 
+## Summary
+
+>I will leave this table without link for now. Use it as a reference of terminology to familiarize with the topics later on. As I'm learning further these terminology will become clear with links. Links will mostly cover the most essential thing in a shape of case or project from other Data Scientist. I suggest reading on [![](https://img.shields.io/badge/-Python&nbsp;for&nbsp;Data&nbsp;Analysis3E-0F4C75?style=flat-square&logo=Python&logoColor=white)](https://wesmckinney.com/book/) specifically on topic `Collection, Cleaning, and EDA` 
+
+|Collection|Cleaning|EDA|Model|Deployment|
+|:-|:-|:-|:-|:-|
+|Read & Write Delimited Formats|Handling Missing Data|3|4|5|
+|JSON Data||3|4|5|
+|XML HTML: Web Sraping||3|4|5|
+|Binary Data Formats||3|4|5|
+|Interacting with Web APIs||3|4|5|
+|Interacting with Database||3|4|5|
+|Binary Data Formats||3|4|5|
+|-||3|4|5|
+|-||3|4|5|
+|-||3|4|5|
+|-||3|4|5|
+
+<br>
+
 # PART II
+
+## Data Analyst Setup
+Most of the data science tutorials in the internet require us to follow along by writing code, creating visuals, loading datasets, and doing statistics analysis ect. How am i gonna practice those if i don't have my computer ready, isn't? 
+<br>
+
+**First, let's try to clear some un-answered question on our mind**
+
+<details><summary><strong>Where to start</strong></summary>
+
+- Usually i would suggest by asking where would you like to work on the project?
+
+</details>
+
+
+|Setup||
+|:-|:-|
+|[![](https://img.shields.io/badge/-RMarkdown:&nbsp;Knit&nbsp;to&nbsp;HTML-FF0000?style=flat-square&logo=Youtube&logoColor=white)](https://www.youtube.com/watch?v=DNS7i2m4sB0)|[![](https://img.shields.io/badge/-GithubDesktop&#x0326;&nbsp;Git&#x0326;&nbsp;&&nbsp;GithubPages-FF0000?style=flat-square&logo=Youtube&logoColor=white)](https://www.youtube.com/watch?v=8Dd7KRpKeaE&t=315s)|
+|[![](https://img.shields.io/badge/-RStudio&#x0326;&nbsp;Python&#x0326;&nbsp;SQL-FF0000?style=flat-square&logo=Youtube&logoColor=white)](https://www.youtube.com/watch?v=LwazHUkU5IQ&list=RDCMUCvZnwzmc3m1Eush-Or8Z6DA&index=1)|d|
+
+|Kaggle||
+|:-|:-|
+|[![](https://img.shields.io/badge/-RMarkdown&nbsp;in&nbsp;Kaggle-20BEFF?style=flat-square&logo=Kaggle&logoColor=white)](https://www.kaggle.com/code/datasniffer/how-to-make-rmarkdown-work-in-kaggle/report)|familiarize yourself with **Kaggle**, `edit&copy` this [[guide](https://www.kaggle.com/code/tavoosi/a-beginner-s-guide-to-machine-learning-with-r)] in kaggle|
+>`Error in parse(text = x, srcfile = src):` usually unsupported library is the cause, simply refrain from using it. Other cause is missing doublequote (") or quote(')
+<br>
+
+
+# PART III
 
 > At this point I believe `PART I` will be proven helpful in the upcoming tutorial. You might recall most of `PART I` terminology in this `PART II` and that's a great sign that our brain is learning. There will be a lot more of terminology that sounds unfamiliar in this section so I will leave these reference down below for you to come back whenever you need. Sometimes we don't know what to google, right? or sometimes we could find nothing from google, this reference will come in handy.
 
@@ -151,6 +198,12 @@ throughout this entire `Roadmap` we will focusing on curating Data Scientist's w
 |[![](https://img.shields.io/badge/-Essense&nbsp;of&nbsp;Linier&nbsp;Algebra&#8208;&nbsp;3blue1brow-FF0000?style=flat-square&logo=Youtube&logoColor=white)](https://www.youtube.com/playlist?list=PLZHQObOWTQDPD3MizzM2xVFitgF8hE_ab)|[![](https://img.shields.io/badge/-Pandas&nbsp;Dataframe&nbsp;Doc&nbsp;&#8208;&nbsp;PyData-181717?style=flat-square&logo=Pandas&logoColor=white)](https://pandas.pydata.org/docs/reference/api/pandas.DataFrame.html)|3|4|
 |[![](https://img.shields.io/badge/-Basic&nbsp;Algebra&#8208;&nbsp;OrganicChemistryTutor-FF0000?style=flat-square&logo=Youtube&logoColor=white)](https://youtube.com/playlist?list=PL0o_zxa4K1BUeF2o-MlNpbRiS-oE2Kn6J)|[![](https://img.shields.io/badge/-Intro&nbsp;to&nbsp;SQL&#8208;&nbsp;KhanAcademy-14BF96?style=flat-square&logo=KhanAcademy&logoColor=white)](https://www.khanacademy.org/computing/computer-programming/sql)|3|4|
 
+## Our First Picked Exercise-Project
+
+## Implementing Data Science Life Cycle
+
+> **Note:** We will omit `Data Collection process` from this table as it already included in every project on **Kaggle**
+> 
 |Collection|Cleaning|EDA|Model|Deployment|
 |:-|:-|:-|:-|:-|
 

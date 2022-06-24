@@ -173,6 +173,9 @@ i've been searching every blog, youtube, books just for the sake to get the answ
 # **THE STATS, AND THE DATA ANALYTICS**
 
 
+<p align="center">
+<img width="283" height="184" src="https://raw.githubusercontent.com/wjudho/wjudho/main/images/tukey.png">
+</p>
 
 |||
 |:-|:-|

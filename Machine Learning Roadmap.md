@@ -1,7 +1,7 @@
-# My Machine Learning Roadmap
+# My Machine Learning Journey
 
 
-# PART I - PREPARATION
+# PART 0
 ## Learning How-to Learn
 
 <p align="center">
@@ -16,9 +16,9 @@
 
 >**What works for me?**
 
-<details><summary><strong>answer</strong></summary>
+<detailss><summary><strong>answer</strong></summary>
 
-- I don't understand math since high school, even so I still learn machine learning just because we are living in a world where climate change is getting real by days, where AI took our job, and excel was the only thing i've work on for the past 8 years
+- I don't understand math since high school, even so I still learn machine learning just because we are living in a world where climate change is getting real by days, where AI took our job, and excel was the only thing i've work on for the past 8 years. `FYI i still learning the subject to this day`
 - Took [![](https://img.shields.io/badge/-Google&nbsp;Data&nbsp;Analytics&nbsp;Professional&nbsp;Certificate-0056D2?style=flat-square&logo=Coursera&logoColor=white)](https://www.coursera.org/professional-certificates/google-data-analytics) was my most logic & best decision. it took me less than a month to finish the course. The best part of this course is their final exam which require me to put portfolio on **Kaggle**. The place where i learned that there are so many Data Scientist that show case their work for free, can you imagine reading people's work and learn that that can actually be copied to you to exercise.
 
 > I've read the syllabus, they don't mention anything about modelling or machine learning
@@ -35,13 +35,23 @@ Right, because their course teaching materials are aimed at educating a Junior D
   - `who should read this book` or 
   - `what this book cover and not` or 
   - `what this book assuming reader's prerequisite knowledge`. 
-</details><br>
+</detailss><br>
 
 **What doesn't work for me?**
 
-<details><summary><strong>answer</strong></summary>
+<detailss><summary><strong>answer</strong></summary>
 
-- Reading a book without without a proper research on topics is like a man on a jungle for me. I tried read `Python for data analysis` back when i wasn't aware the purpose of handling missing data. We remove the missing value, so what? it's daunting back then, since i have no knowledge on data science `theres to much unanswered 5W+1H` it overwhelmed me. I didn't know where to start. Even hours of googling didn't help because there were no `structured big picture`.
+<p align="center">
+<img width="265" height="240" src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d2/A_picture_is_worth_a_thousand_words.jpg/265px-A_picture_is_worth_a_thousand_words.jpg">
+</p>
+
+<center>
+
+> ## Picture is Worth Thousand Words - **Fred R.Barnard**
+
+</center><br>
+
+- Reading a book without without a proper research on topics is like a man on a jungle for me. I tried read [[Python for data analysis](https://wesmckinney.com/book/)] back when i wasn't aware the purpose of handling missing data. We remove the missing value, so what's the purpose? it's daunting back then, since i have no knowledge on data science `theres to much unanswered 5W+1H` it overwhelmed me. I didn't know where to start. Even hours of googling didn't help because there were no `structured big picture`.
 - i took several interactive online course on `Python, R, SQL` a few were finished most were left unfinished. To those which i finished, just after a few months i forgot what i've learned.
 - I tried to memorize code, turned out there are too many syntax and variation i couldn't even keeping up. [![](https://img.shields.io/badge/-Do&nbsp;not&nbsp;Memorize&nbsp;Code&nbsp;Just&nbsp;Google&nbsp;it&nbsp;&#8208;&nbsp;Krish&nbsp;Naik-FF0000?style=flat-square&logo=Youtube&logoColor=white)](https://www.youtube.com/watch?v=AavXBoxTCIA)
 
@@ -52,7 +62,7 @@ Right, because their course teaching materials are aimed at educating a Junior D
 
 **Let me rephrase it this way**
 
-> I know `1 + 1 = 2`, I don't know what to do with it. Then somebody gave me a problem `Wis, i need you to count how many PC's we've been sold this month?` suddenly those connect. 
+> I know `1 + 1 = 2`, I don't know what to do with it. Then somebody gave me a problem `Wis, i need you to count how many PC's we've been sold this month?` suddenly those connect. `Which one should i learn first, the former or the latter?`.
 
 The problem is from the data science perspective `i don't know how to count`, and `have no idea what the problem are`. I can learn how to count but i'm afraid it will took me a long time to get to the problem.
 
@@ -76,11 +86,16 @@ here's the thing, sometimes i stumbled upon a dataset in kaggle, and don't under
 
 > This is why people documenting their youtube channel. Some people decide to write, some speak to camera, others create a course. Learn by teachs it to others.
 
-</details><br>
+> was looking at other's work enough?
+
+There was various method in every data scientist. I can't even fathom what's the origin of their method. often i see a terminology from statistics, and most of the time they put a lot of charts and i ended up just skimming through the material and have no patient in looking at what they actually do.
+
+
+</detailss><br>
 
 > **What should people do?**
 
-<details><summary><strong>answer</strong></summary>
+<detailss><summary><strong>answer</strong></summary>
 
 - Understand you, what you have what you lack
 - Creates a small win and confidence (for me getting a certificate really boost by a lot)
@@ -100,18 +115,72 @@ throughout this entire `Roadmap` we will focusing on curating Data Scientist's w
 
 >“Repetition is the mother of learning, the father of action, which makes it the architect of accomplishment.” - **Zig Ziglar**
 
-</details><br>
+</detailss><br>
 
-## Data Science's Role and Life's Cycle
 
-![](https://raw.githubusercontent.com/wjudho/wjudho/main/images/ML%20DS%20AI.png)
+# PART I
 
-**What do Data Scientist View on this**
+# **THE CONFUSION**
+## **What Do Data Scientist Do**
+
+>The survey of about 80 data scientists was conducted for the second year in a row by CrowdFlower, provider of a “data enrichment” platform for data scientists. Data preparation accounts for about 80% of the work of data scientists. Here are the highlights: - **[[Forbes](https://www.forbes.com/sites/gilpress/2016/03/23/data-preparation-most-time-consuming-least-enjoyable-data-science-task-survey-says/?sh=79a901676f63)]**
+
+<p align="center">
+<img width="384" height="164" src="https://raw.githubusercontent.com/wjudho/wjudho/main/images/80%25.jpg">
+</p>
+
+>**Key Point:** Data Scientist spent more than half of their time doing Data Preparation (Exploratory Data Analysis and Data Cleaning)
+
+## **What are Data Science Job Role**
+
+<p align="center">
+<img width="424" height="227" src=https://raw.githubusercontent.com/wjudho/wjudho/main/images/ML%20DS%20AI.png></p>
+ 
+>To understand more on this topic you can watch these
+
 |||
 |:-|:-|
 |[![](https://img.shields.io/badge/-Data&nbsp;Science&nbsp;Role&nbsp;&#8208;&nbsp;Ken&nbsp;Jee-FF0000?style=flat-square&logo=Youtube&logoColor=white)](https://www.youtube.com/watch?v=BZFfNwj7JhE)|[![](https://img.shields.io/badge/-Data&nbsp;Science&nbsp;Role&nbsp;&#8208;&nbsp;Krish&nbsp;Naik-FF0000?style=flat-square&logo=Youtube&logoColor=white)](https://www.youtube.com/watch?v=8LZYMd4MYI0)|
+|[![](https://img.shields.io/badge/-Data&nbsp;Analyst&nbsp;Roadmap&nbsp;&#8208;&nbsp;Krish&nbsp;Naik-FF0000?style=flat-square&logo=Youtube&logoColor=white)](https://www.youtube.com/watch?v=lzP14izI4lQ)|[![](https://img.shields.io/badge/-Data&nbsp;Engineer&nbsp;Roadmap&nbsp;&#8208;&nbsp;Seattle&nbsp;Data&nbsp;Guy-FF0000?style=flat-square&logo=Youtube&logoColor=white)](https://www.youtube.com/watch?v=SpaFPPByOhM&t=277s)|
+
+> **KeyPoint:** 
+> - There are various role in Data Science
+> - Data Analyst is the Entry Level Role in this profession
+> - Data Scientist can have a role as a Machine Learning Researcher, but they needs to have a very good knowledge of Statistics - [[Krish Naik, Youtube 4:42](https://youtu.be/8LZYMd4MYI0?t=282)]
+
+
+## **What Statistics Are We Talking About**
+
+<p align="center">
+<img width="599" height="558" src="https://raw.githubusercontent.com/wjudho/wjudho/main/images/practicalds.png">
+</p>
+
+>This picture above is a table of content from book [[Practical Statistics for Data Scientist](https://www.amazon.com/Practical-Statistics-Data-Scientists-Essential/dp/149207294X)] if you want to learn Data Science from both perspective `(Statistics and Python/R)` I suggest reading the book.
+
+## **Is The Statistics Generally Apply to Any Case**
+
+> i've try to learn from [[**Kaggle**](https://www.kaggle.com/code?sortBy=voteCount&language=Python&tagIds=13201)] `try to open a few of their portofolio/cases/exercises from the link`, i thought i could take key point or similarities between several kernel just to understand their standard approach. Suddenly there's are so many question popped up in my mind.
+
+- What the visual have to do with analysis
+- Where do I start? There are so many terminology i don't familiar with
+- I tried reading statistics book, it doesn't get any better. Either i found textbook (too much text), Practical book (too much equation), or i couldn't get the big picture because some book explain the tools not the process of statistics. I mean why there are so many test? what are they trying to achieve? can i pick just one test? What are the standard process for statistics? what are the steps to do statistics?
+- What is the purpose of statistics? What is Statistics? can i learn Data Science without understanding the Statistics?
+
+> Having no background in Statistics, no idea terminology and purpose of it's test were really overwhelming. I couldn't even properly googling the term. 
+
+i've been searching every blog, youtube, books just for the sake to get the answer of this one big question: `What is the relationship between all of those test`. My brain tells me, the only way i can learn better is by having a big picture of statistics, `how do i do that?`
+
+# **THE STATS, AND THE DATA ANALYTICS**
+
+
+
+|||
+|:-|:-|
 |[![](https://img.shields.io/badge/-Data&nbsp;Science&nbsp;Life&nbsp;Cycle&nbsp;&#8208;&nbsp;Krish&nbsp;Naik-FF0000?style=flat-square&logo=Youtube&logoColor=white)](https://www.youtube.com/watch?v=jkoOpXaD0H4)|[![](https://img.shields.io/badge/-Implementation&nbsp;Data&nbsp;Science&nbsp;&#8208;&nbsp;Krish&nbsp;Naik-FF0000?style=flat-square&logo=Youtube&logoColor=white)](https://www.youtube.com/watch?v=Qz7erR3zVUc)|
-|[![](https://img.shields.io/badge/-Do&nbsp;You&nbsp;Need&nbsp;Math&nbsp;for&nbsp;Data&nbsp;Science&nbsp;&#x2047;&nbsp;&#8208;&nbsp;Sundas&nbsp;Khalid-FF0000?style=flat-square&logo=Youtube&logoColor=white)](https://www.youtube.com/watch?v=jjidSjVnOLk)||
+|[![](https://img.shields.io/badge/-Do&nbsp;You&nbsp;Need&nbsp;Math&nbsp;for&nbsp;Data&nbsp;Science&nbsp;&#x2047;&nbsp;&#8208;&nbsp;Sundas&nbsp;Khalid-FF0000?style=flat-square&logo=Youtube&logoColor=white)](https://www.youtube.com/watch?v=jjidSjVnOLk)|-|
+
+
+
 
 **Key Points:**
 - Build a custome model from scratch or use pre-built Model
@@ -134,6 +203,11 @@ throughout this entire `Roadmap` we will focusing on curating Data Scientist's w
 |[![](https://img.shields.io/badge/-DataScience-FF0000?style=flat-square&logo=Youtube&logoColor=white)](https://www.youtube.com/watch?v=24G_pfcl3qE)|[![](https://img.shields.io/badge/-Descriptive-FF0000?style=flat-square&logo=Youtube&logoColor=white)](https://www.youtube.com/watch?v=cHGhSj_Ax-0)|[![](https://img.shields.io/badge/-Diagnostic-FF0000?style=flat-square&logo=Youtube&logoColor=white)](https://www.youtube.com/watch?v=BPshmz9qxxU)|[![](https://img.shields.io/badge/-Predictive-FF0000?style=flat-square&logo=Youtube&logoColor=white)](https://www.youtube.com/watch?v=4y6fUC56KPw)|[![](https://img.shields.io/badge/-Prescriptive-FF0000?style=flat-square&logo=Youtube&logoColor=white)](https://www.youtube.com/watch?v=046dYegfGrc&list=PLwM2SFDcolcK9WIpn50JkELC0grYP5Pyu&index=3)|
 
 **Key Points:**
+- `Machine learning` and `predictive modeling` are a computer science perspective on modeling data with a focus on algorithmic methods and model skill. `Statistics` and `statistical learning` are a mathematical perspective on modeling data with a focus on data models and on goodness of fit. - **[[MachineLearningMastery](https://machinelearningmastery.com/relationship-between-applied-statistics-and-machine-learning/)]**
+- Statistics is subfield of mathematics - **[[MachineLearningMastery](https://machinelearningmastery.com/what-is-statistics/)]**
+-Statistics allow researchers to collect information, or data, from a large number of people and then summarize their typical experience. […] Statistics are also used to reach conclusions about general differences between groups. […] Statistics can also be used to see if scores on two variables are related and to make predictions. - **[[StatisticsInPlainEnglish, pages ix-x, 2010](https://amzn.to/2Gv0A2V)]**
+- Descriptive statistics are typically used as a preliminary step before more formal inferences are drawn. - **[[Wikipedia](https://en.wikipedia.org/wiki/Statistical_inference)]**
+- In its application across business problems, machine learning is also referred to as predictive analytics. - **[[Wikipedia](https://en.wikipedia.org/wiki/Machine_learning)]**
 - Predictive analytics and machine learning go hand-in-hand, as predictive models typically include a machine learning algorithm. - **[[SAS](https://www.sas.com/en_gb/insights/articles/analytics/a-guide-to-predictive-analytics-and-machine-learning.html)]**
 - predictive analytics uses advanced mathematics to **examine patterns to predict the future.** 
 -  **Machine learning is a tool that automates predictive modeling** by generating training algorithms to look for patterns and behaviors in data without explicitly being told what to look for. - **[[TechTarget](https://www.techtarget.com/searchenterpriseai/feature/Machine-learning-and-predictive-analytics-work-better-together)]**
@@ -167,22 +241,20 @@ Most of the data science tutorials in the internet require us to follow along by
 
 **First, let's try to clear some un-answered question on our mind**
 
-<details><summary><strong>Where to start</strong></summary>
+<p align="center">
+<img width="376" height="260" src="https://raw.githubusercontent.com/wjudho/wjudho/main/images/setup.png">
+</p>
 
-- Usually i would suggest by asking where would you like to work on the project?
-
-</details>
-
-
-|Setup||
+|Platform|Local|
 |:-|:-|
-|[![](https://img.shields.io/badge/-RMarkdown:&nbsp;Knit&nbsp;to&nbsp;HTML-FF0000?style=flat-square&logo=Youtube&logoColor=white)](https://www.youtube.com/watch?v=DNS7i2m4sB0)|[![](https://img.shields.io/badge/-GithubDesktop&#x0326;&nbsp;Git&#x0326;&nbsp;&&nbsp;GithubPages-FF0000?style=flat-square&logo=Youtube&logoColor=white)](https://www.youtube.com/watch?v=8Dd7KRpKeaE&t=315s)|
-|[![](https://img.shields.io/badge/-RStudio&#x0326;&nbsp;Python&#x0326;&nbsp;SQL-FF0000?style=flat-square&logo=Youtube&logoColor=white)](https://www.youtube.com/watch?v=LwazHUkU5IQ&list=RDCMUCvZnwzmc3m1Eush-Or8Z6DA&index=1)|d|
+|[![](https://img.shields.io/badge/-RMarkdown:&nbsp;Knit&nbsp;to&nbsp;HTML-FF0000?style=flat-square&logo=Youtube&logoColor=white)](https://www.youtube.com/watch?v=DNS7i2m4sB0)|[![](https://img.shields.io/badge/-RStudio&#x0326;&nbsp;Python&#x0326;&nbsp;SQL-FF0000?style=flat-square&logo=Youtube&logoColor=white)](https://www.youtube.com/watch?v=LwazHUkU5IQ&list=RDCMUCvZnwzmc3m1Eush-Or8Z6DA&index=1)|
+|[![](https://img.shields.io/badge/-GithubDesktop&#x0326;&nbsp;Git&#x0326;&nbsp;&&nbsp;GithubPages-FF0000?style=flat-square&logo=Youtube&logoColor=white)](https://www.youtube.com/watch?v=8Dd7KRpKeaE&t=315s)|Power BI
+|[![](https://img.shields.io/badge/-RMarkdown&nbsp;in&nbsp;Kaggle-20BEFF?style=flat-square&logo=Kaggle&logoColor=white)](https://www.kaggle.com/code/datasniffer/how-to-make-rmarkdown-work-in-kaggle/report)|Tableau|
 
-|Kaggle||
-|:-|:-|
-|[![](https://img.shields.io/badge/-RMarkdown&nbsp;in&nbsp;Kaggle-20BEFF?style=flat-square&logo=Kaggle&logoColor=white)](https://www.kaggle.com/code/datasniffer/how-to-make-rmarkdown-work-in-kaggle/report)|familiarize yourself with **Kaggle**, `edit&copy` this [[guide](https://www.kaggle.com/code/tavoosi/a-beginner-s-guide-to-machine-learning-with-r)] in kaggle|
->`Error in parse(text = x, srcfile = src):` usually unsupported library is the cause, simply refrain from using it. Other cause is missing doublequote (") or quote(')
+<detailss><summary><strong>Supposed you stumbled upon error where you can't commit version in kaggle, this might be the answer</strong></summary>
+
+> `Error in parse(text = x, srcfile = src):` usually unsupported library is the cause, simply refrain from using it. Other cause is missing doublequote (") or quote(')
+</detailss>
 <br>
 
 
@@ -199,6 +271,13 @@ Most of the data science tutorials in the internet require us to follow along by
 |[![](https://img.shields.io/badge/-Basic&nbsp;Algebra&#8208;&nbsp;OrganicChemistryTutor-FF0000?style=flat-square&logo=Youtube&logoColor=white)](https://youtube.com/playlist?list=PL0o_zxa4K1BUeF2o-MlNpbRiS-oE2Kn6J)|[![](https://img.shields.io/badge/-Intro&nbsp;to&nbsp;SQL&#8208;&nbsp;KhanAcademy-14BF96?style=flat-square&logo=KhanAcademy&logoColor=white)](https://www.khanacademy.org/computing/computer-programming/sql)|3|4|
 
 ## Our First Picked Exercise-Project
+
+> Let's go get our hands dirty by diving straight into the problem. Let's see how much our brain can handle. I specifically looking for a simple project and try to explain it. This project will consist of **collection, cleaning, and EDA**, Remember `just enough` to get the confidence and move on to the next project. Don't worry if you don't understand it. The purpose of this is to get the view of end result and what Data Scientist trying to achieve. We will discuss detail specific every life cycle in the next section `as I learned along the way ` 
+
+
+
+
+
 
 ## Implementing Data Science Life Cycle
 
@@ -228,7 +307,7 @@ Most of the data science tutorials in the internet require us to follow along by
 
 
 
-<details>
+<detailss>
 
 ## Algorithm
 
@@ -267,4 +346,4 @@ Most of the data science tutorials in the internet require us to follow along by
 ### wad
 
 ##
-</details>
+</detailss>

@@ -172,10 +172,19 @@ i've been searching every blog, youtube, books just for the sake to get the answ
 
 # **THE STATS, AND THE DATA ANALYTICS**
 
+## **When Do It Started**
 
 <p align="center">
-<img width="132" height="206" src="https://raw.githubusercontent.com/wjudho/wjudho/main/images/Untitled%20Diagram%20(1).png">
+<img width="187" height="292" src="https://raw.githubusercontent.com/wjudho/wjudho/main/images/Untitled%20Diagram%20(1).png">&nbsp;<img width="187" height="292" src="https://raw.githubusercontent.com/wjudho/wjudho/main/images/Untitled%20Diagram.png">
 </p>
+
+- Statistics is subfield of mathematics - **[[MachineLearningMastery](https://machinelearningmastery.com/what-is-statistics/)]**
+- Statistics allow researchers to collect information, or data, from a large number of people and then summarize their typical experience. […] Statistics are also used to reach conclusions about general differences between groups. […] Statistics can also be used to see if scores on two variables are related and to make predictions. - **[[StatisticsInPlainEnglish, pages ix-x, 2010](https://amzn.to/2Gv0A2V)]**
+
+## **What is Statistics**
+
+
+
 
 |||
 |:-|:-|
@@ -207,8 +216,8 @@ i've been searching every blog, youtube, books just for the sake to get the answ
 
 **Key Points:**
 - `Machine learning` and `predictive modeling` are a computer science perspective on modeling data with a focus on algorithmic methods and model skill. `Statistics` and `statistical learning` are a mathematical perspective on modeling data with a focus on data models and on goodness of fit. - **[[MachineLearningMastery](https://machinelearningmastery.com/relationship-between-applied-statistics-and-machine-learning/)]**
-- Statistics is subfield of mathematics - **[[MachineLearningMastery](https://machinelearningmastery.com/what-is-statistics/)]**
--Statistics allow researchers to collect information, or data, from a large number of people and then summarize their typical experience. […] Statistics are also used to reach conclusions about general differences between groups. […] Statistics can also be used to see if scores on two variables are related and to make predictions. - **[[StatisticsInPlainEnglish, pages ix-x, 2010](https://amzn.to/2Gv0A2V)]**
+
+
 - Descriptive statistics are typically used as a preliminary step before more formal inferences are drawn. - **[[Wikipedia](https://en.wikipedia.org/wiki/Statistical_inference)]**
 - In its application across business problems, machine learning is also referred to as predictive analytics. - **[[Wikipedia](https://en.wikipedia.org/wiki/Machine_learning)]**
 - Predictive analytics and machine learning go hand-in-hand, as predictive models typically include a machine learning algorithm. - **[[SAS](https://www.sas.com/en_gb/insights/articles/analytics/a-guide-to-predictive-analytics-and-machine-learning.html)]**

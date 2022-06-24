@@ -174,7 +174,7 @@ i've been searching every blog, youtube, books just for the sake to get the answ
 
 
 <p align="center">
-<img width="283" height="184" src="https://raw.githubusercontent.com/wjudho/wjudho/main/images/tukey.png">
+<img width="132" height="206" src="https://raw.githubusercontent.com/wjudho/wjudho/main/images/Untitled%20Diagram%20(1).png">
 </p>
 
 |||

@@ -170,12 +170,12 @@ throughout this entire `Roadmap` we will focusing on curating Data Scientist's w
 
 i've been searching every blog, youtube, books just for the sake to get the answer of this one big question: `What is the relationship between all of those test`. My brain tells me, the only way i can learn better is by having a big picture of statistics, `how do i do that?`
 
-# **THE STATS, AND THE DATA ANALYTICS**
+# **THE STATS AND THE DATA ANALYTICS**
 
 ## **When Do It Started**
 
 <p align="center">
-<img width="187" height="292" src="https://raw.githubusercontent.com/wjudho/wjudho/main/images/Untitled%20Diagram%20(1).png">&nbsp;<img width="187" height="292" src="https://raw.githubusercontent.com/wjudho/wjudho/main/images/Untitled%20Diagram.png">
+<img width="187" height="292" src="https://raw.githubusercontent.com/wjudho/wjudho/main/images/Untitled%20Diagram%20(1).png">&nbsp;<img width="187" height="292" src="https://raw.githubusercontent.com/wjudho/wjudho/main/images/Untitled%20Diagram.png"><br><img width="605" height="410" src="https://raw.githubusercontent.com/wjudho/wjudho/main/images/math%20new.png">
 </p>
 
 - Statistics is subfield of mathematics - **[[MachineLearningMastery](https://machinelearningmastery.com/what-is-statistics/)]**
@@ -183,8 +183,18 @@ i've been searching every blog, youtube, books just for the sake to get the answ
 
 ## **What is Statistics**
 
+<p align="center">
+<img width="605" height="410" src="https://raw.githubusercontent.com/wjudho/wjudho/main/images/math%20new.png">
+</p><br>
+
+## 
 
 
+
+
+
+
+# HIDE
 
 |||
 |:-|:-|
@@ -203,6 +213,14 @@ i've been searching every blog, youtube, books just for the sake to get the answ
 - There are many different types of roles in each company. data science job descriptions in one company may differ in other companies. 
 - There are many tools that Data Scientist can use 
 <br>
+
+## **Statistics for Data Science Roadmap**
+
+
+
+
+
+
 
 ## Analytics in Data Science
 

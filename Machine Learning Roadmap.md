@@ -287,8 +287,10 @@ as someone who came from business background i think these videos will be less i
 </p>
 
 > Learn The Basic, Numpy Arrays, and Pandas Basic are Completely Sufficient. Go here
-[![](https://img.shields.io/badge/-LearnPython.org-181717?style=flat-square&logo=Python&logoColor=white)](https://learnpython.org/). The idea is to ge here every now and then everytime we forgot a syntax, use this as a reference. `Don't forget, you can always Google it`. <br>
+[![](https://img.shields.io/badge/-LearnPython.org-181717?style=flat-square&logo=Python&logoColor=white)](https://learnpython.org/). You don't need to remember the syntax, understand will be enough. `You can always Google it`. <br>
 
+
+- **Python Syntax Reference:**[![](https://img.shields.io/badge/-Python&nbsp;Syntax&nbsp;Example&nbsp;by&nbsp;StatisticsGlobe-FF0000?style=flat-square&logo=Youtube&logoColor=white)](https://statisticsglobe.com/python-programming-language) 
 - **Book Recommendation:** [![](https://img.shields.io/badge/-Review&nbsp;by&nbsp;Sundas&nbsp;Khalid-FF0000?style=flat-square&logo=Youtube&logoColor=white)](https://youtu.be/ylOILe-Sc-w?t=487) you can get it from here [[**Practical Statistics for Data Science**](https://github.com/ghoshark/E_Books/blob/master/Practical%20Statistics%20for%20Data%20Scientists.pdf)]
 - **Book Walkthrough:** The book is full of technical, so a Walkthrough, why not? [![](https://img.shields.io/badge/-Walkthrough&nbsp;by&nbsp;Shashank&nbsp;Kalanithy-FF0000?style=flat-square&logo=Youtube&logoColor=white)](https://www.youtube.com/playlist?list=PL-u09-6gP5ZNd6AhULnQHr6ZsF15qy4D0)
 

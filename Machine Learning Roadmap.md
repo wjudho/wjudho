@@ -300,7 +300,6 @@ as someone who came from business background i think these videos will be less i
 <p align="center">
 <img width="707" height="116" src="https://raw.githubusercontent.com/wjudho/wjudho/main/images/setup2.png">
 </p>
-https://www.youtube.com/watch?v=rAN6DBctgJ0&list=PLm9FYjKtq7PwzPtOUpabf-BWEaohdHMWK&index=2
 
 ### **Prerequisite**
 |How to Learn|Basic|Measure|

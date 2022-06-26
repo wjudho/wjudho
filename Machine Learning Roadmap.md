@@ -178,28 +178,39 @@ i've been searching every blog, youtube, books just for the sake to get the answ
 <img width="187" height="292" src="https://raw.githubusercontent.com/wjudho/wjudho/main/images/Untitled%20Diagram%20(1).png">&nbsp;<img width="187" height="292" src="https://raw.githubusercontent.com/wjudho/wjudho/main/images/Untitled%20Diagram.png"><br><img width="605" height="410" src="https://raw.githubusercontent.com/wjudho/wjudho/main/images/math%20new.png">
 </p>
 
+|||
+|:-|:-|
+|[![](https://img.shields.io/badge/-Do&nbsp;You&nbsp;Need&nbsp;Math&nbsp;for&nbsp;Data&nbsp;Science&nbsp;&#x2047;&nbsp;&#8208;&nbsp;Sundas&nbsp;Khalid-FF0000?style=flat-square&logo=Youtube&logoColor=white)](https://www.youtube.com/watch?v=jjidSjVnOLk)||
+
 - Statistics is subfield of mathematics - **[[MachineLearningMastery](https://machinelearningmastery.com/what-is-statistics/)]**
 - Statistics allow researchers to collect information, or data, from a large number of people and then summarize their typical experience. […] Statistics are also used to reach conclusions about general differences between groups. […] Statistics can also be used to see if scores on two variables are related and to make predictions. - **[[StatisticsInPlainEnglish, pages ix-x, 2010](https://amzn.to/2Gv0A2V)]**
 
 ## **What is Statistics**
 
 <p align="center">
-<img width="605" height="410" src="https://raw.githubusercontent.com/wjudho/wjudho/main/images/math%20new.png">
-</p><br>
+<img width="811" height="328" src="https://raw.githubusercontent.com/wjudho/wjudho/main/images/statistical%20process.png">
+</p>
 
-## 
+||||
+|:-|:-|:-|
+|[![](https://img.shields.io/badge/-1.&nbsp;Why&nbsp;Statistical&nbsp;Methods&nbsp;are&nbsp;Needed-FF0000?style=flat-square&logo=Youtube&logoColor=white)](https://www.youtube.com/watch?v=y3A0lUkpAko&list=PLm9FYjKtq7PyqaxpVkODL_PramidLWPcB&index=2)|[![](https://img.shields.io/badge/-2.&nbsp;Descriptive&nbsp;Statistics&nbsp;vs&nbsp;Inferential&nbsp;Statistics-FF0000?style=flat-square&logo=Youtube&logoColor=white)](https://www.youtube.com/watch?v=tFRXsngz4UQ&list=PLm9FYjKtq7PzmbXB0s2R1rxhC_EKM8pmG&index=4)|[![](https://img.shields.io/badge/-3.&nbsp;Statistics&nbsp;from&nbsp;Data&nbsp;Science's&nbsp;Perspective-FF0000?style=flat-square&logo=Youtube&logoColor=white)](https://www.youtube.com/watch?v=Vtvj6fPZ1Ww&list=PLZoTAELRMXVMhVyr3Ri9IQ-t5QPBtxzJO&index=2)|
 
+## **Data Science Life Cycle**
 
+<p align="center">
+<img width="811" height="328" src="https://raw.githubusercontent.com/wjudho/wjudho/main/images/DS%20Statistics.png">
+</p>
+
+|||
+|:-|:-|
+|[![](https://img.shields.io/badge/-Data&nbsp;Science&nbsp;Life&nbsp;Cycle&nbsp;&#8208;&nbsp;Krish&nbsp;Naik-FF0000?style=flat-square&logo=Youtube&logoColor=white)](https://www.youtube.com/watch?v=jkoOpXaD0H4)|[![](https://img.shields.io/badge/-Implementation&nbsp;Data&nbsp;Science&nbsp;&#8208;&nbsp;Krish&nbsp;Naik-FF0000?style=flat-square&logo=Youtube&logoColor=white)](https://www.youtube.com/watch?v=Qz7erR3zVUc)|
 
 
 
 
 # HIDE
 
-|||
-|:-|:-|
-|[![](https://img.shields.io/badge/-Data&nbsp;Science&nbsp;Life&nbsp;Cycle&nbsp;&#8208;&nbsp;Krish&nbsp;Naik-FF0000?style=flat-square&logo=Youtube&logoColor=white)](https://www.youtube.com/watch?v=jkoOpXaD0H4)|[![](https://img.shields.io/badge/-Implementation&nbsp;Data&nbsp;Science&nbsp;&#8208;&nbsp;Krish&nbsp;Naik-FF0000?style=flat-square&logo=Youtube&logoColor=white)](https://www.youtube.com/watch?v=Qz7erR3zVUc)|
-|[![](https://img.shields.io/badge/-Do&nbsp;You&nbsp;Need&nbsp;Math&nbsp;for&nbsp;Data&nbsp;Science&nbsp;&#x2047;&nbsp;&#8208;&nbsp;Sundas&nbsp;Khalid-FF0000?style=flat-square&logo=Youtube&logoColor=white)](https://www.youtube.com/watch?v=jjidSjVnOLk)|-|
+
 
 
 

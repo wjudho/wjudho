@@ -78,7 +78,7 @@ The problem is from the data science perspective `i don't know how to count`, an
 
 The second problem arise. There are far too many variation in using operators `(*/+-)`. Do I have to remember all of those calculations exercise? on the other hand Machine Learning in itself has far too many algorithm to study, it doesn't stop there, when pre-built algorithm proved to be inadequate, Data Scientist will actually built their own equation and using it as a model for their machine learning algorithm. 
 
-> That thought lead me to think: "is tutorial enough ?"
+> That thought lead me to think: "is tutorial enough ?" What's the different between tutorial and course?
 
 **Think for a second!**
 
@@ -88,7 +88,7 @@ The second problem arise. There are far too many variation in using operators `(
 
 > The quickest way to learn is to look at others who learned it before me. Learn just enough to do the work, probably how to read code, how to follow the tutorial, then work on portfolio 1,2,3,4,..10 i don't care how many, until confidence built-up, then move on
 
-here's the thing, sometimes i stumbled upon a dataset in kaggle, and don't understand what their codes supposed to do, then i google it until it makes sense, often i google for half a day but no result, `i realize i jumped too far`. Most of the time, i just don't know what to search.
+here's the thing, sometimes i stumbled upon a dataset in kaggle, and don't understand what their codes supposed to do, then i google it until it makes sense, often i google for half a day but no result, `i realize i jumped too far`. Most of the time, i just don't know what to search. Too much jump will eventually leads me to unstructured learning pattern.
 
 > this is where documenting our work in github and kaggle are important. it teachs me that writing actually helps to spot lacks in my knowledge and understanding. Have you ever been in a situation where you've learned a material, but couldn't explain to others. Our brain tricks itself into the thinking that we understand a subject completely. Turned out, it isn't
 
@@ -181,7 +181,7 @@ throughout this entire `Roadmap` we will focusing on curating Data Scientist's w
 
 >This picture above is a table of content from book [[Practical Statistics for Data Scientist](https://www.amazon.com/Practical-Statistics-Data-Scientists-Essential/dp/149207294X)] if you want to learn Data Science from both perspective `(Statistics and programming language such as Python/R)` I suggest reading the book.
 
-## **Is The Statistics Generally Apply to Any Case**
+## **Is The Statistic Generally Apply to Any Case**
 
 > i've try to learn from [[**Kaggle**](https://www.kaggle.com/code?sortBy=voteCount&language=Python&tagIds=13201)] `try to open a few of their portofolio/cases/exercises from the link`, i thought i could take key point or similarities between several kernel just to understand their standard approach/steps. Suddenly there's are so many question popped up in my mind.
 
@@ -193,8 +193,12 @@ throughout this entire `Roadmap` we will focusing on curating Data Scientist's w
 > Having no background in Statistics, no idea terminology and purpose of it's test were really overwhelming. I couldn't even properly googling the term. 
 
 i've been searching every blog, youtube, books just for the sake to get the answer of this one big question: `What is the relationship between all of those test`. My brain tells me, the only way i can learn better is by having a big picture of statistics, `how do i do that?`
-<br>
 
+> “Recipes tell you nothing. Learning techniques is the key.” **— Tom Colicchio**
+
+This scientist using addition, others are using multiply, and others are using division. Is there a standardized or common practice in this field?
+
+<br>
 ---------------------------------------------------
 
 # **THE STATS, THE DATA ANALYTICS AND THE ANSWER**

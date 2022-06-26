@@ -7,9 +7,10 @@
 <p align="center">
 <img width="319" height="568" src="https://raw.githubusercontent.com/wjudho/wjudho/main/images/J2.png">
 </p>
+
 <center>
 
-# The most difficult thing in life is to know yourself. - **Thales**
+# The Most Difficult Thing in Life is to Know Yourself. - **Thales**
 
 </center>
 <br>

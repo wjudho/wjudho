@@ -1,4 +1,4 @@
-# My Machine Learning Journey
+# My Data Science Learning Process
 
 
 # PART 0
@@ -120,7 +120,7 @@ throughout this entire `Roadmap` we will focusing on curating Data Scientist's w
 
 # PART I
 
-# **THE CONFUSION**
+# **WHAT I AM CONFUSED OF**
 ## **What Do Data Scientist Do**
 
 >The survey of about 80 data scientists was conducted for the second year in a row by CrowdFlower, provider of a “data enrichment” platform for data scientists. Data preparation accounts for about 80% of the work of data scientists. Here are the highlights: - **[[Forbes](https://www.forbes.com/sites/gilpress/2016/03/23/data-preparation-most-time-consuming-least-enjoyable-data-science-task-survey-says/?sh=79a901676f63)]**
@@ -155,11 +155,11 @@ throughout this entire `Roadmap` we will focusing on curating Data Scientist's w
 <img width="599" height="558" src="https://raw.githubusercontent.com/wjudho/wjudho/main/images/practicalds.png">
 </p>
 
->This picture above is a table of content from book [[Practical Statistics for Data Scientist](https://www.amazon.com/Practical-Statistics-Data-Scientists-Essential/dp/149207294X)] if you want to learn Data Science from both perspective `(Statistics and Python/R)` I suggest reading the book.
+>This picture above is a table of content from book [[Practical Statistics for Data Scientist](https://www.amazon.com/Practical-Statistics-Data-Scientists-Essential/dp/149207294X)] if you want to learn Data Science from both perspective `(Statistics and programming language such as Python/R)` I suggest reading the book.
 
 ## **Is The Statistics Generally Apply to Any Case**
 
-> i've try to learn from [[**Kaggle**](https://www.kaggle.com/code?sortBy=voteCount&language=Python&tagIds=13201)] `try to open a few of their portofolio/cases/exercises from the link`, i thought i could take key point or similarities between several kernel just to understand their standard approach. Suddenly there's are so many question popped up in my mind.
+> i've try to learn from [[**Kaggle**](https://www.kaggle.com/code?sortBy=voteCount&language=Python&tagIds=13201)] `try to open a few of their portofolio/cases/exercises from the link`, i thought i could take key point or similarities between several kernel just to understand their standard approach/steps. Suddenly there's are so many question popped up in my mind.
 
 - What the visual have to do with analysis
 - Where do I start? There are so many terminology i don't familiar with
@@ -169,8 +169,9 @@ throughout this entire `Roadmap` we will focusing on curating Data Scientist's w
 > Having no background in Statistics, no idea terminology and purpose of it's test were really overwhelming. I couldn't even properly googling the term. 
 
 i've been searching every blog, youtube, books just for the sake to get the answer of this one big question: `What is the relationship between all of those test`. My brain tells me, the only way i can learn better is by having a big picture of statistics, `how do i do that?`
+<br>
 
-# **THE STATS AND THE DATA ANALYTICS**
+# **THE STATS, THE DATA ANALYTICS AND THE ANSWER**
 
 ## **When Do It Started**
 
@@ -191,6 +192,10 @@ i've been searching every blog, youtube, books just for the sake to get the answ
 <img width="811" height="328" src="https://raw.githubusercontent.com/wjudho/wjudho/main/images/statistical%20process.png">
 </p>
 
+> since Statistics is an applied science you may argue that sometimes you found an overlap terminology in the process. But usually the process is consist of those in the picture above. They are looks similar in process, and you will probably found different steps in some data science books as well.
+
+to understand general view of Statistics and how it's application in Data Science you can watch these videos below. 
+
 ||||
 |:-|:-|:-|
 |[![](https://img.shields.io/badge/-1.&nbsp;Why&nbsp;Statistical&nbsp;Methods&nbsp;are&nbsp;Needed-FF0000?style=flat-square&logo=Youtube&logoColor=white)](https://www.youtube.com/watch?v=y3A0lUkpAko&list=PLm9FYjKtq7PyqaxpVkODL_PramidLWPcB&index=2)|[![](https://img.shields.io/badge/-2.&nbsp;Descriptive&nbsp;Statistics&nbsp;vs&nbsp;Inferential&nbsp;Statistics-FF0000?style=flat-square&logo=Youtube&logoColor=white)](https://www.youtube.com/watch?v=tFRXsngz4UQ&list=PLm9FYjKtq7PzmbXB0s2R1rxhC_EKM8pmG&index=4)|[![](https://img.shields.io/badge/-3.&nbsp;Statistics&nbsp;from&nbsp;Data&nbsp;Science's&nbsp;Perspective-FF0000?style=flat-square&logo=Youtube&logoColor=white)](https://www.youtube.com/watch?v=Vtvj6fPZ1Ww&list=PLZoTAELRMXVMhVyr3Ri9IQ-t5QPBtxzJO&index=2)|
@@ -201,19 +206,17 @@ i've been searching every blog, youtube, books just for the sake to get the answ
 <img width="811" height="328" src="https://raw.githubusercontent.com/wjudho/wjudho/main/images/DS%20Statistics.png">
 </p>
 
+> I've compiled most of Statistics Process in Data Science in general. For a complete detail explanation you can refer to [[**scribbr**](https://www.scribbr.com/category/statistics/)]. Since the process is more or less similar, you may also need to watch what the actual process from the Data Scientist.
+
 |||
 |:-|:-|
 |[![](https://img.shields.io/badge/-Data&nbsp;Science&nbsp;Life&nbsp;Cycle&nbsp;&#8208;&nbsp;Krish&nbsp;Naik-FF0000?style=flat-square&logo=Youtube&logoColor=white)](https://www.youtube.com/watch?v=jkoOpXaD0H4)|[![](https://img.shields.io/badge/-Implementation&nbsp;Data&nbsp;Science&nbsp;&#8208;&nbsp;Krish&nbsp;Naik-FF0000?style=flat-square&logo=Youtube&logoColor=white)](https://www.youtube.com/watch?v=Qz7erR3zVUc)|
 
+--------------------------------------------
 
-
+<details><summary><strong>Under Construction</strong></summary>
 
 # HIDE
-
-
-
-
-
 
 **Key Points:**
 - Build a custome model from scratch or use pre-built Model
@@ -226,12 +229,6 @@ i've been searching every blog, youtube, books just for the sake to get the answ
 <br>
 
 ## **Statistics for Data Science Roadmap**
-
-
-
-
-
-
 
 ## Analytics in Data Science
 
@@ -272,7 +269,9 @@ i've been searching every blog, youtube, books just for the sake to get the answ
 |-||3|4|5|
 |-||3|4|5|
 
-<br>
+</details><br>
+
+<details><summary><strong>Under Construction2</strong></summary>
 
 # PART II
 
@@ -348,7 +347,7 @@ Most of the data science tutorials in the internet require us to follow along by
 
 
 
-<detailss>
+
 
 ## Algorithm
 
@@ -387,4 +386,4 @@ Most of the data science tutorials in the internet require us to follow along by
 ### wad
 
 ##
-</detailss>
+</details>

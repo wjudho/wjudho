@@ -133,6 +133,18 @@ throughout this entire `Roadmap` we will focusing on curating Data Scientist's w
 # PART I
 
 # **WHAT I AM CONFUSED OF**
+
+## **What is So Compeling About This Profession**
+
+<center>
+
+## **Data Scientist: The Sexiest Job of the 21st Century**
+click on the picture</center>
+
+[![Data Scientist: The Sexiest Job of the 21st Century](https://hbr.org/resources/images/article_assets/2008/01/04Oct12_Davenport_data-scientist.jpg)](https://hbr.org/2012/10/data-scientist-the-sexiest-job-of-the-21st-century
+)
+Andrew J Buboltz, silk screen on a page from a high school yearbook, 8.5" x 12", 2011  Tamar Cohen
+
 ## **What Do Data Scientist Do**
 
 >The survey of about 80 data scientists was conducted for the second year in a row by CrowdFlower, provider of a “data enrichment” platform for data scientists. Data preparation accounts for about 80% of the work of data scientists. Here are the highlights: - **[[Forbes](https://www.forbes.com/sites/gilpress/2016/03/23/data-preparation-most-time-consuming-least-enjoyable-data-science-task-survey-says/?sh=79a901676f63)]**
@@ -140,6 +152,12 @@ throughout this entire `Roadmap` we will focusing on curating Data Scientist's w
 <p align="center">
 <img width="384" height="164" src="https://raw.githubusercontent.com/wjudho/wjudho/main/images/80%25.jpg">
 </p>
+
+<center>
+
+[![](https://img.shields.io/badge/-What&nbsp;is&nbsp;Data&nbsp;Science-FF0000?style=flat-square&logo=Youtube&logoColor=white)](https://www.youtube.com/watch?v=BZFfNwj7JhE)
+
+</center>
 
 >**Key Point:** Data Scientist spent more than half of their time doing Data Preparation (Exploratory Data Analysis and Data Cleaning)
 

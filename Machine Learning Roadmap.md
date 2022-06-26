@@ -136,14 +136,7 @@ throughout this entire `Roadmap` we will focusing on curating Data Scientist's w
 
 ## **What is So Compeling About This Profession**
 
-<center>
-
-## **Data Scientist: The Sexiest Job of the 21st Century**
-click on the picture</center>
-
-[![Data Scientist: The Sexiest Job of the 21st Century](https://hbr.org/resources/images/article_assets/2008/01/04Oct12_Davenport_data-scientist.jpg)](https://hbr.org/2012/10/data-scientist-the-sexiest-job-of-the-21st-century
-)
-Andrew J Buboltz, silk screen on a page from a high school yearbook, 8.5" x 12", 2011  Tamar Cohen
+> Hal Varian, the chief economist at Google, is known to have said, “`The sexy job in the next 10 years will be statisticians`. People think I’m joking, but who would’ve guessed that computer engineers would’ve been the sexy job of the 1990s?" - [[**Harvard Business Review**](https://hbr.org/2012/10/data-scientist-the-sexiest-job-of-the-21st-century)]
 
 ## **What Do Data Scientist Do**
 

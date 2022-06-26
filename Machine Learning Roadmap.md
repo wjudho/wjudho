@@ -231,7 +231,7 @@ as someone who came from business background i think these videos will be less i
 # **Where Do We Start**
 
 <p align="center">
-<img width="811" height="328" src="https://raw.githubusercontent.com/wjudho/wjudho/main/images/setup2.png">
+<img width="707" height="116" src="https://raw.githubusercontent.com/wjudho/wjudho/main/images/setup2.png">
 </p>
 
 |||

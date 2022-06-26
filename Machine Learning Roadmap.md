@@ -9,21 +9,26 @@
 </p>
 <center>
 
-> # The most difficult thing in life is to know yourself. - **Thales**
+# The most difficult thing in life is to know yourself. - **Thales**
 
 </center>
 <br>
 
->**What works for me?**
+<details><summary><strong>WHAT WORKS FOR ME</strong></summary>
 
-<detailss><summary><strong>answer</strong></summary>
+> Understand what motivates you is going to help in tough time
 
-- I don't understand math since high school, even so I still learn machine learning just because we are living in a world where climate change is getting real by days, where AI took our job, and excel was the only thing i've work on for the past 8 years. `FYI i still learning the subject to this day`
-- Took [![](https://img.shields.io/badge/-Google&nbsp;Data&nbsp;Analytics&nbsp;Professional&nbsp;Certificate-0056D2?style=flat-square&logo=Coursera&logoColor=white)](https://www.coursera.org/professional-certificates/google-data-analytics) was my most logic & best decision. it took me less than a month to finish the course. The best part of this course is their final exam which require me to put portfolio on **Kaggle**. The place where i learned that there are so many Data Scientist that show case their work for free, can you imagine reading people's work and learn that that can actually be copied to you to exercise.
+- for me, I don't understand math since high school, even so I still learn machine learning just because we are living in a world where climate change is getting real by days, where AI took our job, and excel was the only thing i've work on for the past 8 years. I'am concern by that fact and the future of where we're living in 
 
-> I've read the syllabus, they don't mention anything about modelling or machine learning
+> Take a course
+- [![](https://img.shields.io/badge/-Google&nbsp;Data&nbsp;Analytics&nbsp;Professional&nbsp;Certificate-0056D2?style=flat-square&logo=Coursera&logoColor=white)](https://www.coursera.org/professional-certificates/google-data-analytics) was my most logic & best decision. it took me less than a month to finish the course. The best part of this course is their final exam which require me to put portfolio on **Kaggle**, was kind of `force` me to put portfolio. I'm glad i did, because in this place, i learned that there are so many Data Scientist that show case their work for free, can you imagine reading people's work and learn that that can actually be copied to you to exercise.
 
-Right, because their course teaching materials are aimed at educating a Junior Data Analyst. `see analytics in data science specific on Descriptve and Diagnostic explanation since those are what mostly cover by Google Data Analytics Certificate`
+> on the syllabus, they don't mention anything about modelling or machine learning. Right, because their course teaching materials are aimed at educating a Junior Data Analyst. <br>
+
+<center>
+
+[![](https://img.shields.io/badge/-Google&nbsp;Data&nbsp;Analytics&nbsp;Professional&nbsp;Certificate&nbsp;Review-FF0000?style=flat-square&logo=Youtube&logoColor=white)](https://www.youtube.com/watch?v=MSlIfGSI6bo)
+</center>
 
 **Back to Kaggle**
 
@@ -35,11 +40,10 @@ Right, because their course teaching materials are aimed at educating a Junior D
   - `who should read this book` or 
   - `what this book cover and not` or 
   - `what this book assuming reader's prerequisite knowledge`. 
-</detailss><br>
 
-**What doesn't work for me?**
+</details>
 
-<detailss><summary><strong>answer</strong></summary>
+<details><summary><strong>WHAT DOESN'T WORK FOR ME</strong></summary>
 
 <p align="center">
 <img width="265" height="240" src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d2/A_picture_is_worth_a_thousand_words.jpg/265px-A_picture_is_worth_a_thousand_words.jpg">
@@ -62,9 +66,12 @@ Right, because their course teaching materials are aimed at educating a Junior D
 
 **Let me rephrase it this way**
 
-> I know `1 + 1 = 2`, I don't know what to do with it. Then somebody gave me a problem `Wis, i need you to count how many PC's we've been sold this month?` suddenly those connect. `Which one should i learn first, the former or the latter?`.
+> I know `1 + 1 = 2`, I don't know what to do with it. Then somebody gave me a problem `Wis, i need you to count how many PC's we've been sold this month?` suddenly those connect. `Which one should i learn first, the former or the latter?`. The problem is i wanna know what would he want to count the computer and why does it have to be `1 + 1 = 2`, 
+  - `I need to know WHAT's the problem`
+  - `I also need to know the reason as to WHY yo do that`
+  - `I will find the HOW`
 
-The problem is from the data science perspective `i don't know how to count`, and `have no idea what the problem are`. I can learn how to count but i'm afraid it will took me a long time to get to the problem.
+The problem is from the data science perspective `i don't know how to count`, and `have no idea what the problem are`. I can learn how to count but i'm afraid it will took me a long time to get to the problem. Somebody might tells me how to do it, but then my confusion is `why did they do it that way`
 
 > What if I learn by doing. Go straight to the problem, then search tutorial on how to count.
 
@@ -74,15 +81,15 @@ The second problem arise. There are far too many variation in using operators `(
 
 **Think for a second!**
 
-> how can i give you iPhone11 if i don't have prototipe 1,2,3,...10. “The iPhone was designed to be a super slick phone in Steve Jobs' mind,” but then they want to give it music player, then camera, then navigation, then into the culturally dominant, world-eating phenomenon that it is today. They desire results!
+> how can i give you iPhone11 if i don't have prototipe 1,2,3,...10. “The iPhone was designed to be a super slick phone in Steve Jobs' mind,” but then they want to give it music player, then camera, then navigation, then into the culturally dominant, world-eating phenomenon that it is today. They desire results! not even mention, they are working as team which mean it's a company there is always someone who will correct you if something is wrong.
 
 **Which leads me to conclusion**
 
 > The quickest way to learn is to look at others who learned it before me. Learn just enough to do the work, probably how to read code, how to follow the tutorial, then work on portfolio 1,2,3,4,..10 i don't care how many, until confidence built-up, then move on
 
-here's the thing, sometimes i stumbled upon a dataset in kaggle, and don't understand what their codes supposed to do, then i google it until it makes sense, often i google for half a day but no result, `i realize i jumped too far. I know Ishouldn't carelessly exercising a case without proper preparation or research.`
+here's the thing, sometimes i stumbled upon a dataset in kaggle, and don't understand what their codes supposed to do, then i google it until it makes sense, often i google for half a day but no result, `i realize i jumped too far`. Most of the time, i just don't know what to search.
 
-> this is where documenting our work in github and kaggle are important. it teachs me that writing actually helps to spot lacks in my knowledge and understanding. Have you ever been in a situation where you've learned a material, but couldn't explain to others.
+> this is where documenting our work in github and kaggle are important. it teachs me that writing actually helps to spot lacks in my knowledge and understanding. Have you ever been in a situation where you've learned a material, but couldn't explain to others. Our brain tricks itself into the thinking that we understand a subject completely. Turned out, it isn't
 
 > This is why people documenting their youtube channel. Some people decide to write, some speak to camera, others create a course. Learn by teachs it to others.
 
@@ -91,15 +98,19 @@ here's the thing, sometimes i stumbled upon a dataset in kaggle, and don't under
 There was various method in every data scientist. I can't even fathom what's the origin of their method. often i see a terminology from statistics, and most of the time they put a lot of charts and i ended up just skimming through the material and have no patient in looking at what they actually do.
 
 
-</detailss><br>
+</details><details><summary><strong>WHAT SHOULD PEOPLE DO</strong></summary><br>
 
-> **What should people do?**
+<center>
 
-<detailss><summary><strong>answer</strong></summary>
+[![](https://img.shields.io/badge/-How&nbsp;I&nbsp;Learn&nbsp;Data&nbsp;Science&nbsp;if&nbsp;I&nbsp;Have&nbsp;to&nbsp;Start&nbsp;Over&nbsp;in&nbsp;2022&nbsp;&#8208;&nbsp;Ken&nbsp;Jee-FF0000?style=flat-square&logo=Youtube&logoColor=white)](https://www.youtube.com/watch?v=xpIFS6jZbe8)
+
+</center>
+
+> The sooner you are exposed to the field, the faster you will learn
 
 - Understand you, what you have what you lack
 - Creates a small win and confidence (for me getting a certificate really boost by a lot)
-- Always remember to `learn just enough`, because learning to code is daunting and most people says overwhelming by how many the technology and programming-language they need to learn in order to do their job. `This is not an act of limiting our capabilities`, 
+- Always remember to `learn just enough`, Usually enough to work on a project on your portfolio. Because learning to code is daunting and most people says overwhelming by how many the technology and syntax they need to learn in order to do their job. `This is not an act of limiting our capabilities`, 
 
 > I know my limitation, Data Science is not a goal, it is a journey. 
 
@@ -115,7 +126,7 @@ throughout this entire `Roadmap` we will focusing on curating Data Scientist's w
 
 >“Repetition is the mother of learning, the father of action, which makes it the architect of accomplishment.” - **Zig Ziglar**
 
-</detailss><br>
+</details><br>
 
 
 # PART I
@@ -216,7 +227,11 @@ to understand general view of Statistics and how it's application in Data Scienc
 
 ## Data Science from Business Perspective
 
-![](https://raw.githubusercontent.com/wjudho/wjudho/main/images/Site%20Map.png)
+![]()
+
+<p align="center">
+<img width="535" height="270" src="https://raw.githubusercontent.com/wjudho/wjudho/main/images/Site%20Map.png">
+</p>
 
 as someone who came from business background i think these videos will be less intimidating and more familiar in terminology
 

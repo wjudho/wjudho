@@ -213,6 +213,7 @@ This scientist using addition, others are using multiply, and others are using d
 |:-|:-|
 |[![](https://img.shields.io/badge/-Do&nbsp;You&nbsp;Need&nbsp;Math&nbsp;for&nbsp;Data&nbsp;Science&nbsp;&#x2047;&nbsp;&#8208;&nbsp;Sundas&nbsp;Khalid-FF0000?style=flat-square&logo=Youtube&logoColor=white)](https://www.youtube.com/watch?v=jjidSjVnOLk)||
 
+**Key Points:**
 - Statistics is subfield of mathematics - **[[MachineLearningMastery](https://machinelearningmastery.com/what-is-statistics/)]**
 - Statistics allow researchers to collect information, or data, from a large number of people and then summarize their typical experience. […] Statistics are also used to reach conclusions about general differences between groups. […] Statistics can also be used to see if scores on two variables are related and to make predictions. - **[[StatisticsInPlainEnglish, pages ix-x, 2010](https://amzn.to/2Gv0A2V)]**
 
@@ -229,6 +230,16 @@ to understand general view of Statistics and how it's application in Data Scienc
 ||||
 |:-|:-|:-|
 |[![](https://img.shields.io/badge/-1.&nbsp;Why&nbsp;Statistical&nbsp;Methods&nbsp;are&nbsp;Needed-FF0000?style=flat-square&logo=Youtube&logoColor=white)](https://www.youtube.com/watch?v=y3A0lUkpAko&list=PLm9FYjKtq7PyqaxpVkODL_PramidLWPcB&index=2)|[![](https://img.shields.io/badge/-2.&nbsp;Descriptive&nbsp;Statistics&nbsp;vs&nbsp;Inferential&nbsp;Statistics-FF0000?style=flat-square&logo=Youtube&logoColor=white)](https://www.youtube.com/watch?v=tFRXsngz4UQ&list=PLm9FYjKtq7PzmbXB0s2R1rxhC_EKM8pmG&index=4)|[![](https://img.shields.io/badge/-3.&nbsp;Statistics&nbsp;from&nbsp;Data&nbsp;Science's&nbsp;Perspective-FF0000?style=flat-square&logo=Youtube&logoColor=white)](https://www.youtube.com/watch?v=Vtvj6fPZ1Ww&list=PLZoTAELRMXVMhVyr3Ri9IQ-t5QPBtxzJO&index=2)|
+
+
+**Key Points:**
+- `Machine learning` and `predictive modeling` are a computer science perspective on modeling data with a focus on algorithmic methods and model skill. `Statistics` and `statistical learning` are a mathematical perspective on modeling data with a focus on data models and on goodness of fit. - **[[MachineLearningMastery](https://machinelearningmastery.com/relationship-between-applied-statistics-and-machine-learning/)]**
+- Descriptive statistics are typically used as a preliminary step before more formal inferences are drawn. - **[[Wikipedia](https://en.wikipedia.org/wiki/Statistical_inference)]**
+- In its application across business problems, machine learning is also referred to as predictive analytics. - **[[Wikipedia](https://en.wikipedia.org/wiki/Machine_learning)]**
+- Predictive analytics and machine learning go hand-in-hand, as predictive models typically include a machine learning algorithm. - **[[SAS](https://www.sas.com/en_gb/insights/articles/analytics/a-guide-to-predictive-analytics-and-machine-learning.html)]**
+- predictive analytics uses advanced mathematics to **examine patterns to predict the future.** 
+-  **Machine learning is a tool that automates predictive modeling** by generating training algorithms to look for patterns and behaviors in data without explicitly being told what to look for. - **[[TechTarget](https://www.techtarget.com/searchenterpriseai/feature/Machine-learning-and-predictive-analytics-work-better-together)]**
+- **The goal of machine learning is autonomous programming and learning – the enablement of AI**. The difference between data science vs. machine learning is that **data scientists create the algorithms that make machine learning happen**. - **[[CSWeb.Rice](https://csweb.rice.edu/academics/graduate-programs/online-mds/blog/data-science-vs-ai-and-ml)]**
 
 ## **Data Science Life Cycle**
 
@@ -312,7 +323,7 @@ as someone who came from business background i think these videos will be less i
 |[![](https://img.shields.io/badge/-How&nbsp;to&nbsp;Learn&nbsp;Statistics&nbsp;by&nbsp;Dr&nbsp;Nic-FF0000?style=flat-square&logo=Youtube&logoColor=white)](https://www.youtube.com/watch?v=gSrruN0thAQ&list=PLm9FYjKtq7Py0tUCVrALZqyLXW6Ea8xXI&index=2)|[![](https://img.shields.io/badge/-Statistical&nbsp;Graphs&nbsp;and&nbsp;When&nbsp;to&nbsp;Use&nbsp;Them&nbsp;by&nbsp;Dr&nbsp;Nic-FF0000?style=flat-square&logo=Youtube&logoColor=white)](https://www.youtube.com/watch?v=rllw15xkmUU&list=PLm9FYjKtq7PwzPtOUpabf-BWEaohdHMWK&index=4)|[![](https://img.shields.io/badge/-Standard&nbsp;Deviation&nbsp;and&nbsp;Other&nbsp;Measure&nbsp;of&nbsp;Spread&nbsp;by&nbsp;Dr&nbsp;Nic-FF0000?style=flat-square&logo=Youtube&logoColor=white)](https://www.youtube.com/watch?v=w5vQoJhrEDA&list=PLm9FYjKtq7PwzPtOUpabf-BWEaohdHMWK&index=3)|
 |-|-|[![](https://img.shields.io/badge/-Choosing&nbsp;Which&nbsp;Statistical&nbsp;Test&nbsp;to&nbsp;Use&nbsp;by&nbsp;Dr&nbsp;Nic-FF0000?style=flat-square&logo=Youtube&logoColor=white)](https://www.youtube.com/watch?v=rulIUAN0U3w&list=PLm9FYjKtq7PyqaxpVkODL_PramidLWPcB&index=7)|
 
-
+MULAI-------------------------------------------------
 
 |Collection|Cleaning|EDA|Model|Deployment|
 |:-|:-|:-|:-|:-|
@@ -361,16 +372,7 @@ as someone who came from business background i think these videos will be less i
 
 
 
-**Key Points:**
-- `Machine learning` and `predictive modeling` are a computer science perspective on modeling data with a focus on algorithmic methods and model skill. `Statistics` and `statistical learning` are a mathematical perspective on modeling data with a focus on data models and on goodness of fit. - **[[MachineLearningMastery](https://machinelearningmastery.com/relationship-between-applied-statistics-and-machine-learning/)]**
 
-
-- Descriptive statistics are typically used as a preliminary step before more formal inferences are drawn. - **[[Wikipedia](https://en.wikipedia.org/wiki/Statistical_inference)]**
-- In its application across business problems, machine learning is also referred to as predictive analytics. - **[[Wikipedia](https://en.wikipedia.org/wiki/Machine_learning)]**
-- Predictive analytics and machine learning go hand-in-hand, as predictive models typically include a machine learning algorithm. - **[[SAS](https://www.sas.com/en_gb/insights/articles/analytics/a-guide-to-predictive-analytics-and-machine-learning.html)]**
-- predictive analytics uses advanced mathematics to **examine patterns to predict the future.** 
--  **Machine learning is a tool that automates predictive modeling** by generating training algorithms to look for patterns and behaviors in data without explicitly being told what to look for. - **[[TechTarget](https://www.techtarget.com/searchenterpriseai/feature/Machine-learning-and-predictive-analytics-work-better-together)]**
-- **The goal of machine learning is autonomous programming and learning – the enablement of AI**. The difference between data science vs. machine learning is that **data scientists create the algorithms that make machine learning happen**. - **[[CSWeb.Rice](https://csweb.rice.edu/academics/graduate-programs/online-mds/blog/data-science-vs-ai-and-ml)]**
 
 ## Summary
 

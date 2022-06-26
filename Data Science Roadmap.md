@@ -67,7 +67,7 @@
 
 **Let me rephrase it this way**
 
-> I know `1 + 1 = 2`, I don't know what to do with it. Then somebody gave me a problem `Wis, i need you to count how many PC's we've been sold this month?` suddenly those connect. `Which one should i learn first, the former or the latter?`. The problem is i wanna know what would he want to count the computer and why does it have to be `1 + 1 = 2`, 
+> I know `1 + 1 = 2`, I don't know what to do with it. Then somebody gave me a problem `Wis, i need you to count how many PC's we've been sold this month?` suddenly those connect. `Which one should i learn first, the former or the latter?`. The problem is i wanna know **WHY** would he want to count the computer has been sold and why does it have to be calculated in `1 + 1 = 2` way, 
   - `I need to know WHAT's the problem`
   - `I also need to know the reason as to WHY yo do that`
   - `I will find the HOW`

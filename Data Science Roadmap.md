@@ -69,7 +69,7 @@
 
 > I know `1 + 1 = 2`, I don't know what to do with it. Then somebody gave me a problem `Wis, i need you to count how many PC's we've been sold this month?` suddenly those connect. `Which one should i learn first, the former or the latter?`. The problem is i wanna know **WHY** would he want to count the computer has been sold and why does it have to be calculated in `1 + 1 = 2` way, 
   - `I need to know WHAT's the problem`
-  - `I also need to know the reason as to WHY yo do that`
+  - `I also need to know the reason as to WHY yo do what you trying to solve`
   - `I will find the HOW`
 
 The problem is from the data science perspective `i don't know how to count`, and `have no idea what the problem are`. I can learn how to count but i'm afraid it will took me a long time to get to the problem. Somebody might tells me how to do it, but then my confusion is `why did they do it that way`

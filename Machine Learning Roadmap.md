@@ -171,6 +171,8 @@ throughout this entire `Roadmap` we will focusing on curating Data Scientist's w
 i've been searching every blog, youtube, books just for the sake to get the answer of this one big question: `What is the relationship between all of those test`. My brain tells me, the only way i can learn better is by having a big picture of statistics, `how do i do that?`
 <br>
 
+---------------------------------------------------
+
 # **THE STATS, THE DATA ANALYTICS AND THE ANSWER**
 
 ## **When Do It Started**
@@ -212,33 +214,41 @@ to understand general view of Statistics and how it's application in Data Scienc
 |:-|:-|
 |[![](https://img.shields.io/badge/-Data&nbsp;Science&nbsp;Life&nbsp;Cycle&nbsp;&#8208;&nbsp;Krish&nbsp;Naik-FF0000?style=flat-square&logo=Youtube&logoColor=white)](https://www.youtube.com/watch?v=jkoOpXaD0H4)|[![](https://img.shields.io/badge/-Implementation&nbsp;Data&nbsp;Science&nbsp;&#8208;&nbsp;Krish&nbsp;Naik-FF0000?style=flat-square&logo=Youtube&logoColor=white)](https://www.youtube.com/watch?v=Qz7erR3zVUc)|
 
+## Data Science from Business Perspective
+
+![](https://raw.githubusercontent.com/wjudho/wjudho/main/images/Site%20Map.png)
+
+as someone who came from business background i think these videos will be less intimidating and more familiar in terminology
+
+||||||
+|:-|:-|:-|:-|:-|
+|[![](https://img.shields.io/badge/-DataScience-FF0000?style=flat-square&logo=Youtube&logoColor=white)](https://www.youtube.com/watch?v=24G_pfcl3qE)|[![](https://img.shields.io/badge/-Descriptive-FF0000?style=flat-square&logo=Youtube&logoColor=white)](https://www.youtube.com/watch?v=cHGhSj_Ax-0)|[![](https://img.shields.io/badge/-Diagnostic-FF0000?style=flat-square&logo=Youtube&logoColor=white)](https://www.youtube.com/watch?v=BPshmz9qxxU)|[![](https://img.shields.io/badge/-Predictive-FF0000?style=flat-square&logo=Youtube&logoColor=white)](https://www.youtube.com/watch?v=4y6fUC56KPw)|[![](https://img.shields.io/badge/-Prescriptive-FF0000?style=flat-square&logo=Youtube&logoColor=white)](https://www.youtube.com/watch?v=046dYegfGrc&list=PLwM2SFDcolcK9WIpn50JkELC0grYP5Pyu&index=3)|
+
+--------------------------------------------
+
+# PART II
+
+# **Where Do We Start**
+
+<p align="center">
+<img width="811" height="328" src="https://raw.githubusercontent.com/wjudho/wjudho/main/images/setup2.png">
+</p>
+
+|||
+|:-|:-|
+|[![](https://img.shields.io/badge/-Data&nbsp;Science&nbsp;Life&nbsp;Cycle&nbsp;&#8208;&nbsp;Krish&nbsp;Naik-FF0000?style=flat-square&logo=Youtube&logoColor=white)](https://www.youtube.com/watch?v=jkoOpXaD0H4)|[![](https://img.shields.io/badge/-Implementation&nbsp;Data&nbsp;Science&nbsp;&#8208;&nbsp;Krish&nbsp;Naik-FF0000?style=flat-square&logo=Youtube&logoColor=white)](https://www.youtube.com/watch?v=Qz7erR3zVUc)|
+
+## **What Do Data Scientist Do**
+
+sdasd
+
 --------------------------------------------
 
 <details><summary><strong>Under Construction</strong></summary>
 
-# HIDE
-
-**Key Points:**
-- Build a custome model from scratch or use pre-built Model
-- To built a model from scratch you need to create your own equation, which mean you need to know math
-- Math consist of **geometry**, **algebra**, **statistics & probability**, and **calculus**
-- **Statistics & probability** is needed for all data science role
-- Having a limited understanding of **Linier Algebra** is going to help 
-- There are many different types of roles in each company. data science job descriptions in one company may differ in other companies. 
-- There are many tools that Data Scientist can use 
-<br>
-
 ## **Statistics for Data Science Roadmap**
 
-## Analytics in Data Science
 
-![](https://raw.githubusercontent.com/wjudho/wjudho/main/images/Site%20Map.png)
-
-
-**Watch these video below for detail explanation**
-||||||
-|:-|:-|:-|:-|:-|
-|[![](https://img.shields.io/badge/-DataScience-FF0000?style=flat-square&logo=Youtube&logoColor=white)](https://www.youtube.com/watch?v=24G_pfcl3qE)|[![](https://img.shields.io/badge/-Descriptive-FF0000?style=flat-square&logo=Youtube&logoColor=white)](https://www.youtube.com/watch?v=cHGhSj_Ax-0)|[![](https://img.shields.io/badge/-Diagnostic-FF0000?style=flat-square&logo=Youtube&logoColor=white)](https://www.youtube.com/watch?v=BPshmz9qxxU)|[![](https://img.shields.io/badge/-Predictive-FF0000?style=flat-square&logo=Youtube&logoColor=white)](https://www.youtube.com/watch?v=4y6fUC56KPw)|[![](https://img.shields.io/badge/-Prescriptive-FF0000?style=flat-square&logo=Youtube&logoColor=white)](https://www.youtube.com/watch?v=046dYegfGrc&list=PLwM2SFDcolcK9WIpn50JkELC0grYP5Pyu&index=3)|
 
 **Key Points:**
 - `Machine learning` and `predictive modeling` are a computer science perspective on modeling data with a focus on algorithmic methods and model skill. `Statistics` and `statistical learning` are a mathematical perspective on modeling data with a focus on data models and on goodness of fit. - **[[MachineLearningMastery](https://machinelearningmastery.com/relationship-between-applied-statistics-and-machine-learning/)]**

@@ -165,6 +165,7 @@ throughout this entire `Roadmap` we will focusing on curating Data Scientist's w
 |:-|:-|
 |[![](https://img.shields.io/badge/-Data&nbsp;Science&nbsp;Role&nbsp;&#8208;&nbsp;Ken&nbsp;Jee-FF0000?style=flat-square&logo=Youtube&logoColor=white)](https://www.youtube.com/watch?v=BZFfNwj7JhE)|[![](https://img.shields.io/badge/-Data&nbsp;Science&nbsp;Role&nbsp;&#8208;&nbsp;Krish&nbsp;Naik-FF0000?style=flat-square&logo=Youtube&logoColor=white)](https://www.youtube.com/watch?v=8LZYMd4MYI0)|
 |[![](https://img.shields.io/badge/-Data&nbsp;Analyst&nbsp;Roadmap&nbsp;&#8208;&nbsp;Krish&nbsp;Naik-FF0000?style=flat-square&logo=Youtube&logoColor=white)](https://www.youtube.com/watch?v=lzP14izI4lQ)|[![](https://img.shields.io/badge/-Data&nbsp;Engineer&nbsp;Roadmap&nbsp;&#8208;&nbsp;Seattle&nbsp;Data&nbsp;Guy-FF0000?style=flat-square&logo=Youtube&logoColor=white)](https://www.youtube.com/watch?v=SpaFPPByOhM&t=277s)|
+|[![](https://img.shields.io/badge/-Best&nbsp;Jobs&nbsp;in&nbsp;Data&nbsp;Science&nbsp;&#8208;&nbsp;Luke&nbsp;Barousse-FF0000?style=flat-square&logo=Youtube&logoColor=white)](https://www.youtube.com/watch?v=VrdnBxx8BBI)||
 
 > **KeyPoint:** 
 > - There are various role in Data Science
@@ -294,6 +295,55 @@ as someone who came from business background i think these videos will be less i
 - **Book Recommendation:** [![](https://img.shields.io/badge/-Review&nbsp;by&nbsp;Sundas&nbsp;Khalid-FF0000?style=flat-square&logo=Youtube&logoColor=white)](https://youtu.be/ylOILe-Sc-w?t=487) you can get it from here [[**Practical Statistics for Data Science**](https://github.com/ghoshark/E_Books/blob/master/Practical%20Statistics%20for%20Data%20Scientists.pdf)]
 - **Book Walkthrough:** The book is full of technical, so a Walkthrough, why not? [![](https://img.shields.io/badge/-Walkthrough&nbsp;by&nbsp;Shashank&nbsp;Kalanithy-FF0000?style=flat-square&logo=Youtube&logoColor=white)](https://www.youtube.com/playlist?list=PL-u09-6gP5ZNd6AhULnQHr6ZsF15qy4D0)
 
+## **Learn Statistics**
+
+<p align="center">
+<img width="707" height="116" src="https://raw.githubusercontent.com/wjudho/wjudho/main/images/setup2.png">
+</p>
+https://www.youtube.com/watch?v=rAN6DBctgJ0&list=PLm9FYjKtq7PwzPtOUpabf-BWEaohdHMWK&index=2
+
+### **Prerequisite**
+|How to Learn|Basic|Measure|
+|:-|:-|:-|
+|[![](https://img.shields.io/badge/-Why&nbsp;People&nbsp;Hates&nbsp;Statistics&nbsp;by&nbsp;Dr&nbsp;Nic-FF0000?style=flat-square&logo=Youtube&logoColor=white)](https://www.youtube.com/watch?v=feKpK7eZKHQ&list=PLm9FYjKtq7Py0tUCVrALZqyLXW6Ea8xXI&index=1)|[![](https://img.shields.io/badge/-Why&nbsp;Statistical&nbsp;Methods&nbsp;are&nbsp;Needed-FF0000?style=flat-square&logo=Youtube&logoColor=white)](https://www.youtube.com/watch?v=y3A0lUkpAko&list=PLm9FYjKtq7PyqaxpVkODL_PramidLWPcB&index=2)|[![](https://img.shields.io/badge/-Summary&nbsp;Statistics:&nbsp;What&nbsp;are&nbsp;They&nbspand&nbsp;Which&nbsp;One&nbsp;to&nbsp;Use-FF0000?style=flat-square&logo=Youtube&logoColor=white)](https://www.youtube.com/watch?v=rAN6DBctgJ0&list=PLm9FYjKtq7PwzPtOUpabf-BWEaohdHMWK&index=2)|
+|[![](https://img.shields.io/badge/-How&nbsp;to&nbsp;Learn&nbsp;Statistics&nbsp;by&nbsp;Dr&nbsp;Nic-FF0000?style=flat-square&logo=Youtube&logoColor=white)](https://www.youtube.com/watch?v=gSrruN0thAQ&list=PLm9FYjKtq7Py0tUCVrALZqyLXW6Ea8xXI&index=2)|[![](https://img.shields.io/badge/-Statistical&nbsp;Graphs&nbsp;and&nbsp;When&nbsp;to&nbsp;Use&nbsp;Them&nbsp;by&nbsp;Dr&nbsp;Nic-FF0000?style=flat-square&logo=Youtube&logoColor=white)](https://www.youtube.com/watch?v=rllw15xkmUU&list=PLm9FYjKtq7PwzPtOUpabf-BWEaohdHMWK&index=4)|[![](https://img.shields.io/badge/-Standard&nbsp;Deviation&nbsp;and&nbsp;Other&nbsp;Measure&nbsp;of&nbsp;Spread&nbsp;by&nbsp;Dr&nbsp;Nic-FF0000?style=flat-square&logo=Youtube&logoColor=white)](https://www.youtube.com/watch?v=w5vQoJhrEDA&list=PLm9FYjKtq7PwzPtOUpabf-BWEaohdHMWK&index=3)|
+
+
+
+|Collection|Cleaning|EDA|Model|Deployment|
+|:-|:-|:-|:-|:-|
+|Read & Write Delimited Formats|Handling Missing Data|3|4|5|
+|JSON Data||3|4|5|
+|XML HTML: Web Sraping||3|4|5|
+|Binary Data Formats||3|4|5|
+|Interacting with Web APIs||3|4|5|
+|Interacting with Database||3|4|5|
+|Binary Data Formats||3|4|5|
+|-||3|4|5|
+|-||3|4|5|
+|-||3|4|5|
+|-||3|4|5|
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+--------------------------------------------------------------------------
 # PART III
 
 # **Let's Go Diving In**

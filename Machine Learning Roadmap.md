@@ -243,21 +243,49 @@ as someone who came from business background i think these videos will be less i
 
 # PART II
 
-# **Where Do We Start**
+# **Preparation**
+
+## **Setup Environment**
 
 <p align="center">
 <img width="707" height="116" src="https://raw.githubusercontent.com/wjudho/wjudho/main/images/setup2.png">
 </p>
 
-|||
-|:-|:-|
-|[![](https://img.shields.io/badge/-Data&nbsp;Science&nbsp;Life&nbsp;Cycle&nbsp;&#8208;&nbsp;Krish&nbsp;Naik-FF0000?style=flat-square&logo=Youtube&logoColor=white)](https://www.youtube.com/watch?v=jkoOpXaD0H4)|[![](https://img.shields.io/badge/-Implementation&nbsp;Data&nbsp;Science&nbsp;&#8208;&nbsp;Krish&nbsp;Naik-FF0000?style=flat-square&logo=Youtube&logoColor=white)](https://www.youtube.com/watch?v=Qz7erR3zVUc)|
+> Most of the data science tutorials in the internet require us to follow along by writing code, creating visuals, loading datasets, and doing statistics analysis ect. How am i gonna practice those if i don't have my computer ready, isn't? 
+<br>
 
-## **What Do Data Scientist Do**
+<p align="center">
+<img width="376" height="260" src="https://raw.githubusercontent.com/wjudho/wjudho/main/images/setup.png">
+</p>
 
-sdasd
+- **Platform:** Kaggle or Github can showcase in both `Python and R`. Usually people working from their `Local Computer` first, then after finalize their project, they commit it to the platform. Use both, but familiarize in `Kaggle` is priority. For Github watch tutorial [![](https://img.shields.io/badge/-GithubDesktop&#x0326;&nbsp;Git&#x0326;&nbsp;&&nbsp;GithubPages-FF0000?style=flat-square&logo=Youtube&logoColor=white)](https://www.youtube.com/watch?v=8Dd7KRpKeaE&t=315s). For `Kaggle in R` you can read the tutorial in here [![](https://img.shields.io/badge/-RMarkdown&nbsp;in&nbsp;Kaggle-20BEFF?style=flat-square&logo=Kaggle&logoColor=white)](https://www.kaggle.com/code/datasniffer/how-to-make-rmarkdown-work-in-kaggle/report), as for in `Python` since it's similar to jupyter notebook, i think it's very explanatory.
+- **Python vs R:** 
+  [![](https://img.shields.io/badge/-krish&nbsp;Naik-FF0000?style=flat-square&logo=Youtube&logoColor=white)](https://www.youtube.com/watch?v=0T9VLk0jLzQ)&nbsp;[![](https://img.shields.io/badge/-Sundas&nbsp;Khalid-FF0000?style=flat-square&logo=Youtube&logoColor=white)](https://www.youtube.com/watch?v=Z8JZEzG_nMI)&nbsp;[![](https://img.shields.io/badge/-Luke&nbsp;Barousse-FF0000?style=flat-square&logo=Youtube&logoColor=white)](https://www.youtube.com/watch?v=Zcy-ND_4ydQ&t=2s)
+- **Anaconda vs Conda:** Anaconda is easier to setup, but taking too much memory since it contain full library from the get go. [![](https://img.shields.io/badge/-Anaconda&nbsp;Installation:&nbsp;Krish&nbsp;Naik-FF0000?style=flat-square&logo=Youtube&logoColor=white)](https://www.youtube.com/watch?v=7S865QCGL74&pp=ugMICgJpZBABGAE%3D) &nbsp; or you can coding inside `VSCode Jupyter-Notebook` [![](https://img.shields.io/badge/-RStudio&#x0326;&nbsp;Python&nbsp;VSCode&#x0326;&nbsp;SQL-FF0000?style=flat-square&logo=Youtube&logoColor=white)](https://www.youtube.com/watch?v=LwazHUkU5IQ&list=RDCMUCvZnwzmc3m1Eush-Or8Z6DA&index=1)
 
---------------------------------------------
+<detailss><summary><strong>Supposed you stumbled upon error where you can't commit version in kaggle, this might be the answer</strong></summary>
+
+> **Error Detail:** `Error in parse(text = x, srcfile = src):`<br> 
+> **Explanation:** usually unsupported library is the cause, simply refrain from using it. Other cause is missing doublequote (") or quote(')
+
+## **Learn Basic Python**
+
+<p align="center">
+<img width="707" height="116" src="https://raw.githubusercontent.com/wjudho/wjudho/main/images/setup2.png">
+</p>
+
+> Learn The Basic, Numpy Arrays, and Pandas Basic are Completely Sufficient. Go here
+[![](https://img.shields.io/badge/-LearnPython.org-181717?style=flat-square&logo=Python&logoColor=white)](https://learnpython.org/). The idea is to ge here every now and then everytime we forgot a syntax, use this as a reference. `Don't forget, you can always Google it`. <br>
+
+- **Book Recommendation:** [![](https://img.shields.io/badge/-Review&nbsp;by&nbsp;Sundas&nbsp;Khalid-FF0000?style=flat-square&logo=Youtube&logoColor=white)](https://youtu.be/ylOILe-Sc-w?t=487) you can get it from here [[**Practical Statistics for Data Science**](https://github.com/ghoshark/E_Books/blob/master/Practical%20Statistics%20for%20Data%20Scientists.pdf)]
+- **Book Walkthrough:** The book is full of technical, so a Walkthrough, why not? [![](https://img.shields.io/badge/-Walkthrough&nbsp;by&nbsp;Shashank&nbsp;Kalanithy-FF0000?style=flat-square&logo=Youtube&logoColor=white)](https://www.youtube.com/playlist?list=PL-u09-6gP5ZNd6AhULnQHr6ZsF15qy4D0)
+
+# PART III
+
+# **Let's Go Diving In**
+
+## **Setup Environment**
+-------------------------------------------
 
 <details><summary><strong>Under Construction</strong></summary>
 
@@ -300,25 +328,7 @@ sdasd
 
 # PART II
 
-## Data Analyst Setup
-Most of the data science tutorials in the internet require us to follow along by writing code, creating visuals, loading datasets, and doing statistics analysis ect. How am i gonna practice those if i don't have my computer ready, isn't? 
-<br>
 
-**First, let's try to clear some un-answered question on our mind**
-
-<p align="center">
-<img width="376" height="260" src="https://raw.githubusercontent.com/wjudho/wjudho/main/images/setup.png">
-</p>
-
-|Platform|Local|
-|:-|:-|
-|[![](https://img.shields.io/badge/-RMarkdown:&nbsp;Knit&nbsp;to&nbsp;HTML-FF0000?style=flat-square&logo=Youtube&logoColor=white)](https://www.youtube.com/watch?v=DNS7i2m4sB0)|[![](https://img.shields.io/badge/-RStudio&#x0326;&nbsp;Python&#x0326;&nbsp;SQL-FF0000?style=flat-square&logo=Youtube&logoColor=white)](https://www.youtube.com/watch?v=LwazHUkU5IQ&list=RDCMUCvZnwzmc3m1Eush-Or8Z6DA&index=1)|
-|[![](https://img.shields.io/badge/-GithubDesktop&#x0326;&nbsp;Git&#x0326;&nbsp;&&nbsp;GithubPages-FF0000?style=flat-square&logo=Youtube&logoColor=white)](https://www.youtube.com/watch?v=8Dd7KRpKeaE&t=315s)|Power BI
-|[![](https://img.shields.io/badge/-RMarkdown&nbsp;in&nbsp;Kaggle-20BEFF?style=flat-square&logo=Kaggle&logoColor=white)](https://www.kaggle.com/code/datasniffer/how-to-make-rmarkdown-work-in-kaggle/report)|Tableau|
-
-<detailss><summary><strong>Supposed you stumbled upon error where you can't commit version in kaggle, this might be the answer</strong></summary>
-
-> `Error in parse(text = x, srcfile = src):` usually unsupported library is the cause, simply refrain from using it. Other cause is missing doublequote (") or quote(')
 </detailss>
 <br>
 

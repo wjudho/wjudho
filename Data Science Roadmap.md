@@ -302,11 +302,23 @@ as someone who came from business background i think these videos will be less i
 <img width="707" height="116" src="https://raw.githubusercontent.com/wjudho/wjudho/main/images/setup2.png">
 </p>
 
-> Learn The Basic, Numpy Arrays, and Pandas Basic are Completely Sufficient. Go here
-[![](https://img.shields.io/badge/-LearnPython.org-181717?style=flat-square&logo=Python&logoColor=white)](https://learnpython.org/). You don't need to remember the syntax, understand will be enough. `You can always Google it`. <br>
+>The survey of about 80 data scientists was conducted for the second year in a row by CrowdFlower, provider of a “data enrichment” platform for data scientists. Data preparation accounts for about 80% of the work of data scientists. Here are the highlights: - **[[Forbes](https://www.forbes.com/sites/gilpress/2016/03/23/data-preparation-most-time-consuming-least-enjoyable-data-science-task-survey-says/?sh=79a901676f63)]**
 
+<p align="center">
+<img width="384" height="164" src="https://raw.githubusercontent.com/wjudho/wjudho/main/images/80%25.jpg">
+</p>
 
-- **Python Syntax Reference:**[![](https://img.shields.io/badge/-Python&nbsp;Syntax&nbsp;Example&nbsp;by&nbsp;StatisticsGlobe-FF0000?style=flat-square&logo=Youtube&logoColor=white)](https://statisticsglobe.com/python-programming-language) 
+>**Key Point:** Data Scientist spent more than half of their time doing Data Preparation (Exploratory Data Analysis and Data Cleaning)
+
+> Numpy, Pandas, Seaborn, and Matplotlib if you're good at these no one can stop you become expertise in Exploratory Data Analysis. - **Krish Naik** [![](https://img.shields.io/badge/-How&nbsp;to&nbsp;Become&nbsp;Expert&nbsp;in&nbsp;EDA&nbsp;by&nbsp;Krish&nbsp;Naik-FF0000?style=flat-square&logo=Youtube&logoColor=white)](https://youtu.be/dP170R-wO-8?t=162)
+
+> [![](https://img.shields.io/badge/-LearnPython.org-181717?style=flat-square&logo=Python&logoColor=white)](https://learnpython.org/): Learn The Basic, Numpy Arrays, and Pandas Basic are Completely Sufficient.
+> [![](https://img.shields.io/badge/-Seaborn-181717?style=flat-square&logo=Python&logoColor=white)](https://elitedatascience.com/python-seaborn-tutorial): How to Learn Seaborn, the Self-Starter Way, Using Pokemon Dataset
+<br>
+> [![](https://img.shields.io/badge/-Do&nbsp;not&nbsp;Memorize&nbsp;Code&nbsp;Just&nbsp;Google&nbsp;it&nbsp;&#8208;&nbsp;Krish&nbsp;Naik-FF0000?style=flat-square&logo=Youtube&logoColor=white)](https://www.youtube.com/watch?v=AavXBoxTCIA): You don't need to remember the syntax. `You can always Google it`.
+<br>
+
+- **Python Syntax Reference:** [![](https://img.shields.io/badge/-Python&nbsp;Syntax&nbsp;Example&nbsp;by&nbsp;StatisticsGlobe-FF0000?style=flat-square&logo=Youtube&logoColor=white)](https://statisticsglobe.com/python-programming-language) 
 - **Book Recommendation:** [![](https://img.shields.io/badge/-Review&nbsp;by&nbsp;Sundas&nbsp;Khalid-FF0000?style=flat-square&logo=Youtube&logoColor=white)](https://youtu.be/ylOILe-Sc-w?t=487) you can get it from here [[**Practical Statistics for Data Science**](https://github.com/ghoshark/E_Books/blob/master/Practical%20Statistics%20for%20Data%20Scientists.pdf)]
 - **Book Walkthrough:** The book is full of technical, so a Walkthrough, why not? [![](https://img.shields.io/badge/-Walkthrough&nbsp;by&nbsp;Shashank&nbsp;Kalanithy-FF0000?style=flat-square&logo=Youtube&logoColor=white)](https://www.youtube.com/playlist?list=PL-u09-6gP5ZNd6AhULnQHr6ZsF15qy4D0)
 
@@ -321,7 +333,7 @@ as someone who came from business background i think these videos will be less i
 |:-|:-|:-|
 |[![](https://img.shields.io/badge/-Why&nbsp;People&nbsp;Hates&nbsp;Statistics&nbsp;by&nbsp;Dr&nbsp;Nic-FF0000?style=flat-square&logo=Youtube&logoColor=white)](https://www.youtube.com/watch?v=feKpK7eZKHQ&list=PLm9FYjKtq7Py0tUCVrALZqyLXW6Ea8xXI&index=1)|[![](https://img.shields.io/badge/-Why&nbsp;Statistical&nbsp;Methods&nbsp;are&nbsp;Needed-FF0000?style=flat-square&logo=Youtube&logoColor=white)](https://www.youtube.com/watch?v=y3A0lUkpAko&list=PLm9FYjKtq7PyqaxpVkODL_PramidLWPcB&index=2)|[![](https://img.shields.io/badge/-Summary&nbsp;Statistics:&nbsp;What&nbsp;are&nbsp;They&nbsp;and&nbsp;Which&nbsp;One&nbsp;to&nbsp;Use-FF0000?style=flat-square&logo=Youtube&logoColor=white)](https://www.youtube.com/watch?v=rAN6DBctgJ0&list=PLm9FYjKtq7PwzPtOUpabf-BWEaohdHMWK&index=2)|
 |[![](https://img.shields.io/badge/-How&nbsp;to&nbsp;Learn&nbsp;Statistics&nbsp;by&nbsp;Dr&nbsp;Nic-FF0000?style=flat-square&logo=Youtube&logoColor=white)](https://www.youtube.com/watch?v=gSrruN0thAQ&list=PLm9FYjKtq7Py0tUCVrALZqyLXW6Ea8xXI&index=2)|[![](https://img.shields.io/badge/-Statistical&nbsp;Graphs&nbsp;and&nbsp;When&nbsp;to&nbsp;Use&nbsp;Them&nbsp;by&nbsp;Dr&nbsp;Nic-FF0000?style=flat-square&logo=Youtube&logoColor=white)](https://www.youtube.com/watch?v=rllw15xkmUU&list=PLm9FYjKtq7PwzPtOUpabf-BWEaohdHMWK&index=4)|[![](https://img.shields.io/badge/-Standard&nbsp;Deviation&nbsp;and&nbsp;Other&nbsp;Measure&nbsp;of&nbsp;Spread&nbsp;by&nbsp;Dr&nbsp;Nic-FF0000?style=flat-square&logo=Youtube&logoColor=white)](https://www.youtube.com/watch?v=w5vQoJhrEDA&list=PLm9FYjKtq7PwzPtOUpabf-BWEaohdHMWK&index=3)|
-|-|-|[![](https://img.shields.io/badge/-Choosing&nbsp;Which&nbsp;Statistical&nbsp;Test&nbsp;to&nbsp;Use&nbsp;by&nbsp;Dr&nbsp;Nic-FF0000?style=flat-square&logo=Youtube&logoColor=white)](https://www.youtube.com/watch?v=rulIUAN0U3w&list=PLm9FYjKtq7PyqaxpVkODL_PramidLWPcB&index=7)|
+|-|[![](https://img.shields.io/badge/-Choosing&nbsp;Which&nbsp;Charts&nbsp;to&nbsp;Use&nbsp;by&nbsp;Simple&nbsp;Learning-FF0000?style=flat-square&logo=Youtube&logoColor=white)](https://www.youtube.com/watch?v=uHRqkGXX55I&list=PL0KQuRyPJoe6KjlUM6iNYgt8d0DwI-IGR&index=2)|[![](https://img.shields.io/badge/-Choosing&nbsp;Which&nbsp;Statistical&nbsp;Tests&nbsp;to&nbsp;Use&nbsp;by&nbsp;Dr&nbsp;Nic-FF0000?style=flat-square&logo=Youtube&logoColor=white)](https://www.youtube.com/watch?v=rulIUAN0U3w&list=PLm9FYjKtq7PyqaxpVkODL_PramidLWPcB&index=7)|
 
 MULAI-------------------------------------------------
 

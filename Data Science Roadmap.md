@@ -380,7 +380,13 @@ as someone who came from business background i think these videos will be less i
 <img width="811" height="328" src="https://raw.githubusercontent.com/wjudho/wjudho/main/images/statistical%20process.png">
 </p>
 
+### EDA & Feature Engineering - 2020
+
 [![](https://img.shields.io/badge/-Machine&nbsp;Learning&nbsp;Pipeline&nbsp;&nbsp;by&nbsp;Krish&nbsp;Naik-FF0000?style=flat-square&logo=Youtube&logoColor=white)](https://www.youtube.com/playlist?list=PLZoTAELRMXVMcRQwR5_J8k9S7cffVFq_U)
+
+### EDA & Feature Engineering - 2022
+
+[![](https://img.shields.io/badge/-EDA&nbsp;and&nbsp;Feature&nbsp;Engineering&nbsp;by&nbsp;Krish&nbsp;Naik-FF0000?style=flat-square&logo=Youtube&logoColor=white)](https://www.youtube.com/playlist?list=PLZoTAELRMXVPzj1D0i_6ajJ6gyD22b3jh)
 
 
 <details><summary><strong>TEST1</strong></summary>

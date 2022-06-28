@@ -206,8 +206,16 @@ This scientist using addition, others are using multiply, and others are using d
 ## **When Do It Started**
 
 <p align="center">
-<img width="187" height="292" src="https://raw.githubusercontent.com/wjudho/wjudho/main/images/Untitled%20Diagram%20(1).png">&nbsp;<img width="187" height="292" src="https://raw.githubusercontent.com/wjudho/wjudho/main/images/Untitled%20Diagram.png"><br><img width="605" height="410" src="https://raw.githubusercontent.com/wjudho/wjudho/main/images/math%20new.png">
+<img width="187" height="292" src="https://raw.githubusercontent.com/wjudho/wjudho/main/images/Untitled%20Diagram%20(1).png">&nbsp;<img width="187" height="292" src="https://raw.githubusercontent.com/wjudho/wjudho/main/images/Untitled%20Diagram.png">
+
+**Key Points:**
+> I can take assumption that to learn Data Science by learning Statistics book is a good practice, because everything is statistical method. The programming language is just there to help us to manage and to organize.
+
+<br>
+
+<img width="605" height="410" src="https://raw.githubusercontent.com/wjudho/wjudho/main/images/math%20new.png">
 </p>
+
 
 |||
 |:-|:-|
@@ -286,9 +294,12 @@ as someone who came from business background i think these videos will be less i
 <img width="376" height="260" src="https://raw.githubusercontent.com/wjudho/wjudho/main/images/setup.png">
 </p>
 
-- **Platform:** Kaggle or Github can showcase in both `Python and R`. Usually people working from their `Local Computer` first, then after finalize their project, they commit it to the platform. Use both, but familiarize in `Kaggle` is priority. For Github watch tutorial [![](https://img.shields.io/badge/-GithubDesktop&#x0326;&nbsp;Git&#x0326;&nbsp;&&nbsp;GithubPages-FF0000?style=flat-square&logo=Youtube&logoColor=white)](https://www.youtube.com/watch?v=8Dd7KRpKeaE&t=315s). For `Kaggle in R` you can read the tutorial in here [![](https://img.shields.io/badge/-RMarkdown&nbsp;in&nbsp;Kaggle-20BEFF?style=flat-square&logo=Kaggle&logoColor=white)](https://www.kaggle.com/code/datasniffer/how-to-make-rmarkdown-work-in-kaggle/report), as for in `Python` since it's similar to jupyter notebook, i think it's very explanatory.
+- **Kaggle:** Kaggle allows users to find and publish data sets, explore and build models in a web-based data-science environment, work with other data scientists and machine learning engineers, and enter competitions to solve data science challenges. `Personally i used it to exercise, think it this way most of data scientist publish their portfolio here, you can read their steps and codes` 
+- **Github:** GitHub is an increasingly popular programming resource used for code sharing. It's a social networking site for programmers that many companies and organizations use to facilitate project management and collaboration. `I personally like to used it for non-data science portfolio sharing, heck i can use it for blogging my learning journey too. I just throw a bunchs of links and tutorial from across the internet and compile it such a way that even beginner can understand the steps`
+
+- **Platform:** Usually people working from their `Local Computer` first, then after finalize their project, they commit it to the platform like `Kaggle and Github`. Use both, but familiarize in `Kaggle` is priority. For Github watch tutorial [![](https://img.shields.io/badge/-GithubDesktop&#x0326;&nbsp;Git&#x0326;&nbsp;&&nbsp;GithubPages-FF0000?style=flat-square&logo=Youtube&logoColor=white)](https://www.youtube.com/watch?v=8Dd7KRpKeaE&t=315s). For `Kaggle in R` you can read the tutorial in here [![](https://img.shields.io/badge/-RMarkdown&nbsp;in&nbsp;Kaggle-20BEFF?style=flat-square&logo=Kaggle&logoColor=white)](https://www.kaggle.com/code/datasniffer/how-to-make-rmarkdown-work-in-kaggle/report), as for in `Python` since it's similar to jupyter notebook, i think it's very explanatory.
 - **Python vs R:** 
-  [![](https://img.shields.io/badge/-krish&nbsp;Naik-FF0000?style=flat-square&logo=Youtube&logoColor=white)](https://www.youtube.com/watch?v=0T9VLk0jLzQ)&nbsp;[![](https://img.shields.io/badge/-Sundas&nbsp;Khalid-FF0000?style=flat-square&logo=Youtube&logoColor=white)](https://www.youtube.com/watch?v=Z8JZEzG_nMI)&nbsp;[![](https://img.shields.io/badge/-Luke&nbsp;Barousse-FF0000?style=flat-square&logo=Youtube&logoColor=white)](https://www.youtube.com/watch?v=Zcy-ND_4ydQ&t=2s)
+  [![](https://img.shields.io/badge/-krish&nbsp;Naik-FF0000?style=flat-square&logo=Youtube&logoColor=white)](https://www.youtube.com/watch?v=0T9VLk0jLzQ)&nbsp;[![](https://img.shields.io/badge/-Sundas&nbsp;Khalid-FF0000?style=flat-square&logo=Youtube&logoColor=white)](https://www.youtube.com/watch?v=Z8JZEzG_nMI)&nbsp;[![](https://img.shields.io/badge/-Luke&nbsp;Barousse-FF0000?style=flat-square&logo=Youtube&logoColor=white)](https://www.youtube.com/watch?v=Zcy-ND_4ydQ&t=2s) I picked R first then moved on to Python. Since i have no experience in both i couldn't tell much
 - **Anaconda vs Conda:** Anaconda is easier to setup, but taking too much memory since it contain full library from the get go. [![](https://img.shields.io/badge/-Anaconda&nbsp;Installation:&nbsp;Krish&nbsp;Naik-FF0000?style=flat-square&logo=Youtube&logoColor=white)](https://www.youtube.com/watch?v=7S865QCGL74&pp=ugMICgJpZBABGAE%3D) &nbsp; or you can coding inside `VSCode Jupyter-Notebook` [![](https://img.shields.io/badge/-RStudio&#x0326;&nbsp;Python&nbsp;VSCode&#x0326;&nbsp;SQL-FF0000?style=flat-square&logo=Youtube&logoColor=white)](https://www.youtube.com/watch?v=LwazHUkU5IQ&list=RDCMUCvZnwzmc3m1Eush-Or8Z6DA&index=1)
 
 <detailss><summary><strong>Supposed you stumbled upon error where you can't commit version in kaggle, this might be the answer</strong></summary>
@@ -310,17 +321,22 @@ as someone who came from business background i think these videos will be less i
 
 >**Key Point:** Data Scientist spent more than half of their time doing Data Preparation (Exploratory Data Analysis and Data Cleaning)
 
+**Tips**
 > Numpy, Pandas, Seaborn, and Matplotlib if you're good at these no one can stop you become expertise in Exploratory Data Analysis. - **Krish Naik** [![](https://img.shields.io/badge/-How&nbsp;to&nbsp;Become&nbsp;Expert&nbsp;in&nbsp;EDA&nbsp;by&nbsp;Krish&nbsp;Naik-FF0000?style=flat-square&logo=Youtube&logoColor=white)](https://youtu.be/dP170R-wO-8?t=162)
 
+> You don't need to remember the syntax. `You can always Google it`. [![](https://img.shields.io/badge/-Do&nbsp;not&nbsp;Memorize&nbsp;Code&nbsp;Just&nbsp;Google&nbsp;it&nbsp;&#8208;&nbsp;Krish&nbsp;Naik-FF0000?style=flat-square&logo=Youtube&logoColor=white)](https://www.youtube.com/watch?v=AavXBoxTCIA)
+
+
+**References**
 > [![](https://img.shields.io/badge/-LearnPython.org-181717?style=flat-square&logo=Python&logoColor=white)](https://learnpython.org/): Learn The Basic, Numpy Arrays, and Pandas Basic are Completely Sufficient.
-> [![](https://img.shields.io/badge/-Seaborn-181717?style=flat-square&logo=Python&logoColor=white)](https://elitedatascience.com/python-seaborn-tutorial): How to Learn Seaborn, the Self-Starter Way, Using Pokemon Dataset
-<br>
-> [![](https://img.shields.io/badge/-Do&nbsp;not&nbsp;Memorize&nbsp;Code&nbsp;Just&nbsp;Google&nbsp;it&nbsp;&#8208;&nbsp;Krish&nbsp;Naik-FF0000?style=flat-square&logo=Youtube&logoColor=white)](https://www.youtube.com/watch?v=AavXBoxTCIA): You don't need to remember the syntax. `You can always Google it`.
+> [![](https://img.shields.io/badge/-Seaborn-181717?style=flat-square&logo=Python&logoColor=white)](https://elitedatascience.com/python-seaborn-tutorial): How to Learn Seaborn, the Self-Starter Way, Using Pokemon Dataset 
 <br>
 
-- **Python Syntax Reference:** [![](https://img.shields.io/badge/-Python&nbsp;Syntax&nbsp;Example&nbsp;by&nbsp;StatisticsGlobe-FF0000?style=flat-square&logo=Youtube&logoColor=white)](https://statisticsglobe.com/python-programming-language) 
-- **Book Recommendation:** [![](https://img.shields.io/badge/-Review&nbsp;by&nbsp;Sundas&nbsp;Khalid-FF0000?style=flat-square&logo=Youtube&logoColor=white)](https://youtu.be/ylOILe-Sc-w?t=487) you can get it from here [[**Practical Statistics for Data Science**](https://github.com/ghoshark/E_Books/blob/master/Practical%20Statistics%20for%20Data%20Scientists.pdf)]
-- **Book Walkthrough:** The book is full of technical, so a Walkthrough, why not? [![](https://img.shields.io/badge/-Walkthrough&nbsp;by&nbsp;Shashank&nbsp;Kalanithy-FF0000?style=flat-square&logo=Youtube&logoColor=white)](https://www.youtube.com/playlist?list=PL-u09-6gP5ZNd6AhULnQHr6ZsF15qy4D0)
+> [![](https://img.shields.io/badge/-Python&nbsp;Syntax&nbsp;Example&nbsp;by&nbsp;StatisticsGlobe-181717?style=flat-square&logo=Python&logoColor=white)](https://statisticsglobe.com/python-programming-language): Python Syntax Reference
+
+**Book Recommendation**
+> [![](https://img.shields.io/badge/-Review&nbsp;by&nbsp;Sundas&nbsp;Khalid-FF0000?style=flat-square&logo=Youtube&logoColor=white)](https://youtu.be/ylOILe-Sc-w?t=487) you can get it from here [[**Practical Statistics for Data Science**](https://github.com/ghoshark/E_Books/blob/master/Practical%20Statistics%20for%20Data%20Scientists.pdf)]
+> [![](https://img.shields.io/badge/-Walkthrough&nbsp;by&nbsp;Shashank&nbsp;Kalanithy-FF0000?style=flat-square&logo=Youtube&logoColor=white)](https://www.youtube.com/playlist?list=PL-u09-6gP5ZNd6AhULnQHr6ZsF15qy4D0): Since The book is full of technical in both statistics and programming language, so a Walkthrough, why not?
 
 ## **Learn Statistics**
 
@@ -335,7 +351,42 @@ as someone who came from business background i think these videos will be less i
 |[![](https://img.shields.io/badge/-How&nbsp;to&nbsp;Learn&nbsp;Statistics&nbsp;by&nbsp;Dr&nbsp;Nic-FF0000?style=flat-square&logo=Youtube&logoColor=white)](https://www.youtube.com/watch?v=gSrruN0thAQ&list=PLm9FYjKtq7Py0tUCVrALZqyLXW6Ea8xXI&index=2)|[![](https://img.shields.io/badge/-Statistical&nbsp;Graphs&nbsp;and&nbsp;When&nbsp;to&nbsp;Use&nbsp;Them&nbsp;by&nbsp;Dr&nbsp;Nic-FF0000?style=flat-square&logo=Youtube&logoColor=white)](https://www.youtube.com/watch?v=rllw15xkmUU&list=PLm9FYjKtq7PwzPtOUpabf-BWEaohdHMWK&index=4)|[![](https://img.shields.io/badge/-Standard&nbsp;Deviation&nbsp;and&nbsp;Other&nbsp;Measure&nbsp;of&nbsp;Spread&nbsp;by&nbsp;Dr&nbsp;Nic-FF0000?style=flat-square&logo=Youtube&logoColor=white)](https://www.youtube.com/watch?v=w5vQoJhrEDA&list=PLm9FYjKtq7PwzPtOUpabf-BWEaohdHMWK&index=3)|
 |-|[![](https://img.shields.io/badge/-Choosing&nbsp;Which&nbsp;Charts&nbsp;to&nbsp;Use&nbsp;by&nbsp;Simple&nbsp;Learning-FF0000?style=flat-square&logo=Youtube&logoColor=white)](https://www.youtube.com/watch?v=uHRqkGXX55I&list=PL0KQuRyPJoe6KjlUM6iNYgt8d0DwI-IGR&index=2)|[![](https://img.shields.io/badge/-Choosing&nbsp;Which&nbsp;Statistical&nbsp;Tests&nbsp;to&nbsp;Use&nbsp;by&nbsp;Dr&nbsp;Nic-FF0000?style=flat-square&logo=Youtube&logoColor=white)](https://www.youtube.com/watch?v=rulIUAN0U3w&list=PLm9FYjKtq7PyqaxpVkODL_PramidLWPcB&index=7)|
 
-MULAI-------------------------------------------------
+
+
+--------------------------------------------------------------------------
+# PART III
+
+# **The Tutorials**
+
+<p align="center">
+<img width="375" height="350" src="https://www.quotemaster.org/images/aa/aaa979b1968fd57e3f771ab4e96b40d5.jpg">
+</p>
+
+
+<center>
+
+## "Tell me and I forget. Teach me and I remember. Involve me and I learn." – **Benjamin Franklin**
+
+</center>
+
+## **Full Data Science Workflow**
+
+<p align="center">
+<img width="811" height="328" src="https://raw.githubusercontent.com/wjudho/wjudho/main/images/statistical%20process.png">
+</p>
+
+[![](https://img.shields.io/badge/-Machine&nbsp;Learning&nbsp;Pipeline&nbsp;&nbsp;by&nbsp;Krish&nbsp;Naik-FF0000?style=flat-square&logo=Youtube&logoColor=white)](https://www.youtube.com/playlist?list=PLZoTAELRMXVMcRQwR5_J8k9S7cffVFq_U)
+
+
+<details><summary><strong>TEST1</strong></summary>
+I compiled **Krish Naik** videos in a Structured way which represent Data Science Workflow. [![](https://img.shields.io/badge/-Complete&nbsp;Machine&nbsp;Learning&nbsp;Playlist&nbsp;by&nbsp;Krish&nbsp;Naik-FF0000?style=flat-square&logo=Youtube&logoColor=white)](https://www.youtube.com/playlist?list=PLZoTAELRMXVPBTrWtJkn3wWQxZkmTXGwe)
+> The purpose I had in mind when I create this is, `not to learn python for the sake of learning`. Python, &  Statistics are tools to help Data Scientist to get information to get the outcome (prediction, model, & automation). 
+
+1. `What` you try to achieve, method are you using
+2. `Why` you want to achieve, do you use this method and 
+3. `How` do you do that, 
+
+> It's easier for me personally to learn by these sequence every steps. Some tutorial are too many steps and too deep in detail would bring every person lost track to the `What & Why` part. When we are talking about parts it's easy to get lost especially when there is a missing link to connect between the parts. The sequence is helpful but the connection or the overview must come first or else supposed a person learning the material would lose the context. They probably can do the `How` but not so much on the `Why`.
 
 |Collection|Cleaning|EDA|Model|Deployment|
 |:-|:-|:-|:-|:-|
@@ -351,31 +402,8 @@ MULAI-------------------------------------------------
 |-||3|4|5|
 |-||3|4|5|
 
+</details>
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
---------------------------------------------------------------------------
-# PART III
-
-# **Let's Go Diving In**
-
-## **Setup Environment**
 -------------------------------------------
 
 <details><summary><strong>Under Construction</strong></summary>

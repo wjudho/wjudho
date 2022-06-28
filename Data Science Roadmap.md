@@ -326,13 +326,14 @@ as someone who came from business background i think these videos will be less i
 >**Key Point:** Data Scientist spent more than half of their time doing Data Preparation (Exploratory Data Analysis and Data Cleaning)
 
 **Tips**
-> Numpy, Pandas, Seaborn, and Matplotlib if you're good at these no one can stop you become expertise in Exploratory Data Analysis. - **Krish Naik** [![](https://img.shields.io/badge/-How&nbsp;to&nbsp;Become&nbsp;Expert&nbsp;in&nbsp;EDA&nbsp;by&nbsp;Krish&nbsp;Naik-FF0000?style=flat-square&logo=Youtube&logoColor=white)](https://youtu.be/dP170R-wO-8?t=162)
+> [![](https://img.shields.io/badge/-How&nbsp;to&nbsp;Become&nbsp;Expert&nbsp;in&nbsp;EDA&nbsp;by&nbsp;Krish&nbsp;Naik-FF0000?style=flat-square&logo=Youtube&logoColor=white)](https://youtu.be/dP170R-wO-8?t=162) Numpy, Pandas, Seaborn, and Matplotlib if you're good at these no one can stop you become expertise in Exploratory Data Analysis. - **Krish Naik**
 
-> You don't need to remember the syntax. `You can always Google it`. [![](https://img.shields.io/badge/-Do&nbsp;not&nbsp;Memorize&nbsp;Code&nbsp;Just&nbsp;Google&nbsp;it&nbsp;&#8208;&nbsp;Krish&nbsp;Naik-FF0000?style=flat-square&logo=Youtube&logoColor=white)](https://www.youtube.com/watch?v=AavXBoxTCIA)
+> [![](https://img.shields.io/badge/-Do&nbsp;not&nbsp;Memorize&nbsp;Code&nbsp;Just&nbsp;Google&nbsp;it&nbsp;&#8208;&nbsp;Krish&nbsp;Naik-FF0000?style=flat-square&logo=Youtube&logoColor=white)](https://www.youtube.com/watch?v=AavXBoxTCIA) You don't need to remember the syntax. `You can always Google it`.
 
 
 **References**
 > [![](https://img.shields.io/badge/-LearnPython.org-181717?style=flat-square&logo=Python&logoColor=white)](https://learnpython.org/): Learn The Basic, Numpy Arrays, and Pandas Basic are Completely Sufficient.
+
 > [![](https://img.shields.io/badge/-Seaborn-181717?style=flat-square&logo=Python&logoColor=white)](https://elitedatascience.com/python-seaborn-tutorial): How to Learn Seaborn, the Self-Starter Way, Using Pokemon Dataset 
 <br>
 

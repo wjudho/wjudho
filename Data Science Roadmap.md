@@ -165,7 +165,7 @@ throughout this entire `Roadmap` we will focusing on curating Data Scientist's w
 |:-|:-|
 |[![](https://img.shields.io/badge/-Data&nbsp;Science&nbsp;Role&nbsp;&#8208;&nbsp;Ken&nbsp;Jee-FF0000?style=flat-square&logo=Youtube&logoColor=white)](https://www.youtube.com/watch?v=BZFfNwj7JhE)|[![](https://img.shields.io/badge/-Data&nbsp;Science&nbsp;Role&nbsp;&#8208;&nbsp;Krish&nbsp;Naik-FF0000?style=flat-square&logo=Youtube&logoColor=white)](https://www.youtube.com/watch?v=8LZYMd4MYI0)|
 |[![](https://img.shields.io/badge/-Data&nbsp;Analyst&nbsp;Roadmap&nbsp;&#8208;&nbsp;Krish&nbsp;Naik-FF0000?style=flat-square&logo=Youtube&logoColor=white)](https://www.youtube.com/watch?v=lzP14izI4lQ)|[![](https://img.shields.io/badge/-Data&nbsp;Engineer&nbsp;Roadmap&nbsp;&#8208;&nbsp;Seattle&nbsp;Data&nbsp;Guy-FF0000?style=flat-square&logo=Youtube&logoColor=white)](https://www.youtube.com/watch?v=SpaFPPByOhM&t=277s)|
-|[![](https://img.shields.io/badge/-Best&nbsp;Jobs&nbsp;in&nbsp;Data&nbsp;Science&nbsp;&#8208;&nbsp;Luke&nbsp;Barousse-FF0000?style=flat-square&logo=Youtube&logoColor=white)](https://www.youtube.com/watch?v=VrdnBxx8BBI)||
+|[![](https://img.shields.io/badge/-Best&nbsp;Jobs&nbsp;in&nbsp;Data&nbsp;Science&nbsp;&#8208;&nbsp;Luke&nbsp;Barousse-FF0000?style=flat-square&logo=Youtube&logoColor=white)](https://www.youtube.com/watch?v=VrdnBxx8BBI)|[![](https://img.shields.io/badge/-Data&nbsp;Science&nbsp;Roadmap&nbsp;2022&nbsp;&#8208;&nbsp;Krish&nbsp;Naik-FF0000?style=flat-square&logo=Youtube&logoColor=white)](https://www.youtube.com/watch?v=C9eZclkoWSs)|
 
 > **KeyPoint:** 
 > - There are various role in Data Science

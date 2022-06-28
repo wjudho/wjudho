@@ -196,8 +196,11 @@ i've been searching every blog, youtube, books just for the sake to get the answ
 
 > “Recipes tell you nothing. Learning techniques is the key.” **— Tom Colicchio**
 
-This scientist using addition, others are using multiply, and others are using division. Is there a standardized or common practice in this field?
+<center>
+<strong> 
 
+# How Much Statistics Do I Need to Learn?</strong>
+</center>
 <br>
 ---------------------------------------------------
 

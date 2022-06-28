@@ -350,13 +350,22 @@ as someone who came from business background i think these videos will be less i
 |:-|:-|:-|
 |[![](https://img.shields.io/badge/-Why&nbsp;People&nbsp;Hates&nbsp;Statistics&nbsp;by&nbsp;Dr&nbsp;Nic-FF0000?style=flat-square&logo=Youtube&logoColor=white)](https://www.youtube.com/watch?v=feKpK7eZKHQ&list=PLm9FYjKtq7Py0tUCVrALZqyLXW6Ea8xXI&index=1)|[![](https://img.shields.io/badge/-Why&nbsp;Statistical&nbsp;Methods&nbsp;are&nbsp;Needed-FF0000?style=flat-square&logo=Youtube&logoColor=white)](https://www.youtube.com/watch?v=y3A0lUkpAko&list=PLm9FYjKtq7PyqaxpVkODL_PramidLWPcB&index=2)|[![](https://img.shields.io/badge/-Summary&nbsp;Statistics:&nbsp;What&nbsp;are&nbsp;They&nbsp;and&nbsp;Which&nbsp;One&nbsp;to&nbsp;Use-FF0000?style=flat-square&logo=Youtube&logoColor=white)](https://www.youtube.com/watch?v=rAN6DBctgJ0&list=PLm9FYjKtq7PwzPtOUpabf-BWEaohdHMWK&index=2)|
 |[![](https://img.shields.io/badge/-How&nbsp;to&nbsp;Learn&nbsp;Statistics&nbsp;by&nbsp;Dr&nbsp;Nic-FF0000?style=flat-square&logo=Youtube&logoColor=white)](https://www.youtube.com/watch?v=gSrruN0thAQ&list=PLm9FYjKtq7Py0tUCVrALZqyLXW6Ea8xXI&index=2)|[![](https://img.shields.io/badge/-Statistical&nbsp;Graphs&nbsp;and&nbsp;When&nbsp;to&nbsp;Use&nbsp;Them&nbsp;by&nbsp;Dr&nbsp;Nic-FF0000?style=flat-square&logo=Youtube&logoColor=white)](https://www.youtube.com/watch?v=rllw15xkmUU&list=PLm9FYjKtq7PwzPtOUpabf-BWEaohdHMWK&index=4)|[![](https://img.shields.io/badge/-Standard&nbsp;Deviation&nbsp;and&nbsp;Other&nbsp;Measure&nbsp;of&nbsp;Spread&nbsp;by&nbsp;Dr&nbsp;Nic-FF0000?style=flat-square&logo=Youtube&logoColor=white)](https://www.youtube.com/watch?v=w5vQoJhrEDA&list=PLm9FYjKtq7PwzPtOUpabf-BWEaohdHMWK&index=3)|
-|-|[![](https://img.shields.io/badge/-Choosing&nbsp;Which&nbsp;Charts&nbsp;to&nbsp;Use&nbsp;by&nbsp;Simple&nbsp;Learning-FF0000?style=flat-square&logo=Youtube&logoColor=white)](https://www.youtube.com/watch?v=uHRqkGXX55I&list=PL0KQuRyPJoe6KjlUM6iNYgt8d0DwI-IGR&index=2)|[![](https://img.shields.io/badge/-Choosing&nbsp;Which&nbsp;Statistical&nbsp;Tests&nbsp;to&nbsp;Use&nbsp;by&nbsp;Dr&nbsp;Nic-FF0000?style=flat-square&logo=Youtube&logoColor=white)](https://www.youtube.com/watch?v=rulIUAN0U3w&list=PLm9FYjKtq7PyqaxpVkODL_PramidLWPcB&index=7)|
+|[![](https://img.shields.io/badge/-Feynman&nbsp;Technique-FF0000?style=flat-square&logo=Youtube&logoColor=white)](https://www.youtube.com/watch?v=JmhfOjuAaew&list=PL0o_zxa4K1BVcjGPB03gXgkRQvgn6M8b8)|[![](https://img.shields.io/badge/-Choosing&nbsp;Which&nbsp;Charts&nbsp;to&nbsp;Use&nbsp;by&nbsp;Simple&nbsp;Learning-FF0000?style=flat-square&logo=Youtube&logoColor=white)](https://www.youtube.com/watch?v=uHRqkGXX55I&list=PL0KQuRyPJoe6KjlUM6iNYgt8d0DwI-IGR&index=2)|[![](https://img.shields.io/badge/-Choosing&nbsp;Which&nbsp;Statistical&nbsp;Tests&nbsp;to&nbsp;Use&nbsp;by&nbsp;Dr&nbsp;Nic-FF0000?style=flat-square&logo=Youtube&logoColor=white)](https://www.youtube.com/watch?v=rulIUAN0U3w&list=PLm9FYjKtq7PyqaxpVkODL_PramidLWPcB&index=7)|
 
-### **The Complete Statistics Playlist**
+### **The Complete Statistics in Machine Learning Playlist**
 
 <center>
 
 [![](https://img.shields.io/badge/-Statistics&nbsp;in&nbsp;Machine&nbsp;Learning&nbsp;by&nbsp;Krish&nbsp;Naik-FF0000?style=flat-square&logo=Youtube&logoColor=white)](https://www.youtube.com/playlist?list=PLZoTAELRMXVMhVyr3Ri9IQ-t5QPBtxzJO)
+</center>
+
+### **Intro to Statistics (Full Equation)**
+
+Use this as a study aid, whenever there's a calculation occurs and understanding needed.
+
+<center>
+
+[![](https://img.shields.io/badge/-Intro&nbsp;to&nbsp;Statistics&nbsp;by&nbsp;Organic&nbsp;Chemistry&nbsp;Tutor-FF0000?style=flat-square&logo=Youtube&logoColor=white)](https://www.youtube.com/playlist?list=PL0o_zxa4K1BVsziIRdfv4Hl4UIqDZhXWV)
 </center>
 
 --------------------------------------------------------------------------

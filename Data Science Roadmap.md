@@ -357,6 +357,7 @@ as someone who came from business background i think these videos will be less i
 
 [![](https://img.shields.io/badge/-Statistics&nbsp;in&nbsp;Machine&nbsp;Learning&nbsp;by&nbsp;Krish&nbsp;Naik-FF0000?style=flat-square&logo=Youtube&logoColor=white)](https://www.youtube.com/playlist?list=PLZoTAELRMXVMhVyr3Ri9IQ-t5QPBtxzJO)
 </center>
+
 --------------------------------------------------------------------------
 # PART III
 

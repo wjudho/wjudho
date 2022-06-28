@@ -345,6 +345,12 @@ as someone who came from business background i think these videos will be less i
 <img width="707" height="116" src="https://raw.githubusercontent.com/wjudho/wjudho/main/images/setup2.png">
 </p>
 
+<p align="center">
+<img width="811" height="328" src="https://raw.githubusercontent.com/wjudho/wjudho/main/images/DS%20Statistics.png">
+</p>
+
+
+
 ### **Prerequisite**
 |How to Learn|Basic|Measure|
 |:-|:-|:-|

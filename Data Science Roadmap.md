@@ -351,8 +351,12 @@ as someone who came from business background i think these videos will be less i
 |[![](https://img.shields.io/badge/-How&nbsp;to&nbsp;Learn&nbsp;Statistics&nbsp;by&nbsp;Dr&nbsp;Nic-FF0000?style=flat-square&logo=Youtube&logoColor=white)](https://www.youtube.com/watch?v=gSrruN0thAQ&list=PLm9FYjKtq7Py0tUCVrALZqyLXW6Ea8xXI&index=2)|[![](https://img.shields.io/badge/-Statistical&nbsp;Graphs&nbsp;and&nbsp;When&nbsp;to&nbsp;Use&nbsp;Them&nbsp;by&nbsp;Dr&nbsp;Nic-FF0000?style=flat-square&logo=Youtube&logoColor=white)](https://www.youtube.com/watch?v=rllw15xkmUU&list=PLm9FYjKtq7PwzPtOUpabf-BWEaohdHMWK&index=4)|[![](https://img.shields.io/badge/-Standard&nbsp;Deviation&nbsp;and&nbsp;Other&nbsp;Measure&nbsp;of&nbsp;Spread&nbsp;by&nbsp;Dr&nbsp;Nic-FF0000?style=flat-square&logo=Youtube&logoColor=white)](https://www.youtube.com/watch?v=w5vQoJhrEDA&list=PLm9FYjKtq7PwzPtOUpabf-BWEaohdHMWK&index=3)|
 |-|[![](https://img.shields.io/badge/-Choosing&nbsp;Which&nbsp;Charts&nbsp;to&nbsp;Use&nbsp;by&nbsp;Simple&nbsp;Learning-FF0000?style=flat-square&logo=Youtube&logoColor=white)](https://www.youtube.com/watch?v=uHRqkGXX55I&list=PL0KQuRyPJoe6KjlUM6iNYgt8d0DwI-IGR&index=2)|[![](https://img.shields.io/badge/-Choosing&nbsp;Which&nbsp;Statistical&nbsp;Tests&nbsp;to&nbsp;Use&nbsp;by&nbsp;Dr&nbsp;Nic-FF0000?style=flat-square&logo=Youtube&logoColor=white)](https://www.youtube.com/watch?v=rulIUAN0U3w&list=PLm9FYjKtq7PyqaxpVkODL_PramidLWPcB&index=7)|
 
+### **The Complete Statistics Playlist**
 
+<center>
 
+[![](https://img.shields.io/badge/-Statistics&nbsp;in&nbsp;Machine&nbsp;Learning&nbsp;by&nbsp;Krish&nbsp;Naik-FF0000?style=flat-square&logo=Youtube&logoColor=white)](https://www.youtube.com/playlist?list=PLZoTAELRMXVMhVyr3Ri9IQ-t5QPBtxzJO)
+</center>
 --------------------------------------------------------------------------
 # PART III
 

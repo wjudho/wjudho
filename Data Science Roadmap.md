@@ -352,7 +352,14 @@ as someone who came from business background i think these videos will be less i
 
 <p align="center">
 <img width="811" height="328" src="https://raw.githubusercontent.com/wjudho/wjudho/main/images/DS%20Statistics.png">
+
 </p>
+
+<center>
+
+## Since We cannot know all that there is to be known about anything, We ought to know a little about everything.” — **Blaise Pascal**
+
+</center>
 
 
 
@@ -379,10 +386,17 @@ Use this as a study aid, whenever there's a calculation occurs and understanding
 [![](https://img.shields.io/badge/-Intro&nbsp;to&nbsp;Statistics&nbsp;by&nbsp;Organic&nbsp;Chemistry&nbsp;Tutor-FF0000?style=flat-square&logo=Youtube&logoColor=white)](https://www.youtube.com/playlist?list=PL0o_zxa4K1BVsziIRdfv4Hl4UIqDZhXWV)
 </center>
 
+## **SQL, Tableau, PowerBI**
+
+> you might realize that i don't put any SQL, tableau, and powerBI tutorials up until now. There are far too many good tutorials on the internet about this and it's tempting to just put those tutorial in this list right away. But i'am afraid learning too much will leads to shy away from the big purpose of this learning process which is **macro to micro**. For example datasets are already provided by Data Scientist in `Kaggle`, how did they do it? right, so it will be great to learn these later, but no problem i will link them here:
+> - [![](https://img.shields.io/badge/-Intro&nbsp;to&nbsp;SQL:&nbsp;Querying&nbsp;and&nbsp;Managing&nbsp;Data-14BF96?style=flat-square&logo=KhanAcademy&logoColor=white)](https://www.khanacademy.org/computing/computer-programming/sql)
+> - [![](https://img.shields.io/badge/-Tableau&nbsp;by&nbsp;Shashank-FF0000?style=flat-square&logo=Youtube&logoColor=white)](https://www.youtube.com/watch?v=Gl2lg-TtRJo&t=162s) 
+> - [![](https://img.shields.io/badge/-PowerBI&nbsp;by&nbsp;codebasics-FF0000?style=flat-square&logo=Youtube&logoColor=white)](https://www.youtube.com/playlist?list=PLeo1K3hjS3uva8pk1FI3iK9kCOKQdz1I9)
+
 --------------------------------------------------------------------------
 # PART III
 
-# **The Tutorials**
+# **How to Think**
 
 <p align="center">
 <img width="375" height="350" src="https://www.quotemaster.org/images/aa/aaa979b1968fd57e3f771ab4e96b40d5.jpg">
@@ -394,6 +408,32 @@ Use this as a study aid, whenever there's a calculation occurs and understanding
 ## "Tell me and I forget. Teach me and I remember. Involve me and I learn." – **Benjamin Franklin**
 
 </center>
+
+> Before you do any practical approach in your Data Science journey, let's stop for a moment and take a time to read an article of **[[How to use First Principle Thinking to Solve Data Science Problem](https://towardsdatascience.com/how-to-use-first-principle-thinking-to-solve-data-science-problems-db94bc5af21)]**. <br>
+
+> What i'am trying to say is, do not let the tools (programming language) fool us into the thinking that that is the most important thing. There are to many steps in between questions and answer, or problem and solutions. For me it's always easier to start from Macro to Micro all the time. 
+> - `Statistics` teach us how to think, 
+> - `Python` will help in practical aspect regarding computation and making our life easier, 
+> - then the last one which is `our job` is gonna be "what to think" which is `First Principle Thinking`<br>
+
+<center>
+
+## Our brain is mapping the world. Often that map is distorted, but it's a map with constant immediate sensory input. - **E. O. Wilson**
+</center><br>
+
+# **How Do I Learn If I Don't Know The Whole Picture**
+
+- **Basics:** will help in understanding the tutorial
+- **Tutorials:** will helps in show us from the beginning to the end process faster.
+- **Projects:** will helps in building our experience faster. Whether you understand or not it won't be a problem, learning can go along the way. How many problem you solve will be a key to be a Data Scientist in my perspective. This is what I believe.
+> ### The problem is there are infinite problem to solve in the world. No learning will be enough. Understand that this is not a goal, rather a journey.
+<br>
+
+<center>
+
+## Since We cannot know all that there is to be known about anything, We ought to know a little about everything.” — **Blaise Pascal**
+
+</center><br>
 
 ## **Full Data Science Workflow**
 

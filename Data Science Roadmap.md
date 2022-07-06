@@ -265,9 +265,8 @@ to understand general view of Statistics and how it's application in Data Scienc
 |:-|:-|
 |[![](https://img.shields.io/badge/-Data&nbsp;Science&nbsp;Life&nbsp;Cycle&nbsp;&#8208;&nbsp;Krish&nbsp;Naik-FF0000?style=flat-square&logo=Youtube&logoColor=white)](https://www.youtube.com/watch?v=jkoOpXaD0H4)|[![](https://img.shields.io/badge/-Implementation&nbsp;Data&nbsp;Science&nbsp;&#8208;&nbsp;Krish&nbsp;Naik-FF0000?style=flat-square&logo=Youtube&logoColor=white)](https://www.youtube.com/watch?v=Qz7erR3zVUc)|
 
-## Data Science from Business Perspective
+## **Data Science from Business Perspective**
 
-![]()
 
 <p align="center">
 <img width="535" height="270" src="https://raw.githubusercontent.com/wjudho/wjudho/main/images/Site%20Map.png">
@@ -278,6 +277,24 @@ as someone who came from business background i think these videos will be less i
 ||||||
 |:-|:-|:-|:-|:-|
 |[![](https://img.shields.io/badge/-DataScience-FF0000?style=flat-square&logo=Youtube&logoColor=white)](https://www.youtube.com/watch?v=24G_pfcl3qE)|[![](https://img.shields.io/badge/-Descriptive-FF0000?style=flat-square&logo=Youtube&logoColor=white)](https://www.youtube.com/watch?v=cHGhSj_Ax-0)|[![](https://img.shields.io/badge/-Diagnostic-FF0000?style=flat-square&logo=Youtube&logoColor=white)](https://www.youtube.com/watch?v=BPshmz9qxxU)|[![](https://img.shields.io/badge/-Predictive-FF0000?style=flat-square&logo=Youtube&logoColor=white)](https://www.youtube.com/watch?v=4y6fUC56KPw)|[![](https://img.shields.io/badge/-Prescriptive-FF0000?style=flat-square&logo=Youtube&logoColor=white)](https://www.youtube.com/watch?v=046dYegfGrc&list=PLwM2SFDcolcK9WIpn50JkELC0grYP5Pyu&index=3)|
+
+## **Where to Start**
+
+> As I was started jump to some tutorial, again i was lost my `macro to micro`. I forgot the most important and fundamental thing in this tutorial. You may ask what is that?
+
+> # **Am I learning for the sake of learning or am I learning to find a job**
+
+Please take a moment to watch these videos. Understand the field hearing from the data scientist themselves will get you to the real truth. Dealing with hard truth early will save you tons of time later on. (please watch in order)
+
+||
+|:-|
+|[![](https://img.shields.io/badge/-1.&nbsp;Six&nbsp;Certifications&nbsp;in&nbsp;Data&nbsp;Science&nbsp;but&nbsp;No&nbsp;Jobs&nbsp;by&nbsp;Krishn&nbsp;Naik-FF0000?style=flat-square&logo=Youtube&logoColor=white)](https://youtu.be/Q6GfF8fB7E4)|
+|[![](https://img.shields.io/badge/-2.&nbsp;The&nbsp;One&nbsp;and&nbsp;Only&nbsp;Data&nbsp;Science&nbsp;Project&nbsp;You&nbsp;Need&nbsp;by&nbsp;StrataScratch-FF0000?style=flat-square&logo=Youtube&logoColor=white)](https://youtu.be/c4Af2FcgamA)|
+|[![](https://img.shields.io/badge/-3.&nbsp;how&nbsp;I&nbsp;Learned&nbsp;Data&nbsp;Science&nbsp;(Resources&nbsp;to&nbsp;Get&nbsp;a&nbsp;Job)&nbsp;in&nbsp;2021&nbsp;by&nbsp;Stratascratch-FF0000?style=flat-square&logo=Youtube&logoColor=white)](https://youtu.be/0GpgMvyN0Fg)|
+
+**Key Points:**
+> - This whole learning process that I wrote, only cover on how map the data science field to kick start where to start, not to teach you. And as you go along you will realize that data science has many role you will have to choose which one you think you will pursue.
+> - I'am stumbled on what to write in this section. there are so many job role, each won't fit for every person. So my advice won't be necessary. `Just remember` that as you go along you journey in building projects you will get curious tendency to a specific role. When that time come, focus it on you project, `but` do not shy away from our fundamental goal which is `looking for a job` 
 
 --------------------------------------------
 

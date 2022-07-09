@@ -38,6 +38,7 @@
 |[![GitHub](https://img.shields.io/badge/-Mobile&nbsp;Legends&nbsp;&#8208;&nbsp;read&#x5f;html()-181717?style=flat-square&logo=Github)](https://github.com/wjudho/webscraping/blob/main/mlbbhtml.ipynb)|[![GitHub](https://img.shields.io/badge/-MLBB&nbsp;&#8211;&nbsp;Data&nbsp;Preprocessing,&nbsp;Cleaning&nbsp;and&nbsp;Web&nbsp;Scraping-181717?style=flat-square&logo=Kaggle)](https://www.kaggle.com/code/kacang/mlbb-data-preprocessing-cleaning-web-scraping)|-|
 |[![GitHub](https://img.shields.io/badge/-CNBC&nbsp;Indonesia&nbsp;&#8208;&nbsp;Youtube&nbsp;APIs&nbsp;V3-181717?style=flat-square&logo=Github)](https://github.com/wjudho/webscraping/blob/main/youtube/cnbc.ipynb)|-|-|
 |[![GitHub](https://img.shields.io/badge/-Google&nbsp;Search&nbsp;&#8208;&nbsp;Serpapi&nbsp;APIs-181717?style=flat-square&logo=Github)](https://github.com/wjudho/webscraping/blob/main/google/googlenews.ipynb)|||
+|[![GitHub](https://img.shields.io/badge/-Google&nbsp;Search&nbsp;Indomaret&nbsp;&#8208;&nbsp;Serpapi&nbsp;APIs-181717?style=flat-square&logo=Github)](https://github.com/wjudho/webscraping/blob/main/google/googlesearch-indomaret.ipynb)|||
 <br>
 
 ## :man_student: Certificates

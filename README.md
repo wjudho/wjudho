@@ -40,6 +40,7 @@
 |[![GitHub](https://img.shields.io/badge/-Google&nbsp;Search&nbsp;&#8208;&nbsp;Serpapi&nbsp;APIs-181717?style=flat-square&logo=Github)](https://github.com/wjudho/webscraping/blob/main/google/googlenews.ipynb)|||
 |[![GitHub](https://img.shields.io/badge/-Google&nbsp;Search&nbsp;Indomaret&nbsp;&#8208;&nbsp;Serpapi&nbsp;APIs-181717?style=flat-square&logo=Github)](https://github.com/wjudho/webscraping/blob/main/google/googlesearch-indomaret.ipynb)|||
 |[![GitHub](https://img.shields.io/badge/-Google&nbsp;News&nbsp;&#8208;&nbsp;BeautifulSoap&nbsp;(NoPagination)-181717?style=flat-square&logo=Github)](https://github.com/wjudho/webscraping/blob/main/google/manual.ipynb)|||
+|[![GitHub](https://img.shields.io/badge/-How&nbsp;to&nbsp;Quickly&nbsp;Scrape&nbsp;Table&nbsp;from&nbsp;Website&nbsp;&#8211;&nbsp;Pandas-181717?style=flat-square&logo=Github)](https://github.com/wjudho/webscraping/blob/main/read_html.ipynb)|||
 <br>
 
 ## :man_student: Certificates

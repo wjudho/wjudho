@@ -31,6 +31,7 @@
 [![](https://img.shields.io/badge/-MicrosoftExcel-217346?style=flat-square&logo=MicrosoftExcel&logoColor=white)](https://www.microsoft.com/en-us/microsoft-365/excel)
 [![](https://img.shields.io/badge/-Windows-0078D6?style=flat-square&logo=Windows&logoColor=white)](https://www.microsoft.com/en-us/windows)
 [![](https://img.shields.io/badge/-PowerBI-F2C811?style=flat-square&logo=PowerBI&logoColor=white)](https://docs.microsoft.com/en-us/power-bi/fundamentals/desktop-latest-update-archive?tabs=powerbi-desktop#february-2022-update-21026830)
+[![](https://img.shields.io/badge/-Playwright-2EAD33?style=flat-square&logo=Playwright&logoColor=white)](https://playwright.dev/python/docs/intro)
 
 ## :desktop_computer: Portfolio
 |Web Scraping|Data Science|Blog|
